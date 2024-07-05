@@ -1,0 +1,113 @@
+﻿Category,Category_Description,Attribute,Human_Description,Normalization Operation,Normalization_instruction,Normalization_JSON_schema,Normalization_ENUM
+Office Products,"The 'Office Products' category typically includes a wide range of items used in office settings, such as stationery, office furniture, printers, copiers, and organizational supplies.",Brand,The brand name distinguishes one seller's good or service from those of other sellers. ,Name Expansion,The name should correspond to the brand's most popular and expected spelling format.,,
+Grocery And Gourmet Food,The 'Grocery and Gourmet Food' category encompasses a diverse array of edible products ranging from everyday food items and sweets to beverages such as water and tea.,Brand,The brand name distinguishes one seller's good or service from those of other sellers. ,Name Expansion,The name should correspond to the brand's most popular and expected spelling format.,,
+Jewelry,"The 'Jewelry' category features a wide assortment of adornments, including necklaces, bracelets, and rings. It is particularly focused on wedding bands.",Brand,The brand name distinguishes one seller's good or service from those of other sellers. ,Name Expansion,The name should correspond to the brand's most popular and expected spelling format.,,
+Home And Garden,"The 'Home and Garden' category contains products related to the daily household and garden use, especially Kitchen ware.",Color,Color of the product.,Generalization,"Assign 'n/a' unknown or categorize the color into one of the following options:
+-Black
+-White
+-Brown
+-Green
+-Beige
+-Gray and Metallic
+-Blue
+-Red
+-Pink
+-Yellow
+-Purple
+-Assorted/Others
+-No Color/Transparent",,"{""enum"" : [""Black"", ""White"", ""Brown"", ""Green"", ""Beige"", ""Gray and Metallic"", ""Blue"", ""Red"", ""Pink"", ""Yellow"", ""Purple"", ""Assorted/Others"", ""No Color/Transparent"", ""n/a""]}"
+Office Products,"The 'Office Products' category typically includes a wide range of items used in office settings, such as stationery, office furniture, printers, copiers, and organizational supplies.",Color(s),Color of the product.,Generalization,"Assign 'n/a' unknown or categorize the color into one of the following options:
+-Black
+-White
+-Brown
+-Green
+-Beige
+-Gray and Metallic
+-Blue
+-Red
+-Pink
+-Yellow
+-Purple
+-Assorted/Others
+-No Color/Transparent",,"{""enum"" : [""Black"", ""White"", ""Brown"", ""Green"", ""Beige"", ""Gray and Metallic"", ""Blue"", ""Red"", ""Pink"", ""Yellow"", ""Purple"", ""Assorted/Others"", ""No Color/Transparent"", ""n/a""]}"
+Home And Garden,"The ""Home and Garden"" category contains products related to the daily household and garden use, especially Kitchen ware.",Depth,Depth is used in combintation with width and hight. Depth is usually shorter than width.,Unit of Measurement Normalization,"Values must be converted to centimeters if they are mainted in other units such as inches (in), feet (ft) or meters (m).
+If no unit is specified in the input, assume the initial measurement is in inches.
+The output value is a numeric figure in centimetres, rounded to one decimal place.","{""description"":""Depth is used in combintation with width and hight. Depth is usually shorter than width."",""type"":""object"",""properties"":{""value"":{""description"":""The depth as numeric value."",""type"":""string""},""unit_of_measurement"":{""description"":""Unit of Measurement"",""type"":""string"", ""example"":[""in"",""ft"",""m""]}}}",
+Office Products,"The ""Office Products"" category typically includes a wide range of items used in office settings, such as stationery, office furniture, printers, copiers, and organizational supplies.",Depth,Depth is used in combintation with width and hight. Depth is usually shorter than width.,Unit of Measurement Normalization,"Values must be converted to centimeters if they are mainted in other units such as inches (in), feet (ft) or meters (m).
+If no unit is specified in the input, assume the initial measurement is in inches.
+The output value is a numeric figure in centimetres, rounded to one decimal place.","{""description"":""Depth is used in combintation with width and hight. Depth is usually shorter than width."",""type"":""object"",""properties"":{""value"":{""description"":""The depth as numeric value."",""type"":""string""},""unit_of_measurement"":{""description"":""Unit of Measurement"",""type"":""string"", ""example"":[""in"",""ft"",""m""]}}}",
+Grocery And Gourmet Food,The 'Grocery and Gourmet Food' category encompasses a diverse array of edible products ranging from everyday food items and sweets to beverages such as water and tea.,Flavor,The characteristic taste of a food product.,String Wrangling,Return a single lowercased flavor value or a list of lowercased flavors seperated by comma.,,
+Jewelry,"The 'Jewelry' category features a wide assortment of adornments, including necklaces, bracelets, and rings. It is particularly focused on wedding bands.",Gender,Gender defines the intended audience for a particular piece of jewelry based on traditional or cultural norms. ,Generalization,,,"{""enum"" : [""Ladies"", ""Gents"", ""Unisex"", ""n/a""]}"
+Home And Garden,"The 'Home and Garden' category contains products related to the daily household and garden use, especially Kitchen ware.",Heat,Heat describes the sources for heat. ,Generalization,The sources of heat can either be 'gas' or 'electric'.,,"{""enum"" : [""gas"", ""electric"", ""n/a""]}"
+Home And Garden,"The ""Home and Garden"" category contains products related to the daily household and garden use, especially Kitchen ware.",Height,Height is used in combintation with width and depth. Height is the vertical dimension of the product.,Unit of Measurement Normalization,"Values must be converted to centimeters if they are mainted in other units such as inches (in), feet (ft) or meters (m).
+If no unit is specified in the input, assume the initial measurement is in inches.
+The output value is a numeric figure in centimetres, rounded to one decimal place.","{""description"":""Height is used in combintation with width and depth. Height is the vertical dimension of the product."",""type"":""object"",""properties"":{""value"":{""description"":""The height as numeric value."",""type"":""string""},""unit_of_measurement"":{""description"":""Unit of Measurement"",""type"":""string"", ""example"":[""in"",""ft"",""m""]}}}",
+Office Products,"The ""Office Products"" category typically includes a wide range of items used in office settings, such as stationery, office furniture, printers, copiers, and organizational supplies.",Height,Height is used in combintation with width and depth. Height is the vertical dimension of the product.,Unit of Measurement Normalization,"Values must be converted to centimeters if they are mainted in other units such as inches (in), feet (ft) or meters (m).
+If no unit is specified in the input, assume the initial measurement is in inches.
+The output value is a numeric figure in centimetres, rounded to one decimal place.","{""description"":""Height is used in combintation with width and depth. Height is the vertical dimension of the product."",""type"":""object"",""properties"":{""value"":{""description"":""The height as numeric value."",""type"":""string""},""unit_of_measurement"":{""description"":""Unit of Measurement"",""type"":""string"", ""example"":[""in"",""ft"",""m""]}}}",
+Office Products,"The ""Office Products"" category typically includes a wide range of items used in office settings, such as stationery, office furniture, printers, copiers, and organizational supplies.",Length,"The ""Length"" attribute determines the length of a tape, paper role or rubber band. This attribute is not part of the three dimensional item dimensions, which are width, height and depth. ",Unit of Measurement Normalization,"Values must be converted to centimeters if they are mainted in other units such as inches (in), feet (ft) or meters (m).
+If no unit is specified in the input, assume the initial measurement is in inches.
+The output value is a numeric figure in centimetres, rounded to one decimal place.","{""description"":""Length determines the length of a tape, paper role or rubber band. This attribute is not part of the three dimensional item dimensions, which are width, height and depth."",""type"":""object"",""properties"":{""value"":{""description"":""The length as numeric value."",""type"":""string""},""unit_of_measurement"":{""description"":""Unit of Measurement"",""type"":""string"", ""example"":[""in"",""ft"",""m""]}}}",
+Home And Garden,"The 'Home and Garden' category contains products related to the daily household and garden use, especially Kitchen ware.",Manufacturer,The name of the company or entity that produces the item.,Name Expansion,The name should correspond to the manufacturer's most popular and expected spelling format.,,
+Home And Garden,"The 'Home and Garden' category contains products related to the daily household and garden use, especially Kitchen ware.",Manufacturer Stock Number,"The 'Manufacturer Stock Number' uniquely identifies a product, distinguishing it from other items produced by the manufacturer.",String Wrangling,Normalize the value as defined by the manufacturer.,,
+Office Products,"The 'Office Products' category typically includes a wide range of items used in office settings, such as stationery, office furniture, printers, copiers, and organizational supplies.",Manufacturer Stock Number,"The 'Manufacturer Stock Number' uniquely identifies a product, distinguishing it from other items produced by the manufacturer.",String Wrangling,Normalize the value as defined by the manufacturer.,,
+Grocery And Gourmet Food,The 'Grocery and Gourmet Food' category encompasses a diverse array of edible products ranging from everyday food items and sweets to beverages such as water and tea.,Manufacturer Stock Number,"The 'Manufacturer Stock Number' uniquely identifies a product, distinguishing it from other items produced by the manufacturer.",String Wrangling,Normalize the value as defined by the manufacturer.,,
+Home And Garden,"The 'Home and Garden' category contains products related to the daily household and garden use, especially Kitchen ware.",Material,Material(s) used to build the product.,String Wrangling,Lowercase the extracted material values.,,
+Office Products,"The 'Office Products' category typically includes a wide range of items used in office settings, such as stationery, office furniture, printers, copiers, and organizational supplies.",Material,Material(s) used to build the product.,String Wrangling,Lowercase the extracted material values.,,
+Jewelry,"The 'Jewelry' category features a wide assortment of adornments, including necklaces, bracelets, and rings. It is particularly focused on wedding bands.",Metal Type,The 'Metal Type' used to create the piece of jewelry.,String Wrangling,Lowercase the extracted metal type and add the karat (k) if applicable.,,
+Jewelry,"The 'Jewelry' category features a wide assortment of adornments, including necklaces, bracelets, and rings. It is particularly focused on wedding bands.",Model Number,The 'Model Number' attribute refers an alphanumeric code that is used to uniquely identify the Jewelry product.,String Wrangling,Normalize the value as defined by the manufacturer.,,
+Office Products,"The ""Office Products"" category typically includes a wide range of items used in office settings, such as stationery, office furniture, printers, copiers, and organizational supplies.",Pack Quantity,The number of individual items per purchasing unit. ,Unit of Measurement Normalization,Return quantiy per purchasing unit or quantity of units.,"{""description"":""The number of individual items per purchasing unit."",""type"":""object"",""properties"":{""value"":{""description"":""The number of individual items."",""type"":""string""},""purchasing_unit"":{""description"":""Purchasing Unit"",""type"":""string"", ""example"":[""case"",""pack""]}}}",
+Grocery And Gourmet Food,"The ""Grocery and Gourmet Food"" category encompasses a diverse array of edible products ranging from everyday food items and sweets to beverages such as water and tea.",Pack Quantity,The number of individual items per purchasing unit. ,Unit of Measurement Normalization,Return quantiy per purchasing unit or quantity of units. Lowercase the unit.,"{""description"":""The number of individual items per purchasing unit."",""type"":""object"",""properties"":{""value"":{""description"":""The number of individual items."",""type"":""string""},""purchasing_unit"":{""description"":""Purchasing Unit"",""type"":""string"", ""example"":[""case"",""pack""]}}}",
+Grocery And Gourmet Food,The 'Grocery and Gourmet Food' category encompasses a diverse array of edible products ranging from everyday food items and sweets to beverages such as water and tea.,Packing Type,The 'Packing Type' of Groceries refers to the manner in which the item is packaged for transportation. ,String Wrangling,Lowercase the extracted value.,,
+Office Products,"The ""Office Products"" category typically includes a wide range of items used in office settings, such as stationery, office furniture, printers, copiers, and organizational supplies.",Paper Weight,"The ""Paper Weight"" attribute refers to the thickness and weight of paper, typically measured in pounds (lb) or grams per square meter (g/m²).",Unit of Measurement Normalization,"Convert the paper weight from lbs (pounds) or grams to kilograms (KG).
+Round the final value in KG to one decimal place and return only the numeric value.","{""description"": ""Paper Weight refers to the weight and thickness of a paper."",""type"":""object"",""properties"":{""value"":{""description"":""The weight as numeric value."",""type"":""string""},""unit_of_measurement"":{""description"":""Unit of Measurement"",""type"":""string"", ""example"":[""lb"",""g/m²""]}}}",
+Home And Garden,"The 'Home and Garden' category contains products related to the daily household and garden use, especially Kitchen ware.",Product Type,Product Type from the list of possible values.,Generalization,"The product type must be a value from the following list: 
+-Food and Drink Preparation and Cooking Equipment
+-Ice Machines, Bins and Makers
+-Food and Beverage Storage, Dispensers, Serving, Display and Refrigeration
+-Tableware
+-Smokers Equipment
+-Dishwashers and related Equipment
+-Cleaning, Sinks, Maintenance Equipment and Trash Disposal
+-Carts, Dollies and Transportation
+-Furniture, Storage, Racks and Fixtures
+-Office and Organizational Supplies
+-Accessories, Miscellaneous",,"{""enum"": [""Food and Drink Preparation and Cooking Equipment"", ""Ice Machines, Bins and Makers"", ""Food and Beverage Storage, Dispensers, Serving, Display and Refrigeration"", ""Tableware"", ""Smokers Equipment"", ""Dishwashers and related Equipment"", ""Cleaning, Sinks, Maintenance Equipment and Trash Disposal"",""Carts, Dollies and Transportation"", ""Furniture, Storage, Racks and Fixtures"", ""Office and Organizational Supplies"", ""Accessories, Miscellaneous""]}"
+Office Products,"The 'Office Products' category typically includes a wide range of items used in office settings, such as stationery, office furniture, printers, copiers, and organizational supplies.",Product Type,Product Type from the list of possible values.,Generalization,"The product type must be a value from the following list: 
+-Writing/Erasing Instruments and Accessories
+-Paper Products 
+-Printing, Copying, Laminating 
+-Folders, Dividers, Indexing, Flags, Labels, Cases, Holders, Bindings
+-Office Furniture and Ergonomic Products 
+-Board and Presentation Materials 
+-Shipping and Packaging, Envelopes 
+-Cleaning and Maintenance 
+-Stationery and Desk Accessories
+-Stickers and Badges
+-Time, Planning and Organization 
+-Miscellaneous",,"{""enum"": [""Writing/Erasing Instruments and Accessories"", ""Paper Products "", ""Printing, Copying, Laminating "", ""Folders, Dividers, Indexing, Flags, Labels, Cases, Holders, Bindings"", ""Office Furniture and Ergonomic Products "", ""Board and Presentation Materials "", ""Shipping and Packaging, Envelopes "", ""Cleaning and Maintenance "", ""Stationery and Desk Accessories"", ""Stickers and Badges"", ""Time, Planning and Organization "", ""Miscellaneous""]}"
+Grocery And Gourmet Food,The 'Grocery and Gourmet Food' category encompasses a diverse array of edible products ranging from everyday food items and sweets to beverages such as water and tea.,Product Type,Product Type from the list of possible values.,Generalization,"The product type must be a value from the following list: 
+- Coffee and Tea
+- Beverages
+- Snacks and Breakfast
+- Kitchen and Dining Accessories
+- Sweeteners and Sugars
+- Health Foods and Protein Powders",,"{""enum"": [""Coffee and Tea"", ""Beverages"", ""Snacks and Breakfast"", ""Kitchen and Dining Accessories"", ""Sweeteners and Sugars"", ""Health Foods and Protein Powders""]}"
+Jewelry,"The 'Jewelry' category features a wide assortment of adornments, including necklaces, bracelets, and rings. It is particularly focused on wedding bands.",Product Type,Product Type from the list of possible values.,Generalization,"The product type must be a value from the following list:
+- Rings/Bands
+- Bracelets
+- Necklace/Chain
+- Earrings
+- Miscellaneous",,"{""enum"": [""Rings/Bands"", ""Bracelets"", ""Necklace/Chain"", ""Earrings"", ""Miscellaneous""]}"
+Home And Garden,"The 'Home and Garden' category contains products related to the daily household and garden use, especially Kitchen ware.",Retail UPC,"Retail UPC describes the ""Universal Product Code"". ",String Wrangling,Normalize to 12 digits or assign 'n/a' if unknown.,,
+Office Products,"The 'Office Products' category typically includes a wide range of items used in office settings, such as stationery, office furniture, printers, copiers, and organizational supplies.",Retail UPC,"Retail UPC describes the ""Universal Product Code"". ",String Wrangling,Normalize to 12 digits or assign 'n/a' if unknown.,,
+Grocery And Gourmet Food,The 'Grocery and Gourmet Food' category encompasses a diverse array of edible products ranging from everyday food items and sweets to beverages such as water and tea.,Retail UPC,"Retail UPC describes the ""Universal Product Code"". ",String Wrangling,Normalize to 12 digits or assign 'n/a' if unknown.,,
+Grocery And Gourmet Food,"The ""Grocery and Gourmet Food"" category encompasses a diverse array of edible products ranging from everyday food items and sweets to beverages such as water and tea.",Size/Weight,"The ""Size/Weight"" attribute refers to the weight, size or volume of a product. Typically, it is measured in grams (g) or ounces (oz).",Unit of Measurement Normalization,"Convert the weight from lbs (pounds) or kilograms to grams.
+Round the final value in grams to a full number and return only the numeric value","{""description"": ""Size/Weight attribute refers to the weight, size or volume of a product."",""type"":""object"",""properties"":{""value"":{""description"":""The quantity mentioned in the product offer."",""type"":""string""},""unit_of_measurement"":{""description"":""The unity of measurement."",""type"":""string"", ""example"":[""g"",""oz""]}}}",
+Home And Garden,"The 'Home and Garden' category contains products related to the daily household and garden use, especially Kitchen ware.",Voltage,Voltage defines the electrical potential difference that the appliance is designed to operate with.,String Wrangling,Return a numeric value followed by 'V' for voltage.,,
+Home And Garden,"The ""Home and Garden"" category contains products related to the daily household and garden use, especially Kitchen ware.",Width,Width is used in combintation with depth and hight. Width is usually longer than depth.,Unit of Measurement Normalization,"Values must be converted to centimeters if they are mainted in other units such as inches (in), feet (ft) or meters (m).
+If no unit is specified in the input, assume the initial measurement is in inches.
+The output value is a numeric figure in centimetres, rounded to one decimal place.","{""description"":""Width is used in combintation with depth and hight. Width is usually longer than depth."",""type"":""object"",""properties"":{""value"":{""description"":""The width as numeric value."",""type"":""string""},""unit_of_measurement"":{""description"":""Unit of Measurement"",""type"":""string"", ""example"":[""in"",""ft"",""m""]}}}",
+Office Products,"The ""Office Products"" category typically includes a wide range of items used in office settings, such as stationery, office furniture, printers, copiers, and organizational supplies.",Width,Width is used in combintation with depth and hight. Width is usually longer than depth.,Unit of Measurement Normalization,"Values must be converted to centimeters if they are mainted in other units such as inches (in), feet (ft) or meters (m).
+If no unit is specified in the input, assume the initial measurement is in inches.
+The output value is a numeric figure in centimetres, rounded to one decimal place.","{""description"":""Width is used in combintation with depth and hight. Width is usually longer than depth."",""type"":""object"",""properties"":{""value"":{""description"":""The width as numeric value."",""type"":""string""},""unit_of_measurement"":{""description"":""Unit of Measurement"",""type"":""string"", ""example"":[""in"",""ft"",""m""]}}}",
