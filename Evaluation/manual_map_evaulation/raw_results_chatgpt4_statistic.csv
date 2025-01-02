@@ -1,0 +1,1726 @@
+Category,Attribute,Count,Percentage
+grocery,Product Title,29,7.11
+grocery,Product Type,6,1.47
+grocery,Capacity,3,0.74
+grocery,Brand,24,5.88
+grocery,Series,3,0.74
+grocery,Product Description,2,0.49
+grocery,Volume,5,1.23
+grocery,Packaging,6,1.47
+grocery,Pricing,2,0.49
+grocery,Line,1,0.25
+grocery,Product title,8,1.96
+grocery,Variant,1,0.25
+grocery,Type,4,0.98
+grocery,Model,4,0.98
+grocery,Glass Type,1,0.25
+grocery,Size,5,1.23
+grocery,Product Series,1,0.25
+grocery,Manufacture,1,0.25
+grocery,Pricing Type,1,0.25
+grocery,Packing,2,0.49
+grocery,Product_title,2,0.49
+grocery,Product_code,1,0.25
+grocery,Product_type,1,0.25
+grocery,Flavor,10,2.45
+grocery,Serve,1,0.25
+grocery,ProductTitle,2,0.49
+grocery,Description,2,0.49
+grocery,FoodType,1,0.25
+grocery,CapacityWeight,1,0.25
+grocery,PackingType,2,0.49
+grocery,UPC,12,2.94
+grocery,Quantity,12,2.94
+grocery,Design,4,0.98
+grocery,Best For,1,0.25
+grocery,Product_Title,1,0.25
+grocery,Product_description,2,0.49
+grocery,Product code,2,0.49
+grocery,Weight,2,0.49
+grocery,Recommended by,2,0.49
+grocery,Free of,1,0.25
+grocery,Sweetened,2,0.49
+grocery,Gluten Free,2,0.49
+grocery,Fiber content,2,0.49
+grocery,Certified,1,0.25
+grocery,Whole grain content,2,0.49
+grocery,Low Sodium,1,0.25
+grocery,Facility,1,0.25
+grocery,Ingredients,5,1.23
+grocery,Health recognition,1,0.25
+grocery,Pack quantity,1,0.25
+grocery,Pack size,1,0.25
+grocery,E-commerce platform,1,0.25
+grocery,Award,1,0.25
+grocery,Free from,1,0.25
+grocery,Sodium content,1,0.25
+grocery,Bakery type,1,0.25
+grocery,Bakery specifications,1,0.25
+grocery,Food type,1,0.25
+grocery,Cookies flavor,1,0.25
+grocery,Packing type,1,0.25
+grocery,Connection with,1,0.25
+grocery,Listed in,1,0.25
+grocery,Certifications,3,0.74
+grocery,Commitment,1,0.25
+grocery,Supplier,6,1.47
+grocery,Product Code,5,1.23
+grocery,Certification,1,0.25
+grocery,Free From,1,0.25
+grocery,Contains,1,0.25
+grocery,Sodium Level,2,0.49
+grocery,Food Type,3,0.74
+grocery,Weight Capacity,1,0.25
+grocery,Packing Type,5,1.23
+grocery,Social Responsibility,1,0.25
+grocery,Whole Grain Content,1,0.25
+grocery,Allergen Information,2,0.49
+grocery,Artificial Content,1,0.25
+grocery,Trans Fat,2,0.49
+grocery,Soy Content,1,0.25
+grocery,Rice Content,1,0.25
+grocery,Cholesterol Content,1,0.25
+grocery,Recommended,1,0.25
+grocery,Pack Size,3,0.74
+grocery,Dietary Information,1,0.25
+grocery,Flavors,1,0.25
+grocery,Total Capacity (Weight),1,0.25
+grocery,Cookies Type,2,0.49
+grocery,Product Variety Pack,1,0.25
+grocery,Cookie Flavours,1,0.25
+grocery,Contains Whole Grain,1,0.25
+grocery,Low Glycemic,1,0.25
+grocery,Nut Free,1,0.25
+grocery,Certified Source of Whole Grain,1,0.25
+grocery,Vanilla Mini Cookies Features,1,0.25
+grocery,Vanilla Mini Cookies Organic Ingredients,1,0.25
+grocery,Manufacturer,1,0.25
+grocery,SKU,1,0.25
+grocery,Material,3,0.74
+grocery,Insulation,2,0.49
+grocery,Double-cupping need,1,0.25
+grocery,Beverage sleeves need,1,0.25
+grocery,Polystyrene foam,1,0.25
+grocery,Cup Volume,1,0.25
+grocery,Model Number,2,0.49
+grocery,Vendor,2,0.49
+grocery,Polystyrene Foam,1,0.25
+grocery,Features,3,0.74
+grocery,Compostability,1,0.25
+grocery,Alternate Item Number,1,0.25
+grocery,Inner Packaging,1,0.25
+grocery,Product Nature,1,0.25
+grocery,Brewing Equipment,1,0.25
+grocery,Coffee Origin,1,0.25
+grocery,ProductDescription,1,0.25
+grocery,BeverageType,1,0.25
+grocery,Roast Type,1,0.25
+grocery,Quantity per Box,1,0.25
+grocery,Coffee Type,1,0.25
+grocery,Product Number,2,0.49
+grocery,Return Policy,1,0.25
+grocery,Coffee quality,1,0.25
+grocery,Coffee Roast,1,0.25
+grocery,Coffee Flavor,1,0.25
+grocery,Compatibility,1,0.25
+grocery,Alternate Item,1,0.25
+grocery,Ingredient,1,0.25
+grocery,Purpose,1,0.25
+grocery,Intended Use,3,0.74
+grocery,Special Feature,2,0.49
+grocery,Package Quantity,1,0.25
+grocery,Package Size,2,0.49
+grocery,Composition,1,0.25
+grocery,Convenience,1,0.25
+grocery,Form,1,0.25
+grocery,Premeasured,1,0.25
+grocery,Color,1,0.25
+grocery,Product Form,1,0.25
+grocery,Product Provider,1,0.25
+grocery,Beverage Type,2,0.49
+grocery,Capacity (Volume),2,0.49
+grocery,Product type,2,0.49
+grocery,Bottle volume,1,0.25
+grocery,Quantity per Carton,1,0.25
+grocery,product_title,2,0.49
+grocery,product_brand,1,0.25
+grocery,product_code,2,0.49
+grocery,source,1,0.25
+grocery,size,1,0.25
+grocery,quantity_per_pack,1,0.25
+grocery,natural_source_of,1,0.25
+grocery,suitable_for,1,0.25
+grocery,product_pack,1,0.25
+grocery,store,1,0.25
+grocery,flavor,1,0.25
+grocery,food_type,1,0.25
+grocery,capacity_weight,1,0.25
+grocery,packing_type,1,0.25
+grocery,Product Category,2,0.49
+grocery,Cup Capacity,2,0.49
+grocery,Programmable,3,0.74
+grocery,Water Filtration,3,0.74
+grocery,Carafes Supported,1,0.25
+grocery,Removable Filter Basket,3,0.74
+grocery,Brewing Pause Feature,1,0.25
+grocery,Dimensions,4,0.98
+grocery,Auto Shut-off,2,0.49
+grocery,Special Cleaning Cycle,1,0.25
+grocery,Page,1,0.25
+grocery,Bundle Includes,1,0.25
+grocery,Outlet,1,0.25
+grocery,Recognition,1,0.25
+grocery,Title,1,0.25
+grocery,Programmability,1,0.25
+grocery,Carafes,1,0.25
+grocery,Additional Feature,1,0.25
+grocery,Cleaning,3,0.74
+grocery,Category,3,0.74
+grocery,Cup Size,1,0.25
+grocery,Carafe,1,0.25
+grocery,Feature,1,0.25
+grocery,Auto Shut-Off,2,0.49
+grocery,Recognitions,1,0.25
+grocery,Brewing Capacity,1,0.25
+grocery,Brewing Pause 'n Serve,1,0.25
+grocery,BPA Free,2,0.49
+grocery,Microwave Safe,2,0.49
+grocery,Dishwasher Safe,2,0.49
+grocery,Special Features,1,0.25
+grocery,Brewing Process,1,0.25
+grocery,Warmer,1,0.25
+grocery,Width,1,0.25
+grocery,Depth,1,0.25
+grocery,Capacity (Weight),1,0.25
+grocery,Compostable,1,0.25
+grocery,CUBE,1,0.25
+grocery,Product ID,1,0.25
+grocery,Provider,1,0.25
+grocery,Components,1,0.25
+grocery,Organic,1,0.25
+grocery,Serving Size,1,0.25
+grocery,Item Number,1,0.25
+grocery,Preparation,1,0.25
+grocery,Cleanup,1,0.25
+grocery,Item model number,1,0.25
+grocery,Additional_Title,1,0.25
+grocery,Food_Type,1,0.25
+grocery,Capacity_Weight,1,0.25
+grocery,Packing_Type,1,0.25
+grocery,Calories,1,0.25
+home,Product Title,111,5.96
+home,Features,17,0.91
+home,Certification,29,1.56
+home,Warranty,10,0.54
+home,Product,1,0.05
+home,Specifications,5,0.27
+home,Product title,62,3.33
+home,Vat,1,0.05
+home,Voltage,14,0.75
+home,Type,44,2.36
+home,Well,1,0.05
+home,Capacity,22,1.18
+home,Controls,3,0.16
+home,Material,77,4.14
+home,Amperage,4,0.21
+home,Power,7,0.38
+home,Color,49,2.63
+home,Compartments,11,0.59
+home,Extenders,5,0.27
+home,Size,37,1.99
+home,Maximum Diameter,7,0.38
+home,Maximum Height,7,0.38
+home,Product Description,8,0.43
+home,Number of Compartments,3,0.16
+home,Max Diameter,3,0.16
+home,Max Height,3,0.16
+home,Product_Title,7,0.38
+home,Stemware_or_Tumbler_Maximum_Diameter,1,0.05
+home,Manufacturer,10,0.54
+home,MPN_Model,1,0.05
+home,UPC_EAN,1,0.05
+home,Made_in,1,0.05
+home,Condition,3,0.16
+home,Dishwasher_Safe,1,0.05
+home,Stackable,2,0.11
+home,NSF_Approved,1,0.05
+home,Case_Pack,1,0.05
+home,Shipping_Weight,1,0.05
+home,Ships_Via,1,0.05
+home,Fuel,3,0.16
+home,Burners Configuration,1,0.05
+home,Ignition,1,0.05
+home,Ovens,4,0.21
+home,Racks per Oven,1,0.05
+home,Flue Riser Size,5,0.27
+home,Construction,9,0.48
+home,Total BTU,5,0.27
+home,Certifications,20,1.07
+home,Gas Type,4,0.21
+home,Width,23,1.24
+home,Burner Configuration,1,0.05
+home,Ignition Type,5,0.27
+home,Oven Configuration,1,0.05
+home,Oven Rack Include,1,0.05
+home,Flue Riser,3,0.16
+home,Legs,13,0.7
+home,Total heat output,1,0.05
+home,Product type,5,0.27
+home,Fuel type,2,0.11
+home,Burners,6,0.32
+home,Base,7,0.38
+home,Flue riser size,1,0.05
+home,BTU,6,0.32
+home,Brand,48,2.58
+home,Fuel Type,7,0.38
+home,Burners Description,1,0.05
+home,Oven Type,2,0.11
+home,Racks,3,0.16
+home,Adjustable Legs,2,0.11
+home,Dimensions,30,1.61
+home,Tier,1,0.05
+home,Temperature tolerance range,1,0.05
+home,Number of shelf plates,1,0.05
+home,Material of Shelf Plates,1,0.05
+home,Protection,2,0.11
+home,Number of posts,1,0.05
+home,Additional features,4,0.21
+home,Pre-assembled,1,0.05
+home,Number of stationary traverses,1,0.05
+home,Dovetails,1,0.05
+home,Model,22,1.18
+home,Shelving Dimensions,1,0.05
+home,Temperature Resistance,1,0.05
+home,Includes,4,0.21
+home,Operation Mode,1,0.05
+home,Blade Size,1,0.05
+home,Applicable For,1,0.05
+home,Product attributes,1,0.05
+home,Top Material,5,0.27
+home,Height,12,0.64
+home,Length,15,0.81
+home,Undershelf,4,0.21
+home,Table Height,2,0.11
+home,Metal Gauge,1,0.05
+home,Metal Type,1,0.05
+home,Table Size,1,0.05
+home,Table Type,2,0.11
+home,Table Material,3,0.16
+home,Top Width,2,0.11
+home,Riser Size,1,0.05
+home,Table Length,4,0.21
+home,Undershelf Material,2,0.11
+home,Gauge,6,0.32
+home,Stainless Type,2,0.11
+home,Product Attributes,3,0.16
+home,Temperature Range,1,0.05
+home,Door,1,0.05
+home,Frequency,3,0.16
+home,Cord Length,2,0.11
+home,Plug Type,5,0.27
+home,Standards,3,0.16
+home,Amps,3,0.16
+home,Thermostat,3,0.16
+home,Door Type,3,0.16
+home,Wattage,4,0.21
+home,Product dimensions,4,0.21
+home,Storage,1,0.05
+home,Product description,6,0.32
+home,Construction material,2,0.11
+home,Insulation material,1,0.05
+home,Casters,11,0.59
+home,Brakes,1,0.05
+home,Product color,1,0.05
+home,Manufacturer Part Number,1,0.05
+home,UPC,12,0.64
+home,Made in,2,0.11
+home,Case Pack,1,0.05
+home,Shipping Weight,2,0.11
+home,Shipping Via,1,0.05
+home,Product Category,4,0.21
+home,Installation,2,0.11
+home,Power Type,1,0.05
+home,Griddle Plate Material,2,0.11
+home,Griddle Area,1,0.05
+home,Construction Material,4,0.21
+home,Power Output,2,0.11
+home,Supplier,6,0.32
+home,Power type,1,0.05
+home,Cooking Surface Dimensions,1,0.05
+home,Phase,3,0.16
+home,Series,4,0.21
+home,Top Type,2,0.11
+home,Dimensions (WxD),1,0.05
+home,Backsplash,9,0.48
+home,Top,2,0.11
+home,Leg Material,11,0.59
+home,Feet Type,3,0.16
+home,Product Type,20,1.07
+home,Front Material,2,0.11
+home,Side Material,1,0.05
+home,Base Type,4,0.21
+home,Additional Feature,4,0.21
+home,Base Material,1,0.05
+home,Fuel_Type,1,0.05
+home,Location,2,0.11
+home,Depth,9,0.48
+home,Grate_Material,2,0.11
+home,Grate_Design,1,0.05
+home,Rock_Holder_Material,2,0.11
+home,Front_Material,2,0.11
+home,Balance_Material,2,0.11
+home,Energy_Rating,1,0.05
+home,Grate Material,1,0.05
+home,Grate Removable In,1,0.05
+home,Rock Holder Material,1,0.05
+home,Balance Material,1,0.05
+home,Export Model,1,0.05
+home,Product_title,5,0.27
+home,Power_Source,1,0.05
+home,Product_Type,2,0.11
+home,Placement,1,0.05
+home,Grate_Details,1,0.05
+home,Leg_Details,1,0.05
+home,Power_Rating,1,0.05
+home,Model_Details,1,0.05
+home,Seller,3,0.16
+home,Design,4,0.21
+home,Casters Size,1,0.05
+home,Regulator,2,0.11
+home,Hoses,1,0.05
+home,Pilot,2,0.11
+home,Cooking Grid Material,1,0.05
+home,Extra Purchase Requirement,1,0.05
+home,Manufacturer or Supplier Item,1,0.05
+home,ProductTitle,5,0.27
+home,Approval,2,0.11
+home,Transportable,1,0.05
+home,Materials,2,0.11
+home,Radiants,2,0.11
+home,LegMaterial,2,0.11
+home,CompleteGasSystem,1,0.05
+home,Tanks,1,0.05
+home,Water Tubs,1,0.05
+home,Cooking Grids,1,0.05
+home,Legs Material,2,0.11
+home,Gas System,1,0.05
+home,Ignitor,1,0.05
+home,Gas Tanks,1,0.05
+home,Description,5,0.27
+home,Maximum Stemware or Tumbler Diameter,2,0.11
+home,Manufacturer Details,1,0.05
+home,Features and Product Details,1,0.05
+home,Dimensions & Packaging Info,1,0.05
+home,Warranty Info,1,0.05
+home,Number of Extenders,2,0.11
+home,Maker,1,0.05
+home,Type of product,1,0.05
+home,Product sub-category,1,0.05
+home,Max. dia.,1,0.05
+home,Max. height,1,0.05
+home,Product Brand,4,0.21
+home,Product Series,1,0.05
+home,Bin Depth,1,0.05
+home,Drain Diameter,1,0.05
+home,Bottle Racks,1,0.05
+home,Back Splash,3,0.16
+home,Deep Bin,1,0.05
+home,Drain,1,0.05
+home,Attributes,9,0.48
+home,Product Code,8,0.43
+home,Market,1,0.05
+home,Commercial or Residential,1,0.05
+home,Efficiency,2,0.11
+home,Finish,5,0.27
+home,Energy Efficiency,2,0.11
+home,Mount,1,0.05
+home,Stain Resistant,1,0.05
+home,Heat Resistant,1,0.05
+home,Motor Power Level,1,0.05
+home,Noise Level,1,0.05
+home,Manufacturing Location,1,0.05
+home,Amount per pack,1,0.05
+home,Properties,1,0.05
+home,Age Group,1,0.05
+home,Characteristic,1,0.05
+home,Feature,2,0.11
+home,Appearance,1,0.05
+home,Product Features,1,0.05
+home,Number of pieces,2,0.11
+home,Letter height,1,0.05
+home,Letter thickness,1,0.05
+home,Age Recommendation,1,0.05
+home,Adhesive,1,0.05
+home,Shape,8,0.43
+home,Flow Direction,1,0.05
+home,Crossrails,3,0.16
+home,Feet Material,4,0.21
+home,Additional Information,1,0.05
+home,Direction,2,0.11
+home,Additional Features,3,0.16
+home,Delivery,1,0.05
+home,Product specifications,1,0.05
+home,Load Capacity,1,0.05
+home,Caster Type,3,0.16
+home,Product additional title,1,0.05
+home,Number of shelves,1,0.05
+home,Shelf type,2,0.11
+home,Weight capacity per shelf,1,0.05
+home,Number of Shelves,1,0.05
+home,Capacity per shelf,1,0.05
+home,Gallon,1,0.05
+home,Diameter,4,0.21
+home,Product category,1,0.05
+home,Available from,1,0.05
+home,Retailer,3,0.16
+home,Product_category,1,0.05
+home,Duty_type,1,0.05
+home,Control Type,4,0.21
+home,Settings,1,0.05
+home,Cleanliness,1,0.05
+home,Pre-programmed Menu,1,0.05
+home,Power Save,1,0.05
+home,Notification Type,1,0.05
+home,Power Levels,1,0.05
+home,Stage Cooking,1,0.05
+home,Ease of Cleaning,1,0.05
+home,One Touch Cook Function,1,0.05
+home,Energy Save Function,1,0.05
+home,Cooking Completion Indicator,1,0.05
+home,Max. Rack,1,0.05
+home,MPN / Model,1,0.05
+home,UPC / EAN,1,0.05
+home,Made In,1,0.05
+home,Dishwasher Safe,1,0.05
+home,Ships Via,1,0.05
+home,Warranty Terms,1,0.05
+home,Number of compartments,2,0.11
+home,Maximum diameter,1,0.05
+home,Maximum height,1,0.05
+home,Sink Specifications,2,0.11
+home,Faucet,2,0.11
+home,Urn Trough,2,0.11
+home,Trough feature,1,0.05
+home,Counter Top Edge,2,0.11
+home,Drain Plate,1,0.05
+home,Undershelves,1,0.05
+home,Table Legs,1,0.05
+home,Base Rack,1,0.05
+home,Measurements,2,0.11
+home,Inside stack height,2,0.11
+home,Number of extenders,1,0.05
+home,Inside rack height,1,0.05
+home,NSF,3,0.16
+home,Countertop,1,0.05
+home,product_title,4,0.21
+home,brand,1,0.05
+home,location,1,0.05
+home,product_description,3,0.16
+home,size,1,0.05
+home,model,1,0.05
+home,Region,1,0.05
+home,Language,1,0.05
+home,Product Capacity,2,0.11
+home,Alternate Title,1,0.05
+home,Shelving Type,1,0.05
+home,Circuit Plate Type,1,0.05
+home,Insulation,3,0.16
+home,Material of Circuits,1,0.05
+home,Leg Feature,1,0.05
+home,Circuit Type,1,0.05
+home,Ice Bin Depth,1,0.05
+home,Ice Bin Type,1,0.05
+home,Dimension,3,0.16
+home,Weight Type,1,0.05
+home,Category,3,0.16
+home,Shelf Quantity,1,0.05
+home,Shelf Size,1,0.05
+home,Handle,2,0.11
+home,Weight Capacity,1,0.05
+home,Shelves,8,0.43
+home,Edge Type,1,0.05
+home,Bumpers,1,0.05
+home,Welding,1,0.05
+home,Vendor,5,0.27
+home,Sections,2,0.11
+home,Door Material,1,0.05
+home,Door Handle,1,0.05
+home,Number of Drawers,3,0.16
+home,Drawer Handle Material,1,0.05
+home,Interior Material,3,0.16
+home,Exterior Material,6,0.32
+home,Shelving,1,0.05
+home,Refrigeration System,2,0.11
+home,Power Requirement,1,0.05
+home,Number of Doors,2,0.11
+home,Product Sections,1,0.05
+home,Number of Stainless Steel Doors,1,0.05
+home,Door Style,1,0.05
+home,Drawer Style,1,0.05
+home,Number of Stainless Steel Shelves,1,0.05
+home,Foot Type,2,0.11
+home,Backsplash Height,1,0.05
+home,Splash,3,0.16
+home,Table Gauge,1,0.05
+home,Edge,1,0.05
+home,Legs Gauge,1,0.05
+home,Feet,4,0.21
+home,Compatible With,2,0.11
+home,Premium,1,0.05
+home,Swivel,1,0.05
+home,Brake,1,0.05
+home,Compatibility,1,0.05
+home,Volume,1,0.05
+home,Fire Resistant,2,0.11
+home,Approvals,4,0.21
+home,Product Variant,1,0.05
+home,Deck Material,1,0.05
+home,Dimensions (L x W),1,0.05
+home,Reinforcement Material,1,0.05
+home,Deck,1,0.05
+home,Deck Size,1,0.05
+home,Reinforcement,1,0.05
+home,Rubber Pads Thickness,1,0.05
+home,Assembly,2,0.11
+home,Table top width,1,0.05
+home,Table top length,1,0.05
+home,Top thickness,1,0.05
+home,Lock mechanism,1,0.05
+home,Edge design,1,0.05
+home,Foot caps,1,0.05
+home,Leg material,2,0.11
+home,ProductDescription,1,0.05
+home,Use,5,0.27
+home,Lid Securement,1,0.05
+home,Rust Resistance,1,0.05
+home,Spigot,1,0.05
+home,Stackability,1,0.05
+home,Included Extras,1,0.05
+home,Compartment Quantity,1,0.05
+home,Mounting Location,1,0.05
+home,Front-to-back Measurement,1,0.05
+home,Drain Opening,2,0.11
+home,Trim Size,2,0.11
+home,Usability,1,0.05
+home,Mounting Type,1,0.05
+home,Front-to-back,1,0.05
+home,Mount Type,1,0.05
+home,Has Drain Opening,1,0.05
+home,Usage Note,1,0.05
+home,Wide Top,1,0.05
+home,Riser,4,0.21
+home,Posts Material,1,0.05
+home,Riser Height,1,0.05
+home,Post Material,2,0.11
+home,Stainless Steel Type,2,0.11
+home,Compartment,1,0.05
+home,Indoor/Outdoor,1,0.05
+home,Function,1,0.05
+home,Recommended use,1,0.05
+home,Backsplash size,1,0.05
+home,Edge type,1,0.05
+home,Turndown,1,0.05
+home,Bracing,2,0.11
+home,Compliance,1,0.05
+home,Steel Type,1,0.05
+home,Top Backsplash,1,0.05
+home,Edge Front,1,0.05
+home,Sides Feature,1,0.05
+home,KD,1,0.05
+home,Style,2,0.11
+home,Cooling Method,3,0.16
+home,Production,1,0.05
+home,Cube Size,1,0.05
+home,attributes,1,0.05
+home,Levels,1,0.05
+home,Lighting,2,0.11
+home,Ends Material,2,0.11
+home,Top Doors,1,0.05
+home,Rear Doors,1,0.05
+home,Safety Standards,1,0.05
+home,Sanitation Standards,1,0.05
+home,HP,1,0.05
+home,Refrigeration Type,1,0.05
+home,Exterior,2,0.11
+home,Interior Lighting,2,0.11
+home,Rear,1,0.05
+home,Safety approvals,1,0.05
+home,Sanitation approvals,1,0.05
+home,Motor Power,1,0.05
+home,Additional_Feature,1,0.05
+home,Leg size,1,0.05
+home,Heat output,1,0.05
+home,Gas_Type,1,0.05
+home,Fryer_Type,1,0.05
+home,Weight_Capacity,1,0.05
+home,Basket_Material,1,0.05
+home,Basket_Quantity,1,0.05
+home,Temperature_Control_Range,1,0.05
+home,Pilot_Type,1,0.05
+home,Kettle_Material,1,0.05
+home,Leg_Dimension,1,0.05
+home,Heat_Output,1,0.05
+home,Product Dimensions,1,0.05
+home,Product Load Capacity,1,0.05
+home,Product Duty,1,0.05
+home,Product Material,2,0.11
+home,Tube Size,1,0.05
+home,Support Bars,1,0.05
+home,Wheel Size,1,0.05
+home,Tube Spacing,1,0.05
+home,Guaranty,2,0.11
+home,Mobility,1,0.05
+home,Load_Type,1,0.05
+home,Tube_Dimension,1,0.05
+home,Support_Bars,1,0.05
+home,Tube_Spacing,1,0.05
+home,Doors,1,0.05
+home,Keel Compatibility,1,0.05
+home,Sub Top Material,1,0.05
+home,External Finish Color,1,0.05
+home,Wall & Ceiling Material,1,0.05
+home,Floor Material,2,0.11
+home,Refrigeration,2,0.11
+home,Parts Origin,1,0.05
+home,Material of Shelves,1,0.05
+home,Keg Capacity,1,0.05
+home,Exterior Finish,1,0.05
+home,Wall Material,1,0.05
+home,Ceiling Material,1,0.05
+home,Hp,1,0.05
+home,Ice Type,2,0.11
+home,Cooling System,1,0.05
+home,Storage Capacity,2,0.11
+home,Production Rate,1,0.05
+home,Custom Cabinet Compatible,1,0.05
+home,CleanCycle Auto-flush,1,0.05
+home,Greaseless Bearings,1,0.05
+home,Model_Number,1,0.05
+home,Cube_Type,1,0.05
+home,Cooling_Type,1,0.05
+home,Daily_Ice_Production,1,0.05
+home,Storage_Bin_Capacity,1,0.05
+home,Condenser_Type,1,0.05
+home,Exterior_Material,1,0.05
+home,Custom_Cabinet_Door_Accommodation,1,0.05
+home,Approval_Types,1,0.05
+home,Power_Consumption,1,0.05
+home,IceStyle,1,0.05
+home,CoolingType,1,0.05
+home,Condenser,3,0.16
+home,IceProduction,1,0.05
+home,StorageCapacity,1,0.05
+home,ExteriorMaterial,1,0.05
+home,PowerSupply,1,0.05
+home,Ice Production Capacity,3,0.16
+home,Ice Style,2,0.11
+home,Custom Cabinet Door,1,0.05
+home,Usage,3,0.16
+home,Self-contained Condenser,1,0.05
+home,Ice Storage Capacity,1,0.05
+home,Use Case,1,0.05
+home,Characteristics,1,0.05
+home,Customization,1,0.05
+home,Built-in Storage,1,0.05
+home,Operation,2,0.11
+home,Antimicrobial Agent,1,0.05
+home,Refrigerant,2,0.11
+home,Current,1,0.05
+home,CEC Compliance,1,0.05
+home,ADA Compliance,1,0.05
+home,Maker Type,1,0.05
+home,Cooling Type,1,0.05
+home,Ice Production,1,0.05
+home,Built-In Storage,1,0.05
+home,Bin Material,1,0.05
+home,CEC Compliant,1,0.05
+home,Ice Dispensing Height,1,0.05
+home,Surfaces ,1,0.05
+home,Surface Resistance,1,0.05
+home,Weight,2,0.11
+home,Handling,1,0.05
+home,Handles,1,0.05
+home,Corner Shape,1,0.05
+home,Total Capacity,1,0.05
+home,Casters Type,1,0.05
+home,Casters Configuration,1,0.05
+home,Assembly Required,2,0.11
+home,Burner Type,2,0.11
+home,Number of Burners,1,0.05
+home,Grate Type,2,0.11
+home,Griddle Size,2,0.11
+home,Griddle Position,2,0.11
+home,Oven Ignition,2,0.11
+home,Number of Oven Racks,1,0.05
+home,Leg Size,1,0.05
+home,Burner Count,1,0.05
+home,Pilot Type,1,0.05
+home,Included Items,1,0.05
+home,Flue Riser Type,1,0.05
+home,Griddle,5,0.27
+home,Griddle Controls,1,0.05
+home,Ignition system,1,0.05
+home,Oven type,1,0.05
+home,Included,1,0.05
+home,range_type,1,0.05
+home,fuel_type,1,0.05
+home,range_width,1,0.05
+home,burner_type,1,0.05
+home,burner_count,1,0.05
+home,griddle_width,1,0.05
+home,griddle_position,1,0.05
+home,oven_control,1,0.05
+home,oven_base,1,0.05
+home,pilot_type,1,0.05
+home,flue_riser_width,1,0.05
+home,shelf_type,1,0.05
+home,material,1,0.05
+home,legs,1,0.05
+home,heat_output,1,0.05
+home,certifications,1,0.05
+home,BacksplashSize,1,0.05
+home,Front&SideRims,1,0.05
+home,CrossrailsMaterial,1,0.05
+home,Orientation,1,0.05
+home,Rolled Front & Side Rims,1,0.05
+home,Crossrails Material,1,0.05
+home,Product size,1,0.05
+home,NSF Certified,2,0.11
+home,Leg Materials,1,0.05
+home,Crossrails Materials,1,0.05
+home,Table Width,1,0.05
+home,Crossrail Material,1,0.05
+home,Backsplash Length,1,0.05
+home,Grates,2,0.11
+home,Shelf,1,0.05
+home,Range Width,1,0.05
+home,Standard Grates,1,0.05
+home,Ignition System,1,0.05
+home,Energy Output,1,0.05
+home,RangeType,1,0.05
+home,TotalLength,1,0.05
+home,BurnerTypes,1,0.05
+home,OvenBase,1,0.05
+home,FlueRiser,1,0.05
+home,EnergyOutput,1,0.05
+home,Width of Top,1,0.05
+home,Height of Riser,1,0.05
+home,Type of Steel,1,0.05
+home,Product_1,2,0.11
+home,Product_2,2,0.11
+home,Product 1,3,0.16
+home,Product 2,3,0.16
+home,Caster Diameter,1,0.05
+home,Threaded Stem,1,0.05
+home,Wheel Capacity,1,0.05
+home,Wheel Properties,1,0.05
+home,Have Brake,1,0.05
+home,Products,1,0.05
+home,Product1,1,0.05
+home,Product2,1,0.05
+home,Special Feature,1,0.05
+home,Support,1,0.05
+home,Tabletop Material,1,0.05
+home,Countertop Edge,1,0.05
+home,Quantity,9,0.48
+home,Product Size,1,0.05
+home,Ply,4,0.21
+home,Towel Type,1,0.05
+home,Additional Info,1,0.05
+home,Hygiene,1,0.05
+home,Product Cleaner Type,1,0.05
+home,Material Compatibility,1,0.05
+home,Incompatible Material,1,0.05
+home,Application,2,0.11
+home,Dirt Types,1,0.05
+home,Scent,1,0.05
+home,Formula Type,1,0.05
+home,Can be used On,1,0.05
+home,Not for Use on,1,0.05
+home,Fragrance,1,0.05
+home,Effective Against,1,0.05
+home,Functions,1,0.05
+home,Package Contains,1,0.05
+home,Container_type,1,0.05
+home,Effectiveness,1,0.05
+home,Use_surface,1,0.05
+home,Intended_Environment,1,0.05
+home,Number of Fixed Shelves,1,0.05
+home,Number of Adjustable Shelves,1,0.05
+home,Model Number,1,0.05
+home,Adjustability of Shelves,1,0.05
+home,Quality,1,0.05
+home,Shipping,1,0.05
+home,Alternate Item,4,0.21
+home,Adjustment,1,0.05
+home,Location of use,1,0.05
+home,Counting method,1,0.05
+home,Item_Code,1,0.05
+home,Mat_Type,1,0.05
+home,Sales_Team_Contact,1,0.05
+home,Discount_Exclusion,1,0.05
+home,Product ID,2,0.11
+home,Product_code,1,0.05
+home,Product_Name,1,0.05
+home,Wipe_Type,1,0.05
+home,Wipe_Effectiveness,1,0.05
+home,EPA_Registration,1,0.05
+home,Packaging,2,0.11
+home,Unit,1,0.05
+home,Alternate_Items,1,0.05
+home,Inner_Packaging,1,0.05
+home,product_attributes,1,0.05
+home,Icemaker,1,0.05
+home,Temperature Controls,1,0.05
+home,Freezer Compartment,1,0.05
+home,Evaporator,1,0.05
+home,Air Management,1,0.05
+home,Humidity Control,1,0.05
+home,Produce Pan,1,0.05
+home,No. of Burners,1,0.05
+home,Burner BTU,1,0.05
+home,Shelf Material,1,0.05
+home,Gas Connection,1,0.05
+home,Dealer,1,0.05
+home,Range Type,1,0.05
+home,Hot Tops,1,0.05
+home,Extra Features,1,0.05
+home,Ideal For,2,0.11
+home,Suitable Drinks,1,0.05
+home,Collection,2,0.11
+home,Quantity In Set,1,0.05
+home,Suitable For,1,0.05
+home,Hot Top,1,0.05
+home,Primary Use,1,0.05
+home,Secondary Use,1,0.05
+home,Thickness,4,0.21
+home,Product Line,1,0.05
+home,Moisture Absorbency,1,0.05
+home,Suitable for,1,0.05
+home,Backing Material,1,0.05
+home,Top Gauge,1,0.05
+home,Gussets,1,0.05
+home,Set includes,1,0.05
+home,Glass Properties,1,0.05
+home,Lid Properties,1,0.05
+home,Perfect for,1,0.05
+home,Manufacturing,1,0.05
+home,Bake_Set_Components,1,0.05
+home,Quantity per Carton,1,0.05
+home,Compatible with,1,0.05
+home,Applications,1,0.05
+home,Compatible Models,1,0.05
+home,Packaging Type,1,0.05
+home,Durability,1,0.05
+home,Strength,1,0.05
+home,Recommended Usage,1,0.05
+home,Package Type,1,0.05
+home,Selling Platform,1,0.05
+home,Sealing,1,0.05
+home,Grade,2,0.11
+home,Designed For,1,0.05
+home,Available in,1,0.05
+home,Measure,1,0.05
+home,Quantity per box,1,0.05
+home,Volume per bag,1,0.05
+home,Closure,1,0.05
+jewelry,Product_Title,5,0.75
+jewelry,Shop,32,4.81
+jewelry,Product_Type,1,0.15
+jewelry,Brand,50,7.52
+jewelry,Material,67,10.08
+jewelry,Collection,21,3.16
+jewelry,Product title,28,4.21
+jewelry,Type,13,1.95
+jewelry,Stone,11,1.65
+jewelry,Metal,5,0.75
+jewelry,Sold by,2,0.3
+jewelry,Establishment Year,3,0.45
+jewelry,Founders,1,0.15
+jewelry,Product Title,75,11.28
+jewelry,Vendor,8,1.2
+jewelry,Product Code,8,1.2
+jewelry,Model Number,15,2.26
+jewelry,For,3,0.45
+jewelry,Dealer,8,1.2
+jewelry,Location,21,3.16
+jewelry,Product Category,4,0.6
+jewelry,Ring type,1,0.15
+jewelry,Year of establishment,1,0.15
+jewelry,Founder,3,0.45
+jewelry,Store,8,1.2
+jewelry,Retailer,20,3.01
+jewelry,Product ID,1,0.15
+jewelry,Seller,7,1.05
+jewelry,Product Type,25,3.76
+jewelry,Style,7,1.05
+jewelry,Gender,4,0.6
+jewelry,Band Style,2,0.3
+jewelry,Brand Name,1,0.15
+jewelry,Target Audience,2,0.3
+jewelry,Founded Year,1,0.15
+jewelry,Product Collection,3,0.45
+jewelry,Purpose,1,0.15
+jewelry,Model,7,1.05
+jewelry,Shop_Name,1,0.15
+jewelry,Product_Category,2,0.3
+jewelry,Product type,6,0.9
+jewelry,Product details,1,0.15
+jewelry,Match,1,0.15
+jewelry,Details,1,0.15
+jewelry,Established,3,0.45
+jewelry,Design,7,1.05
+jewelry,Shop Name,3,0.45
+jewelry,ProductTitle,1,0.15
+jewelry,OtherAvailableMaterials,1,0.15
+jewelry,Width,6,0.9
+jewelry,Manufacturer,2,0.3
+jewelry,Second Product title,1,0.15
+jewelry,Available Materials,1,0.15
+jewelry,Product,1,0.15
+jewelry,Other Available Materials,2,0.3
+jewelry,Available Colors,2,0.3
+jewelry,Establishment Year of Seller,1,0.15
+jewelry,Seller Background,1,0.15
+jewelry,Metal Type Availability,1,0.15
+jewelry,Jewelry Type,2,0.3
+jewelry,Metal Types Available,1,0.15
+jewelry,Alternate Material Options,1,0.15
+jewelry,Color Options,2,0.3
+jewelry,Founding Family,2,0.3
+jewelry,Additional Product,1,0.15
+jewelry,Alternate Materials,2,0.3
+jewelry,Other Available Colors,1,0.15
+jewelry,Also available in,1,0.15
+jewelry,Authorized dealer,1,0.15
+jewelry,Authorized Retailer,3,0.45
+jewelry,City,1,0.15
+jewelry,State,1,0.15
+jewelry,Additional Title,1,0.15
+jewelry,Intended Audience,2,0.3
+jewelry,Retailer Contact,1,0.15
+jewelry,Dealer Name,1,0.15
+jewelry,Dealer Location,1,0.15
+jewelry,product_title,3,0.45
+jewelry,Model_Number,1,0.15
+jewelry,Stones,1,0.15
+jewelry,Edges,3,0.45
+jewelry,Special Features,1,0.15
+jewelry,Contact Information,1,0.15
+jewelry,Product Use,1,0.15
+jewelry,Design Details,1,0.15
+jewelry,Edge Type,2,0.3
+jewelry,Product Style,1,0.15
+jewelry,Designer,1,0.15
+jewelry,Ideal For,1,0.15
+jewelry,Finish Options,1,0.15
+jewelry,Contact Info,2,0.3
+jewelry,Center Diamond Cut,1,0.15
+jewelry,Design Collection,1,0.15
+jewelry,Additional Features,1,0.15
+jewelry,Color,1,0.15
+jewelry,Stone Shape,4,0.6
+jewelry,Setting,1,0.15
+jewelry,Distributor,3,0.45
+jewelry,Stone Type,2,0.3
+jewelry,Extra,1,0.15
+jewelry,Usage,1,0.15
+jewelry,Establishment carrying,1,0.15
+jewelry,Year Founded,1,0.15
+jewelry,Founded by,1,0.15
+jewelry,Additional Info,1,0.15
+jewelry,Product Material,2,0.3
+jewelry,Craftsmanship,2,0.3
+jewelry,Comfort,1,0.15
+jewelry,Look,1,0.15
+jewelry,Contact,1,0.15
+jewelry,Fit,3,0.45
+jewelry,Pattern,1,0.15
+jewelry,Finish,2,0.3
+jewelry,Edge Style,1,0.15
+jewelry,store,1,0.15
+jewelry,product_id,1,0.15
+jewelry,Stone Stones,1,0.15
+jewelry,Product Description,3,0.45
+jewelry,Jeweler,1,0.15
+jewelry,Stone_Type,1,0.15
+jewelry,Seller_Establishment_Year,1,0.15
+jewelry,Established_By,1,0.15
+jewelry,title,1,0.15
+jewelry,shop,1,0.15
+jewelry,productID,1,0.15
+jewelry,Category,3,0.45
+jewelry,Provider,1,0.15
+jewelry,Ring style,1,0.15
+jewelry,Band Details,1,0.15
+jewelry,Ring cut,1,0.15
+jewelry,Band design,1,0.15
+jewelry,Product_Id,1,0.15
+jewelry,Product_Description,1,0.15
+jewelry,Family Generation,1,0.15
+jewelry,Maker,1,0.15
+jewelry,Product attributes,1,0.15
+jewelry,Supplier,2,0.3
+jewelry,Product Brand,2,0.3
+jewelry,Product Retailer,1,0.15
+jewelry,Stone Carat,1,0.15
+jewelry,Setting Type,1,0.15
+jewelry,Established Year,2,0.3
+jewelry,Product Model Number,2,0.3
+jewelry,Stone Setting,1,0.15
+jewelry,Product_title,3,0.45
+jewelry,Product_category,1,0.15
+jewelry,Authorized Dealer,1,0.15
+jewelry,Product_ID,1,0.15
+jewelry,Product_description,1,0.15
+jewelry,Retailer location,1,0.15
+jewelry,Authorized Retailer Location,1,0.15
+jewelry,Shop Location,1,0.15
+jewelry,Shop Establishment Year,1,0.15
+jewelry,Owned By,1,0.15
+jewelry,Authorized Benchmark Retailer,1,0.15
+jewelry,product_brand,1,0.15
+jewelry,product_model,1,0.15
+jewelry,product_material,1,0.15
+jewelry,product_type,1,0.15
+jewelry,product_design,1,0.15
+jewelry,product_style,1,0.15
+jewelry,product_fit,1,0.15
+jewelry,product_seller,1,0.15
+jewelry,product_seller_contact,1,0.15
+jewelry,Product category,1,0.15
+jewelry,Comfort Fit,1,0.15
+jewelry,Engraved,1,0.15
+jewelry,Detail,2,0.3
+jewelry,Type of Jewelry,1,0.15
+office,Product Title,125,7.4
+office,Brand,71,4.2
+office,Cartridge Color,4,0.24
+office,Page Yield,6,0.36
+office,Compatibility,23,1.36
+office,Print Quality,1,0.06
+office,Quality Check,1,0.06
+office,Product Type,19,1.12
+office,Model,29,1.72
+office,Vendor,20,1.18
+office,Product Features,5,0.3
+office,Product Description,8,0.47
+office,Additional Product Title,1,0.06
+office,Color,92,5.45
+office,Condition,4,0.24
+office,Capacity,7,0.41
+office,Part Number,2,0.12
+office,Product Code,19,1.12
+office,Yield,6,0.36
+office,Cartridge Type,2,0.12
+office,Return Policy,3,0.18
+office,Return Methods,1,0.06
+office,Product title,47,2.78
+office,Type,15,0.89
+office,Series,2,0.12
+office,Program,2,0.12
+office,Manufacturing Standards,2,0.12
+office,Warranty,6,0.36
+office,Manufacturer Warranty,1,0.06
+office,OEM,1,0.06
+office,product_title,4,0.24
+office,brand,2,0.12
+office,model_number,1,0.06
+office,cartridge_color,1,0.06
+office,compatible_with,1,0.06
+office,Product_Title,7,0.41
+office,Cartridge_Page_Yield,1,0.06
+office,Compatible_Models,1,0.06
+office,Cartridge Model,1,0.06
+office,Productivity,1,0.06
+office,Standard,1,0.06
+office,Colour,4,0.24
+office,Printer Brand,1,0.06
+office,Product_Part_Number,1,0.06
+office,Compatible_Printers,1,0.06
+office,Yield Type,1,0.06
+office,OEM Warranty,1,0.06
+office,Product code,4,0.24
+office,Country-specific instructions,1,0.06
+office,Return Method,1,0.06
+office,Colors,4,0.24
+office,Category,11,0.65
+office,Part number,1,0.06
+office,Page yield,1,0.06
+office,Compatible with,2,0.12
+office,Compatible Models,1,0.06
+office,Product_Size,1,0.06
+office,Product_Color,1,0.06
+office,Product_Category,2,0.12
+office,Product_Page,1,0.06
+office,Product_Supplier,1,0.06
+office,Product category,4,0.24
+office,Product type,2,0.12
+office,Size,50,2.96
+office,Quantity,20,1.18
+office,Supplier,25,1.48
+office,Material,46,2.72
+office,Material Detail,1,0.06
+office,Intended Use,1,0.06
+office,Colors Included,1,0.06
+office,Variety,1,0.06
+office,Header,1,0.06
+office,Alternate Item Numbers,3,0.18
+office,UPC,63,3.73
+office,Dimensions,15,0.89
+office,Back side,1,0.06
+office,Use,7,0.41
+office,Seller,13,0.77
+office,attributes,1,0.06
+office,Product Category,12,0.71
+office,Features,20,1.18
+office,Page,8,0.47
+office,Source,1,0.06
+office,Release Liner,1,0.06
+office,Adhesive,2,0.12
+office,Adherence to Most Surfaces,1,0.06
+office,Messy Residue After Removal,1,0.06
+office,Paper Weight,3,0.18
+office,Paper Type,1,0.06
+office,Carry Handle,1,0.06
+office,Product ID,7,0.41
+office,Sheets Per Pad,1,0.06
+office,Pad Dimension,1,0.06
+office,Pack Count,2,0.12
+office,Recycled Content,2,0.12
+office,Feature,16,0.95
+office,Alternate Item,21,1.24
+office,CUBE,1,0.06
+office,Inner Packaging,4,0.24
+office,Device Types,2,0.12
+office,Page-Yield,5,0.3
+office,SKU,6,0.36
+office,Best Used For,1,0.06
+office,Part and Supplies Quality,1,0.06
+office,Product Assurance,1,0.06
+office,Warranty Information,1,0.06
+office,Compatible Devices,1,0.06
+office,Output Quality,1,0.06
+office,Installs,1,0.06
+office,ISO Quality Standard,1,0.06
+office,Product Sale,1,0.06
+office,color,1,0.06
+office,product_code,1,0.06
+office,alternate_item,1,0.06
+office,upc,1,0.06
+office,card_dimension,1,0.06
+office,card_quantity,1,0.06
+office,guide_quantity,1,0.06
+office,Card Capacity,3,0.18
+office,Card Dimensions,2,0.12
+office,Access_type,1,0.06
+office,Included_Materials,1,0.06
+office,Special_Feature,1,0.06
+office,Card_Rotation,1,0.06
+office,Frame_Material,1,0.06
+office,Finish,4,0.24
+office,Card Size,4,0.24
+office,Number of Cards,1,0.06
+office,Number of Index Dividers,1,0.06
+office,Index Divider Color,1,0.06
+office,Frame Material,1,0.06
+office,Retailer,5,0.3
+office,Model Number,9,0.53
+office,Ruling,10,0.59
+office,Sheets per pack,1,0.06
+office,Hole Punched,2,0.12
+office,Quantity per Pack,2,0.12
+office,Product Brand,4,0.24
+office,Product Id,1,0.06
+office,Product Weight,1,0.06
+office,Product Rule,1,0.06
+office,Hole Type,1,0.06
+office,Product Size,6,0.36
+office,Number of Sheets,4,0.24
+office,Margin Type,1,0.06
+office,Paper_type,1,0.06
+office,Pack,3,0.18
+office,Sheet Count,1,0.06
+office,Package Quantity,1,0.06
+office,Item Code,1,0.06
+office,Rule Type,1,0.06
+office,Packaging,14,0.83
+office,Made In,1,0.06
+office,Product_Code,2,0.12
+office,Sheet_Size,1,0.06
+office,Hole_type,1,0.06
+office,Alternative_Item,1,0.06
+office,Eraser_Type,1,0.06
+office,Eraser_Material,1,0.06
+office,Handle_Type,1,0.06
+office,Best Use,1,0.06
+office,Special Feature,6,0.36
+office,Included Feature,1,0.06
+office,Envelope Size,1,0.06
+office,Quantity Per Box,3,0.18
+office,Weight,8,0.47
+office,Designed For,1,0.06
+office,Surface,2,0.12
+office,Clasp Features,1,0.06
+office,Envelope Type,2,0.12
+office,Quantity per box,1,0.06
+office,Boxes per Carton,1,0.06
+office,Package,2,0.12
+office,Product_Features,1,0.06
+office,Attached wrist rest,1,0.06
+office,Wrist rest feature,1,0.06
+office,Mouse pad suitability,1,0.06
+office,Alternate items,1,0.06
+office,Wrist_Rest_Feature,1,0.06
+office,Role_Of_Wrist_Rest,1,0.06
+office,Covering_Material,1,0.06
+office,Covering_Property,1,0.06
+office,Mouse_Movement,1,0.06
+office,Manufacturer,10,0.59
+office,Special feature,1,0.06
+office,Additional feature,2,0.12
+office,Item Number,3,0.18
+office,Dimension,2,0.12
+office,Base Type,1,0.06
+office,Function,2,0.12
+office,Bonus,1,0.06
+office,Store,2,0.12
+office,Usage,2,0.12
+office,Product Number,3,0.18
+office,Closure Type,2,0.12
+office,Quantity per Box,3,0.18
+office,Alternate item numbers,1,0.06
+office,Product_title,3,0.18
+office,Stock_Number,1,0.06
+office,Tip_Type,1,0.06
+office,Pack_Size,1,0.06
+office,Product_Type,1,0.06
+office,Ink_Type,1,0.06
+office,Writing_Properties,1,0.06
+office,Grip_Material,1,0.06
+office,Alternate_Item,1,0.06
+office,Product features,1,0.06
+office,Additional specification,1,0.06
+office,Recommendation,1,0.06
+office,Refillable,3,0.18
+office,Matching items,1,0.06
+office,Point,1,0.06
+office,Barrel Color,1,0.06
+office,Ink Color,4,0.24
+office,Alternate item,5,0.3
+office,Product Model,4,0.24
+office,Point Size,2,0.12
+office,Design,8,0.47
+office,Grip,1,0.06
+office,Endorsed by,1,0.06
+office,Fluidity,1,0.06
+office,Ideal For,2,0.12
+office,Airplane Safe,1,0.06
+office,Leak Proof,1,0.06
+office,Ink System,1,0.06
+office,Point Type,1,0.06
+office,Pen Type,1,0.06
+office,Number of pens,1,0.06
+office,Ink type,1,0.06
+office,Ink properties,1,0.06
+office,Ink system,1,0.06
+office,Ink supply visibility,1,0.06
+office,Travel-friendly,1,0.06
+office,Writing style,1,0.06
+office,Feeling,1,0.06
+office,Point type,1,0.06
+office,Line type,1,0.06
+office,Website,1,0.06
+office,Steno Book Design,1,0.06
+office,Extra Feature,1,0.06
+office,Pad Type,3,0.18
+office,Sheet Size,4,0.24
+office,Number of Sheets per Pad,5,0.3
+office,Design Features,1,0.06
+office,Helpful Tools,1,0.06
+office,Author,1,0.06
+office,Number of sheets,1,0.06
+office,Source Material,1,0.06
+office,Alternate Items,2,0.12
+office,Highlight Feature,1,0.06
+office,Page Layout,1,0.06
+office,Reference Feature,1,0.06
+office,Ease of Reference,1,0.06
+office,Binding type,1,0.06
+office,Page Color/Theme,2,0.12
+office,Appointment Ruling,1,0.06
+office,Edition Year,3,0.18
+office,Paper Content,2,0.12
+office,Alternate Item Codes,2,0.12
+office,ProductTitle,1,0.06
+office,ProductCode,1,0.06
+office,HighlightFeature,1,0.06
+office,Layout,1,0.06
+office,Reference,1,0.06
+office,ExtraFeature,1,0.06
+office,PageStyle,1,0.06
+office,Fit,2,0.12
+office,Tab Titles,1,0.06
+office,product title,1,0.06
+office,model,1,0.06
+office,index sets per bag,1,0.06
+office,custom index sets by printing,1,0.06
+office,tab format,1,0.06
+office,Table of Content sheets color,1,0.06
+office,Templetes,1,0.06
+office,reinforced tabs and ring edges,1,0.06
+office,compatibility,1,0.06
+office,punching,1,0.06
+office,Customizable_index_sets,1,0.06
+office,Templates_available_online,1,0.06
+office,Tab_Colors,1,0.06
+office,Table_of_Content_Sheets_Colors,1,0.06
+office,Reinforced_Tabs,1,0.06
+office,Reinforced_ring_edges,1,0.06
+office,Punched,1,0.06
+office,Product model,1,0.06
+office,Tab reinforcement,1,0.06
+office,Included,2,0.12
+office,Global Product Type,1,0.06
+office,Supply Type,1,0.06
+office,Alternate Item IDs,2,0.12
+office,Performance,1,0.06
+office,Purpose,1,0.06
+office,Usefulness,1,0.06
+office,Core Size,1,0.06
+office,Tape Size,1,0.06
+office,Durability,4,0.24
+office,Functionality,1,0.06
+office,Writable,1,0.06
+office,Additional Use,2,0.12
+office,Photo-Safety,1,0.06
+office,Origination,2,0.12
+office,Tape Width,1,0.06
+office,Tape Length,1,0.06
+office,Tape Core Diameter,1,0.06
+office,Adhesive Technology,1,0.06
+office,Write Compatibility,1,0.06
+office,Thickness,3,0.18
+office,Stickable,1,0.06
+office,Removable,1,0.06
+office,Sheets Per Unit,1,0.06
+office,Sheet Capacity per Pocket,1,0.06
+office,Sheet Capacity per Divider,1,0.06
+office,Ink or Toner Transfer,1,0.06
+office,Overall Product Weight,1,0.06
+office,Punch Type,1,0.06
+office,Transfer-safe,1,0.06
+office,Pocket Capacity,1,0.06
+office,Inserts,1,0.06
+office,Alternate Item Number,2,0.12
+office,Style,4,0.24
+office,Additional property,1,0.06
+office,Product dimension,1,0.06
+office,Special Features,2,0.12
+office,Correction Type,1,0.06
+office,Characteristics,1,0.06
+office,Coverage,1,0.06
+office,Dispenser,1,0.06
+office,Item number,1,0.06
+office,Refill Compatibility,1,0.06
+office,Compatible With,1,0.06
+office,Attributes,2,0.12
+office,Standards Compliance,1,0.06
+office,Product_type,1,0.06
+office,Compatible_device,1,0.06
+office,Supply_Type,1,0.06
+office,Packaging_Content,1,0.06
+office,Product size,1,0.06
+office,Not freestanding,1,0.06
+office,Can be used under,1,0.06
+office,Drawer construction,1,0.06
+office,Drawer sliding mechanism,1,0.06
+office,Handles,1,0.06
+office,Locking mechanism,1,0.06
+office,Filing Capacity,2,0.12
+office,Positioning,1,0.06
+office,Shipping restrictions,1,0.06
+office,Alternative Item Number,1,0.06
+office,Standing,1,0.06
+office,Attachment,1,0.06
+office,Drawer Construction,1,0.06
+office,Slide Type,1,0.06
+office,Drawer Access,1,0.06
+office,Lock Feature,1,0.06
+office,Edge Banding,1,0.06
+office,Protection,2,0.12
+office,Safety Keys,1,0.06
+office,Profile,1,0.06
+office,Brightness,5,0.3
+office,Other Features,1,0.06
+office,Product number,1,0.06
+office,Cover,2,0.12
+office,Paper type,1,0.06
+office,Binding,4,0.24
+office,Pad type,1,0.06
+office,Sheet size,1,0.06
+office,Product Cover,1,0.06
+office,No__Of_Sheets,1,0.06
+office,Additional Property,1,0.06
+office,Pack Quantity,3,0.18
+office,Package Type,1,0.06
+office,Refill Option,1,0.06
+office,Customizable,1,0.06
+office,Free Customization,1,0.06
+office,Acid Free,1,0.06
+office,Lignin Free,1,0.06
+office,Description,3,0.18
+office,Item Type,1,0.06
+office,Matching Envelopes SKU,1,0.06
+office,Alternative Item,1,0.06
+office,Reliability,1,0.06
+office,Installation,2,0.12
+office,Laser Class,2,0.12
+office,Projection Distance,2,0.12
+office,Suitable For,3,0.18
+office,Laser Color,1,0.06
+office,Acceptable In,1,0.06
+office,Construction,1,0.06
+office,Stock Code,1,0.06
+office,Length,3,0.18
+office,Packaging Details,2,0.12
+office,Tape size,1,0.06
+office,Pack count,1,0.06
+office,Tape Type,1,0.06
+office,Application,1,0.06
+office,Tape Features,1,0.06
+office,Body,1,0.06
+office,Visibility of tape supply,1,0.06
+office,Lock Type,1,0.06
+office,Product Dimensions,2,0.12
+office,Product Color,1,0.06
+office,Holder Material,2,0.12
+office,Is Refillable,1,0.06
+office,Country of Manufacture,1,0.06
+office,Recycled Material,1,0.06
+office,Ink Type,5,0.3
+office,FSC Certified,1,0.06
+office,Company Environmental Contribution,1,0.06
+office,EAN,1,0.06
+office,Additional Items,1,0.06
+office,Product Page,1,0.06
+office,Sheets,1,0.06
+office,Environment Friendly,2,0.12
+office,Certification,1,0.06
+office,Sheets per Pad,2,0.12
+office,Corners,1,0.06
+office,Holder,1,0.06
+office,Optional Accessory,1,0.06
+office,Board Color,1,0.06
+office,Resists,1,0.06
+office,Included Accessories,1,0.06
+office,Lock,2,0.12
+office,Dividers,1,0.06
+office,Follower Blocks,1,0.06
+office,Shipping Weight,1,0.06
+office,Additional Features,3,0.18
+office,Product_ID,1,0.06
+office,Product_Group,1,0.06
+office,Product_Name,1,0.06
+office,Product_Weight,1,0.06
+office,Ships_Via,1,0.06
+office,Additional_Product_Names,1,0.06
+office,Approximate_Count,1,0.06
+office,Elasticity,1,0.06
+office,Elongation,1,0.06
+office,Breaking Strength,1,0.06
+office,Band Count,1,0.06
+office,Message on Stamp,1,0.06
+office,Message,1,0.06
+office,Resistance,1,0.06
+office,Expansion,1,0.06
+office,Details,1,0.06
+office,Tab Cut,1,0.06
+office,Tab Position,1,0.06
+office,Box Content,1,0.06
+office,Tearing Resistance,1,0.06
+office,Maximum Capacity,1,0.06
+office,Undercut at Tab,1,0.06
+office,Pack Size,3,0.18
+office,Adhesive Type,1,0.06
+office,Cavity Size,1,0.06
+office,Paper Stock Weight,1,0.06
+office,Number of Boxes per Carton,1,0.06
+office,Packing,1,0.06
+office,Sheets per pad,1,0.06
+office,Rule,1,0.06
+office,Perforation,1,0.06
+office,Back,1,0.06
+office,Surface material,1,0.06
+office,Frame material,1,0.06
+office,Frame design,1,0.06
+office,Shipping,1,0.06
+office,Shipping Time,1,0.06
+office,Product Dimension,1,0.06
+office,Product Feature,1,0.06
+office,Surface Material,1,0.06
+office,Surface Durability,1,0.06
+office,Surface functionality,1,0.06
+office,Cleaning,2,0.12
+office,Mounting,1,0.06
+office,Accessories Included,1,0.06
+office,Availability,1,0.06
+office,Suitable for,1,0.06
+office,Width Accommodation,1,0.06
+office,Separation Support,1,0.06
+office,Reusability Feature,1,0.06
+office,Frame color,1,0.06
+office,Product id,1,0.06
+office,Product material,1,0.06
+office,Additional features,1,0.06
+office,Included items,1,0.06
+office,Mounting Options,1,0.06
+office,Included Extras,1,0.06
+office,Box Contains,1,0.06
+office,Compatible Machines,1,0.06
+office,Shelf Life,1,0.06
+office,Ease of Use,1,0.06
+office,Delivery Method,1,0.06
+office,Output,1,0.06
+office,Cost Effectiveness,1,0.06
+office,Printer Compatibility,2,0.12
+office,Extended Shelf Life,1,0.06
+office,Useable On,1,0.06
+office,Support Contact,1,0.06
+office,Texture,1,0.06
+office,Die-Cuts,1,0.06
+office,Sheet Compatibility,1,0.06
+office,Cover Type,1,0.06
+office,Sheet Capacity,2,0.12
+office,Includes Business Card Holder,1,0.06
+office,Units per Box,1,0.06
+office,Alternate item number,1,0.06
+office,Index Card Type,1,0.06
+office,Cards Per Carton,1,0.06
+office,Quantity Per Carton,1,0.06
+office,Design Details,1,0.06
+office,Number of Lines,1,0.06
+office,Paper Color,1,0.06
+office,Sheets Per Book,1,0.06
+office,Connection Type,1,0.06
+office,Connection,1,0.06
+office,Convenience features,1,0.06
+office,Setup,1,0.06
+office,Pouches per Pack,1,0.06
+office,Height adjustment,1,0.06
+office,Wrist support,1,0.06
+office,Wrist support cleanliness,1,0.06
+office,Mounting track material,1,0.06
+office,Mounting track size,1,0.06
+office,Mounting track type,1,0.06
+office,Capacity (Weight),1,0.06
+office,Keyboard Tray Dimensions (W x D),1,0.06
+office,360° Swivel,1,0.06
+office,Surface Type,1,0.06
+office,Wrist Support Material,1,0.06
+office,Height Adjustability,1,0.06
+office,Tilt Adjustment,1,0.06
+office,Mounting Track Material,1,0.06
+office,Mounting Track Length,1,0.06
+office,Product description,2,0.12
+office,Format,1,0.06
+office,Year,1,0.06
+office,Product SKU,1,0.06
+office,Planning Format,1,0.06
+office,Appointment Style,1,0.06
+office,Time Scale,1,0.06
+office,Weekend Scheduling,1,0.06
+office,Recycled Content Percentage,1,0.06
+office,Noise Reduction Rating,2,0.12
+office,Ideal for,2,0.12
+office,Packing Quantity,1,0.06
+office,Design Feature,1,0.06
+office,Suitability,2,0.12
+office,Quality Test,1,0.06
+office,Package Dimensions,1,0.06
+office,Attachment Type,1,0.06
+office,Card Holder,1,0.06
+office,Connectivity,1,0.06
+office,Cord,1,0.06
+office,Extension Length,1,0.06
+office,Product Length,1,0.06
+office,Product Colors,1,0.06
+office,Identification Card Reel Type,1,0.06
+office,Colors Available,1,0.06
+office,Product UPC,1,0.06
+office,Tab Material,1,0.06
+office,Binding Edge,1,0.06
+office,Tab Title,1,0.06
+office,Green product,1,0.06
+office,Hole-punch documents,1,0.06
+office,Spill-proof chip collector,1,0.06
+office,Nonslip base,1,0.06
+office,Marked paper guides,1,0.06
+office,Holes,1,0.06
+office,For Classic Style Page Size,1,0.06
+office,Operating Method,1,0.06
+office,Hole Diameter,1,0.06
+office,Ease of use,1,0.06
+office,Sheet capacity,1,0.06
+office,Guides,1,0.06
+office,Designed for,1,0.06
+office,Blade Material,2,0.12
+office,Cutting Capacity,2,0.12
+office,Base Dimension,1,0.06
+office,Non-Skid,1,0.06
+office,Safety Features,2,0.12
+office,Measurement Tools,1,0.06
+office,Base Dimensions,1,0.06
+office,Cut Length,1,0.06
+office,Safety features,1,0.06
+office,Base Thickness,1,0.06
+office,Base Material,2,0.12
+office,Max Cut Capacity (sheets),1,0.06
+office,Seasonal Theme,1,0.06
+office,Number of Photos,1,0.06
+office,Calendar Duration,1,0.06
+office,CalendarMonths,1,0.06
+office,Reversible,1,0.06
+office,Marker Included,1,0.06
+office,Calendar Type,1,0.06
+office,Theme,1,0.06
+office,Calendar Term,1,0.06
+office,Quality,2,0.12
+office,Carton content,1,0.06
+office,Sheet per pack,1,0.06
+office,Technology,1,0.06
+office,Paper Quality,1,0.06
+office,Surface Characteristics,1,0.06
+office,Environmental Certification,1,0.06
+office,Accessory_By,1,0.06
+office,Slider_Material,1,0.06
+office,Opening_Closing,1,0.06
+office,Design_Profile,1,0.06
+office,Series Applicable,1,0.06
+office,Universal Fit,1,0.06
+office,Compliance,1,0.06
+office,Assembly Requirement,1,0.06
+office,Original Source,1,0.06
+office,Fits Sheet Sizes,1,0.06
+office,Paper Capacity,1,0.06
+office,UPC Code,1,0.06
+office,primary_source,1,0.06
+office,product_description,1,0.06
+office,product_attributes,1,0.06
+office,Pages,1,0.06
+office,Paper Material,1,0.06
+office,Punched Holes,1,0.06
+office,Ruled,1,0.06
+office,Recyclable,1,0.06
+office,Sheets per Tablet,1,0.06
+office,Cross Section,1,0.06
+office,Squares per Inch,1,0.06
+office,Attribute,1,0.06
+office,Distributor,1,0.06
+office,Loading,2,0.12
+office,Closure,1,0.06
+office,Additional Feature,1,0.06
+office,Insert Size,1,0.06
+office,Specific usage,1,0.06
+office,Loading Style,1,0.06
+office,Installation Method,1,0.06

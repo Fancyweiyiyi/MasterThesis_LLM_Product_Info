@@ -1,0 +1,1241 @@
+Extracted Attribute,Best Match,Similarity,Category
+Additional Accolades,,0.25,grocery
+Additional Ingredients,,0.4545454545454546,grocery
+Allergen Friendly,,0.2941176470588235,grocery
+Allergen Information,,0.35,grocery
+Alternate Item #,,0.25,grocery
+Auto Shut-Off,,0.15384615384615385,grocery
+Auto Shut-off,,0.15384615384615385,grocery
+Awards/Recognition,,0.38888888888888884,grocery
+BPA Free,,0.25,grocery
+Bakery Environment,,0.2777777777777778,grocery
+Beverage Type,,0.3076923076923077,grocery
+Bottle Size (oz),,0.25,grocery
+Brand,brand,0.8,grocery
+Brewing Features,,0.3125,grocery
+Brewing Process,,0.2666666666666667,grocery
+Calories per Serving,,0.25,grocery
+Capacity,,0.3846153846153846,grocery
+Capacity (Volume),,0.28,grocery
+Capacity (Weight),,0.3529411764705882,grocery
+Carafe Compatibility,,0.25,grocery
+Carafe Type,,0.33333333333333337,grocery
+Certification,,0.3846153846153846,grocery
+Certifications,,0.3571428571428571,grocery
+Certifications/Awards,,0.23809523809523814,grocery
+Cleaning Cycle,,0.3571428571428571,grocery
+Cleaning Features,,0.2941176470588235,grocery
+Coffee Bean Origin,,0.2777777777777778,grocery
+Coffee Bean Type,,0.25,grocery
+Coffee Type,,0.33333333333333337,grocery
+Color,color,0.8,grocery
+Compatibility,,0.25,grocery
+Container Size,,0.30000000000000004,grocery
+Container Type,,0.3571428571428571,grocery
+Contains,,0.26086956521739135,grocery
+Cookie Varieties,,0.3125,grocery
+Description Type,,0.3125,grocery
+Design,,0.41666666666666663,grocery
+Dietary Certification,,0.33333333333333337,grocery
+Dietary Restrictions,,0.35,grocery
+Dimensions,,0.4,grocery
+Dimensions (L x W x H),,0.18181818181818177,grocery
+Dimensions (inches),,0.26315789473684215,grocery
+Dishwasher Safe,,0.19999999999999996,grocery
+Equipment Needed,,0.1875,grocery
+Features,,0.375,grocery
+Fiber Content,,0.3846153846153846,grocery
+Filter Basket,,0.3076923076923077,grocery
+Flavor,flavor,0.8333333333333334,grocery
+Flavor Profile,,0.3571428571428571,grocery
+Flavor/Variant,,0.3571428571428571,grocery
+Flavor/Variety,,0.3571428571428571,grocery
+Flavors Included,,0.3125,grocery
+Food Type,,0.41666666666666663,grocery
+Form,,0.33333333333333337,grocery
+Glass Type,,0.30000000000000004,grocery
+Grain Composition,,0.2941176470588235,grocery
+Grip Description,,0.3125,grocery
+Ideal For,,0.33333333333333337,grocery
+Indicator Light,,0.33333333333333337,grocery
+Ingredient Type,,0.6,grocery
+Intended Use,,0.25,grocery
+Manufacturer's Location,,0.52,grocery
+Manufacturer/Brand,,0.48,grocery
+Material,,0.375,grocery
+Microwave Safe,,0.2142857142857143,grocery
+Model Number,,0.25,grocery
+Net Weight per Unit,,0.26315789473684215,grocery
+Nutritional Highlights,,0.2272727272727273,grocery
+Pack Count,,0.3846153846153846,grocery
+Pack Quantity,,0.7692307692307692,grocery
+Pack Quantity (per Carton),,0.3846153846153846,grocery
+Pack Size (Weight),,0.4444444444444444,grocery
+Pack Size (oz),,0.2857142857142857,grocery
+Package Size,,0.4375,grocery
+Package Style,,0.46153846153846156,grocery
+Packaging,,0.3846153846153846,grocery
+Packaging Details,,0.4117647058823529,grocery
+Packaging Feature,,0.47058823529411764,grocery
+Packaging Per Unit,,0.33333333333333337,grocery
+Packaging Quantity,,0.5555555555555556,grocery
+Packaging Type,,0.6428571428571428,grocery
+Packing Type,,0.75,grocery
+Pause & Serve,,0.23076923076923073,grocery
+Plastic Grade,,0.23076923076923073,grocery
+Premeasured,,0.2727272727272727,grocery
+Preparation Method,,0.2777777777777778,grocery
+Preservation Method,,0.26315789473684215,grocery
+Pricing Basis,,0.3076923076923077,grocery
+Product Code,,0.5833333333333333,grocery
+Product Code (Supplier),,0.34782608695652173,grocery
+Product Line,,0.5833333333333333,grocery
+Product Series,,0.5,grocery
+Product Specifications,,0.5,grocery
+Product Type,,0.75,grocery
+Programmability,,0.2666666666666667,grocery
+Programmable,,0.25,grocery
+Purity,,0.33333333333333337,grocery
+Quantity Per Box,,0.375,grocery
+Quantity per Box,,0.375,grocery
+Quantity per Carton,,0.3157894736842105,grocery
+Quantity per Unit,,0.3529411764705882,grocery
+Return Policy,,0.23076923076923073,grocery
+Roast Level,,0.2727272727272727,grocery
+Safety Features,,0.2666666666666667,grocery
+Seller,,0.33333333333333337,grocery
+Series,series,0.8333333333333334,grocery
+Serving Size per Pouch,,0.2272727272727273,grocery
+Serving Type,,0.5,grocery
+Size (Volume),,0.23076923076923073,grocery
+Size (oz),,0.2727272727272727,grocery
+Size Description,,0.3125,grocery
+Sodium Level,,0.25,grocery
+Special Feature,,0.4,grocery
+Special Features,,0.43999999999999995,grocery
+Sugar Type,,0.25,grocery
+Suitable Containers,,0.4347826086956522,grocery
+Supplier Website,,0.30434782608695654,grocery
+Supplier/Seller,,0.30434782608695654,grocery
+Sustainability Feature,,0.2272727272727273,grocery
+Sweetener Description,,0.2857142857142857,grocery
+Tea Type,,0.25,grocery
+Trans Fat,,0.33333333333333337,grocery
+UPC,,0.30000000000000004,grocery
+Volume,,0.33333333333333337,grocery
+Warmer Included,,0.2666666666666667,grocery
+Water Filtration,,0.3125,grocery
+Weight,,0.4545454545454546,grocery
+Whole Grain Content,,0.26315789473684215,grocery
+Additional Accessories,,0.2727272727272727,home
+Additional Features,,0.3157894736842105,home
+Additional Requirements,,0.21739130434782605,home
+Additional_Features,,0.3157894736842105,home
+Age Recommendation,,0.33333333333333337,home
+Alternate Item Numbers,,0.28,home
+Amps,,0.75,home
+Antimicrobial Protection,,0.33333333333333337,home
+Appearance,,0.30000000000000004,home
+Application,,0.5384615384615384,home
+Application Type,,0.3125,home
+Approved Use,,0.25,home
+Assembly,,0.25,home
+Assembly Location,,0.4117647058823529,home
+Assembly Required,,0.23529411764705888,home
+Assembly Requirement,,0.25,home
+Audible Alert,,0.3846153846153846,home
+BTU Rating,,0.30000000000000004,home
+BTU Rating (LP),,0.19999999999999996,home
+BTU per Hot Top,,0.1333333333333333,home
+Back Guard,,0.19999999999999996,home
+Back Material,,0.5384615384615384,home
+Back Splash Dimensions,,0.2272727272727273,home
+Back Splash Height,,0.33333333333333337,home
+Back Style,,0.4,home
+Backing,,0.4285714285714286,home
+Backing Type,,0.25,home
+Backsplash,,0.6,home
+Backsplash Height,,0.3529411764705882,home
+Backsplash Location,,0.368421052631579,home
+Backsplash Style,,0.375,home
+Backsplash Width,,0.375,home
+Base Bottom,,0.2857142857142857,home
+Base Construction,,0.2941176470588235,home
+Base Features,,0.3846153846153846,home
+Base Shelves,,0.5833333333333333,home
+Base Type,,0.33333333333333337,home
+Basket Material,,0.4666666666666667,home
+Basket Quantity,,0.33333333333333337,home
+Bin Depth,,0.4444444444444444,home
+Bin Material,,0.5833333333333333,home
+Blade Type,,0.33333333333333337,home
+Blower Speeds,,0.23076923076923073,home
+Body Material,,0.5384615384615384,home
+Bowl Depth,,0.4,home
+Boxes per Case,,0.2857142857142857,home
+Bracing,,0.4285714285714286,home
+Brake,,0.4,home
+Brake Included,,0.2857142857142857,home
+Brand,,0.375,home
+Broiler Grid Dimensions (WxH),,0.24137931034482762,home
+Built-in Storage Capacity,,0.28,home
+Bumpers,,0.4285714285714286,home
+Burner Configuration,,0.44999999999999996,home
+Burner Count,,0.3076923076923077,home
+Burner Rating,,0.3076923076923077,home
+Burner Type,,0.3076923076923077,home
+Burner/Control Interval,,0.21739130434782605,home
+Burner/Hot Top BTU,,0.16666666666666663,home
+Burner/Hot Top Size,,0.21052631578947367,home
+Burners,,0.3076923076923077,home
+Capacity,capacity,0.875,home
+Capacity (Gallons),,0.38888888888888884,home
+Capacity (Maximum Distributed Load),,0.19999999999999996,home
+Capacity (cu. ft.),,0.38888888888888884,home
+Capacity per Wheel,,0.38888888888888884,home
+Case Pack,,0.33333333333333337,home
+Caster Configuration,,0.44999999999999996,home
+Caster Size,,0.4545454545454546,home
+Caster Size (in.),,0.2941176470588235,home
+Caster Type,,0.36363636363636365,home
+Casters,,0.4285714285714286,home
+Casters with Brakes,,0.3157894736842105,home
+Category,,0.375,home
+Certification,certification,0.9230769230769231,home
+Certifications,certification,0.8571428571428572,home
+Chopper Type,,0.33333333333333337,home
+Closure Type,,0.41666666666666663,home
+Cold Plate Circuits,,0.26315789473684215,home
+Cold Plate Material,,0.368421052631579,home
+Collection,,0.3846153846153846,home
+Color,color,0.8,home
+Compartments,,0.33333333333333337,home
+Compatibility,,0.3846153846153846,home
+Compatibility Note,,0.2777777777777778,home
+Compatible With,,0.33333333333333337,home
+Compliance,,0.4,home
+Component,,0.33333333333333337,home
+Components,,0.30000000000000004,home
+Components Included,,0.26315789473684215,home
+Condenser Type,,0.2857142857142857,home
+Condition,,0.3846153846153846,home
+Configuration,,0.46153846153846156,home
+Construction,,0.3846153846153846,home
+Construction Material,,0.33333333333333337,home
+Construction Method,,0.26315789473684215,home
+Construction Type,,0.3529411764705882,home
+Container Material,,0.38888888888888884,home
+Container Size,,0.2857142857142857,home
+Container Type,,0.2857142857142857,home
+Control Features,,0.3125,home
+Control Rating,,0.4285714285714286,home
+Control Type,,0.25,home
+Controls,,0.25,home
+Convection Dimensions (WxDxH),,0.24137931034482762,home
+Cook Function Features,,0.2727272727272727,home
+Cooking Grid,,0.41666666666666663,home
+Cooking Stages,,0.3571428571428571,home
+Cooking Surface Dimensions,,0.34615384615384615,home
+Cool Touch Feature,,0.2777777777777778,home
+Cooling Type,,0.5,home
+Cord Length,,0.4545454545454546,home
+Corner Design,,0.3846153846153846,home
+Corner Protection,,0.4117647058823529,home
+Counter Top Edge Feature,,0.25,home
+Country of Installation for Warranty,,0.19444444444444442,home
+Country of Origin,,0.3529411764705882,home
+Country of Origin (Inferred),,0.25,home
+Craftsmanship,,0.23076923076923073,home
+Crossrail Material,,0.38888888888888884,home
+Crossrails,,0.23076923076923073,home
+Crossrails Location,,0.42105263157894735,home
+Crossrails Material,,0.368421052631579,home
+Crossrails_Location,,0.42105263157894735,home
+Crossrails_Material,,0.368421052631579,home
+Cube Size,,0.23076923076923073,home
+Current,,0.5,home
+Current (Amps),,0.2857142857142857,home
+Customization,,0.5384615384615384,home
+Daily Ice Production,,0.30000000000000004,home
+Daily Ice Production Capacity,,0.27586206896551724,home
+Daily Production Capacity,,0.31999999999999995,home
+Deck Configuration,,0.4444444444444444,home
+Deck Dimensions,,0.33333333333333337,home
+Deck Type,,0.33333333333333337,home
+Deli Pan Features,,0.3529411764705882,home
+Depth,depth,0.8,home
+Depth (Front-to-Back),,0.19047619047619047,home
+Depth (Overall),,0.2666666666666667,home
+Design,,0.33333333333333337,home
+Designer,,0.375,home
+Designer/Brand,,0.2142857142857143,home
+Diameter,diameter,0.875,home
+Dimensions,,0.30000000000000004,home
+Dimensions (Base),,0.18181818181818177,home
+Dimensions (Length x Width),,0.18518518518518523,home
+Dimensions (LxWxH),,0.16666666666666663,home
+Dimensions (W x D),,0.16666666666666663,home
+Dimensions (inches),,0.21052631578947367,home
+Dimensions (per deck),,0.19047619047619047,home
+Direction,,0.46153846153846156,home
+Discount,,0.25,home
+Dishwasher Safe,,0.2666666666666667,home
+Dispensing Method,,0.2941176470588235,home
+Disposer Type,,0.3076923076923077,home
+Dolly Type,,0.33333333333333337,home
+Door Bin Features,,0.2941176470588235,home
+Door Features,,0.3076923076923077,home
+Door Features (Non-Refrigerated Top),,0.19444444444444442,home
+Door Handle,,0.2727272727272727,home
+Door Material,,0.5384615384615384,home
+Door Mechanism,,0.2857142857142857,home
+Door Type,,0.33333333333333337,home
+Door Type (Non-Refrigerated Top),,0.1875,home
+Dovetail Quantity,,0.2941176470588235,home
+Drain Feature,,0.3846153846153846,home
+Drain Opening,,0.3846153846153846,home
+Drain Opening Size,,0.2777777777777778,home
+Drain Plate for Urn Trough,,0.1923076923076923,home
+Drain Size,,0.23076923076923073,home
+Drawer Count,,0.25,home
+Drawer Features,,0.33333333333333337,home
+Drawer Material,,0.4666666666666667,home
+Durability Features,,0.26315789473684215,home
+Duty Classification,,0.4736842105263158,home
+Duty Type,,0.33333333333333337,home
+Edge Protection,,0.33333333333333337,home
+Edge Type,,0.33333333333333337,home
+Edge Type (Front),,0.23529411764705888,home
+Efficacy,,0.3076923076923077,home
+Efficacy Against,,0.1875,home
+Efficiency Features,,0.2727272727272727,home
+Electrical Certification,,0.5416666666666667,home
+Electrical Requirements,,0.26086956521739135,home
+Electrical Specifications,,0.43999999999999995,home
+Electrical Specs,,0.25,home
+Energy Efficiency,,0.2941176470588235,home
+Energy Efficiency Feature,,0.28,home
+Energy Type,,0.2727272727272727,home
+Export Status,,0.23076923076923073,home
+Extenders Included,,0.2272727272727273,home
+Exterior Color (Refrigerated Bottom),,0.19444444444444442,home
+Exterior Finish,,0.2666666666666667,home
+Exterior Material,,0.4117647058823529,home
+Exterior Trim Color,,0.26315789473684215,home
+Fat Capacity,,0.5833333333333333,home
+Faucet Center-to-Center,,0.28,home
+Faucet Center-to-Center Spacing,,0.29032258064516125,home
+Feature,,0.4285714285714286,home
+Features,,0.41666666666666663,home
+Feet Type,,0.33333333333333337,home
+Feet_Type,,0.41666666666666663,home
+Finish,,0.33333333333333337,home
+Floor Material,,0.5,home
+Flow Direction,,0.3571428571428571,home
+Flue Riser,,0.25,home
+Flue Riser Details,,0.2777777777777778,home
+Flue Riser Dimensions,,0.2857142857142857,home
+Flue Riser Features,,0.2272727272727273,home
+Flue Riser Height,,0.2941176470588235,home
+Flue Riser Size,,0.2666666666666667,home
+Foot Caps,,0.33333333333333337,home
+Foot Material,,0.5384615384615384,home
+Foot Type,,0.41666666666666663,home
+Form Factor,,0.3076923076923077,home
+Format,,0.375,home
+Formula Type,,0.33333333333333337,home
+Frame/Legs Material,,0.42105263157894735,home
+Freezer Features,,0.25,home
+Frequency,,0.25,home
+Front & Side Rim Style,,0.2727272727272727,home
+Front & Side Rim Type,,0.2857142857142857,home
+Front Manifold Size,,0.26315789473684215,home
+Front Material,,0.5,home
+Front and Sides Material,,0.29166666666666663,home
+Front and Top Material,,0.31818181818181823,home
+Front-to-Back,,0.23076923076923073,home
+Fuel Type,,0.33333333333333337,home
+Gas Connection Location,,0.3913043478260869,home
+Gas Connections,,0.33333333333333337,home
+Gas Tank Capacity,,0.4117647058823529,home
+Gas Type Requirement,,0.25,home
+Gauge,gauge,0.8,home
+Gauge (Top),,0.36363636363636365,home
+Gauge - Legs,,0.33333333333333337,home
+Gauge - Top,,0.36363636363636365,home
+Gauge of Top,,0.33333333333333337,home
+Gauge_Top,,0.4444444444444444,home
+Glass Features (Refrigerated Bottom),,0.19444444444444442,home
+Grade,,0.4,home
+Grate Material,,0.5,home
+Grate Removability,,0.2777777777777778,home
+Grate Type,,0.33333333333333337,home
+Grease Trough Size,,0.2222222222222222,home
+Grid Height Adjustment,,0.2272727272727273,home
+Griddle,,0.2857142857142857,home
+Griddle Area Dimensions,,0.26086956521739135,home
+Griddle Location,,0.375,home
+Griddle Material,,0.4375,home
+Griddle Plate Material,,0.31818181818181823,home
+Griddle Presence,,0.2727272727272727,home
+Griddle Size,,0.25,home
+Griddle Thickness,,0.23529411764705888,home
+Griddle Width,,0.3076923076923077,home
+Handle,,0.33333333333333337,home
+Handle Type,,0.33333333333333337,home
+Heating Elements,,0.25,home
+Heating Elements Power,,0.2727272727272727,home
+Height,height,0.8333333333333334,home
+Height (Inside Rack),,0.25,home
+Height (Inside Stack),,0.23809523809523814,home
+Height (Outside),,0.3125,home
+Height (Overall),,0.3125,home
+Height (inches),,0.33333333333333337,home
+Heritage/Established,,0.30000000000000004,home
+Hot Top,,0.2857142857142857,home
+Hot Top Size,,0.25,home
+Ice Bin Depth,,0.3076923076923077,home
+Ice Bin Dimensions (L x W),,0.2692307692307693,home
+Ice Production (approximate),,0.2857142857142857,home
+Ice Production Capacity,,0.34782608695652173,home
+Ice Storage Capacity,,0.4,home
+Ice Style,,0.25,home
+Ice Type,,0.33333333333333337,home
+Ignition System,,0.19999999999999996,home
+Ignition Type,,0.23076923076923073,home
+Ignition Type (Ovens),,0.19047619047619047,home
+Included Accessories,,0.31818181818181823,home
+Included Components,,0.24,home
+Included Features,,0.2941176470588235,home
+Included Items,,0.24,home
+Includes,,0.375,home
+Installation Type,,0.2941176470588235,home
+Insulation,,0.3846153846153846,home
+Intended Use,,0.25,home
+Interior Construction,,0.2857142857142857,home
+Interior Features,,0.2941176470588235,home
+Interior Lighting,,0.2941176470588235,home
+Interior Material,,0.4117647058823529,home
+Keg Capacity,,0.5833333333333333,home
+Kettle Material,,0.4666666666666667,home
+Latch Material,,0.5,home
+Latex Content,,0.2857142857142857,home
+Lead Time,,0.33333333333333337,home
+Lead Time Before Shipping,,0.28,home
+Leg Adjustability,,0.23529411764705888,home
+Leg Configuration,,0.47058823529411764,home
+Leg Construction,,0.3125,home
+Leg Features,,0.33333333333333337,home
+Leg Height,,0.5,home
+Leg Material,,0.5833333333333333,home
+Leg Type,,0.25,home
+Legs,,0.33333333333333337,home
+Legs Material,,0.5384615384615384,home
+Legs/Feet Material,,0.38888888888888884,home
+Legs_Material,,0.5384615384615384,home
+Length,length,0.8333333333333334,home
+Length (Nominal),,0.3125,home
+Length (inches),,0.33333333333333337,home
+Lid Material,,0.5833333333333333,home
+Lid Material Characteristics,,0.25,home
+Lighting,,0.375,home
+Lighting Features,,0.2941176470588235,home
+Load Type,,0.33333333333333337,home
+Location,,0.46153846153846156,home
+Lock Mechanism,,0.2142857142857143,home
+MPN / Model #,,0.15384615384615385,home
+Manufacturer,manufacturer,0.9166666666666666,home
+Manufacturer Part Number,,0.64,home
+Material,material,0.875,home
+Material (Front),,0.4375,home
+"Material (Front, Sides, Shelf)",,0.23333333333333328,home
+Material (Top),,0.5,home
+"Material (Top, Front, Sides, Legs)",,0.20588235294117652,home
+Material - Legs,,0.4666666666666667,home
+Material - Top,,0.5,home
+Material Construction,,0.33333333333333337,home
+Material Features,,0.4117647058823529,home
+Material Feel,,0.5384615384615384,home
+Material Gauge,,0.5,home
+Material Series,,0.4666666666666667,home
+Material Type,,0.5384615384615384,home
+Material of Top,,0.4666666666666667,home
+Material_Legs,,0.5384615384615384,home
+Material_Top,,0.5833333333333333,home
+Max Diameter,,0.5833333333333333,home
+Max Diameter per Compartment,,0.25,home
+Max Height,,0.5,home
+Max Height per Compartment,,0.23076923076923073,home
+Maximum Diameter,,0.4375,home
+Maximum Diameter per Compartment,,0.25,home
+Maximum Glass Height,,0.25,home
+Maximum Height,,0.3571428571428571,home
+Maximum Height per Compartment,,0.19999999999999996,home
+Maximum Stemware/Tumbler Diameter,,0.24242424242424243,home
+Maximum Stemware/Tumbler Height,,0.19354838709677424,home
+Mechanism,,0.2666666666666667,home
+Midshelf Depth,,0.3571428571428571,home
+Mobility,,0.375,home
+Mobility Feature,,0.3125,home
+Mobility Features,,0.2941176470588235,home
+Model,,0.2857142857142857,home
+Model Number,,0.25,home
+Model Type,,0.41666666666666663,home
+Model Variant,,0.3076923076923077,home
+Model/Collection,,0.3125,home
+Model/Part Number,,0.2941176470588235,home
+Motor Characteristic,,0.25,home
+Motor Power,,0.2727272727272727,home
+Motor Power (Fan),,0.23529411764705888,home
+Mount Type,,0.5,home
+Mounting Type,,0.3076923076923077,home
+NSF Approved,,0.16666666666666663,home
+Noise Characteristic,,0.25,home
+Noise Level,,0.2727272727272727,home
+Not Suitable For,,0.3125,home
+Notable Features,,0.31818181818181823,home
+Number of Baskets,,0.23529411764705888,home
+Number of Burners,,0.2941176470588235,home
+Number of Burners/Hot Tops,,0.1923076923076923,home
+Number of Casters,,0.2941176470588235,home
+Number of Compartments,,0.2727272727272727,home
+Number of Doors,,0.19999999999999996,home
+Number of Drawers,,0.23529411764705888,home
+Number of Extenders,,0.26315789473684215,home
+Number of Levels/Tiers,,0.2272727272727273,home
+Number of Oven Racks,,0.19999999999999996,home
+Number of Ovens,,0.2666666666666667,home
+Number of Pan Wells,,0.21052631578947367,home
+Number of Plies,,0.2666666666666667,home
+Number of Racks,,0.19999999999999996,home
+Number of Sections,,0.38888888888888884,home
+Number of Shelves,,0.3529411764705882,home
+Number of Support Bars,,0.18181818181818177,home
+Number of Tiers,,0.19999999999999996,home
+Number of Wash Cycles,,0.19047619047619047,home
+Number of Wells,,0.19999999999999996,home
+Operating Temperature,,0.2857142857142857,home
+Operation Type,,0.3571428571428571,home
+Outdoor Use,,0.2727272727272727,home
+Outer Dimensions,,0.3125,home
+Outer Trim Size,,0.2666666666666667,home
+Oven,,0.2857142857142857,home
+Oven Base,,0.33333333333333337,home
+Oven Configuration,,0.4444444444444444,home
+Oven Control,,0.25,home
+Oven Controls,,0.23076923076923073,home
+Oven Count,,0.19999999999999996,home
+Oven Details,,0.2857142857142857,home
+Oven Dimensions (WxD),,0.19047619047619047,home
+Oven Features,,0.3846153846153846,home
+Oven Interior,,0.3076923076923077,home
+Oven Interior Material,,0.31818181818181823,home
+Oven Rack Count,,0.19999999999999996,home
+Oven Rack Included,,0.2777777777777778,home
+Ovens,,0.2857142857142857,home
+Overall Dimensions,,0.33333333333333337,home
+Overall Height,,0.3571428571428571,home
+Overall Length with Handle,,0.23076923076923073,home
+Packaging,,0.4444444444444444,home
+Packing Type,,0.25,home
+Pan/Tray Size Compatibility,,0.2222222222222222,home
+Phase,,0.6,home
+Phases,,0.5,home
+Pilot Type,,0.33333333333333337,home
+Pilot Type (Burners),,0.19999999999999996,home
+Place Setting Capacity,,0.36363636363636365,home
+Plug Type,,0.33333333333333337,home
+Ply,,0.19999999999999996,home
+Post Features,,0.3076923076923077,home
+Post Material,,0.5384615384615384,home
+Power,,0.4,home
+Power (Watts),,0.3076923076923077,home
+Power Consumption,,0.3529411764705882,home
+Power Levels,,0.33333333333333337,home
+Power Rating,,0.3571428571428571,home
+Power Settings,,0.4285714285714286,home
+Power Source,,0.41666666666666663,home
+Power Type,,0.33333333333333337,home
+Preheat Time,,0.33333333333333337,home
+Product Category,,0.4375,home
+Product Code,,0.5833333333333333,home
+Product Line,,0.5833333333333333,home
+Product Type,,0.75,home
+Product_Code,,0.6666666666666667,home
+Quality,,0.5,home
+Quantity,,0.375,home
+Quantity Per Carton,,0.26315789473684215,home
+Quantity in Set,,0.24,home
+Quantity per Box,,0.25,home
+Quantity per Carton,,0.26315789473684215,home
+Quantity per Container,,0.31818181818181823,home
+Quantity per Package,,0.25,home
+Rack Configuration,,0.4444444444444444,home
+Rack Material,,0.5384615384615384,home
+Rack Position Options,,0.33333333333333337,home
+Recommended Use,,0.19999999999999996,home
+Refrigerant,,0.36363636363636365,home
+Refrigerant Type,,0.375,home
+Refrigeration Power,,0.368421052631579,home
+Refrigeration Power (HP),,0.29166666666666663,home
+Refrigeration System,,0.35,home
+Refrigeration System Location,,0.3448275862068966,home
+Refrigeration System Power,,0.2692307692307693,home
+Refrigeration System Power (HP),,0.22580645161290325,home
+Refrigeration Type,,0.38888888888888884,home
+Region/Country Variant,,0.2272727272727273,home
+Regulator Included,,0.28,home
+Reinforcement,,0.23076923076923073,home
+Required Specification for Slide Bar Functionality,,0.21999999999999997,home
+Reviewed By,,0.18181818181818177,home
+Riser Height,,0.41666666666666663,home
+Rock Holder Material,,0.35,home
+Roll Diameter (Nominal),,0.30434782608695654,home
+Roll Size,,0.33333333333333337,home
+Rubber Pad Thickness,,0.19999999999999996,home
+Safety Features,,0.4666666666666667,home
+Safety and Sanitation Approvals,,0.29032258064516125,home
+Scent,,0.4,home
+Seal Type,,0.33333333333333337,home
+Sections,,0.3846153846153846,home
+Seller/Location,,0.4666666666666667,home
+Seller/Warehouse,,0.2272727272727273,home
+Series,,0.4285714285714286,home
+Shape,shape,0.8,home
+Shelf,,0.4285714285714286,home
+Shelf Adjustability,,0.21052631578947367,home
+Shelf Configuration,,0.42105263157894735,home
+Shelf Count,,0.2727272727272727,home
+Shelf Features,,0.3571428571428571,home
+Shelf Material,,0.5,home
+Shelf Material (Non-Refrigerated Section),,0.24390243902439024,home
+Shelf Material (Refrigerated Section),,0.2702702702702703,home
+Shelf Size,,0.30000000000000004,home
+Shelf Type,,0.30000000000000004,home
+Shelving,,0.5,home
+Shelving (Non-Refrigerated Top),,0.22580645161290325,home
+Shelving (Refrigerated Bottom),,0.23333333333333328,home
+Shipping Method,,0.4666666666666667,home
+Shipping Restriction,,0.35,home
+Shipping Weight,,0.4666666666666667,home
+Side Color,,0.4,home
+Side Material,,0.5384615384615384,home
+Side Style,,0.33333333333333337,home
+Sides Material,,0.5,home
+Sink Dimensions,,0.2666666666666667,home
+Sink Location,,0.46153846153846156,home
+Size,,0.25,home
+Size (Height),,0.3846153846153846,home
+Size (Length x Width x Height),,0.19999999999999996,home
+Size (Length x Width),,0.23809523809523814,home
+Size (Length),,0.3846153846153846,home
+Size (Overall),,0.2142857142857143,home
+Size (oz),,0.1333333333333333,home
+Size (per wipe),,0.19999999999999996,home
+Slice Thickness,,0.19999999999999996,home
+Slide Configuration,,0.42105263157894735,home
+Special Assembly Note,,0.23809523809523814,home
+Special Cycle,,0.3076923076923077,home
+Special Feature,,0.33333333333333337,home
+Special Features,,0.3125,home
+Special Protection,,0.2777777777777778,home
+Spigot Type,,0.33333333333333337,home
+Splash Guard,,0.41666666666666663,home
+Splash_Guard,,0.41666666666666663,home
+Stackable,stackable,0.8888888888888888,home
+Stacking Feature,,0.375,home
+Stainless Steel Gauge,,0.5909090909090908,home
+Stainless Steel Series,,0.7727272727272727,home
+Stainless Steel Type,,0.5909090909090908,home
+Standards Compliance,,0.25,home
+Stem Type,,0.25,home
+Storage Capacity,,0.4375,home
+Storage Features,,0.375,home
+Sub Top Material,,0.4375,home
+Suitable Applications,,0.38095238095238093,home
+Suitable For,,0.33333333333333337,home
+Suitable Surfaces,,0.2941176470588235,home
+Suitable for,,0.33333333333333337,home
+Supplier,,0.25,home
+Surface Compatibility,,0.2857142857142857,home
+Surface Type,,0.33333333333333337,home
+Table Edge,,0.4,home
+Table Shape,,0.36363636363636365,home
+Table Top Edge Feature,,0.2272727272727273,home
+Table Top Length,,0.375,home
+Table Top Material,,0.38888888888888884,home
+Table Top Width Range,,0.2857142857142857,home
+Table_Feature,,0.31818181818181823,home
+Tank Holder Capacity,,0.35,home
+Tank Purchase,,0.3076923076923077,home
+Temperature Control,,0.26315789473684215,home
+Temperature Control Type,,0.29166666666666663,home
+Temperature Range,,0.2941176470588235,home
+Thermostat,,0.4,home
+Thermostat Adjustability,,0.25,home
+Thermostat Adjustment Range,,0.2592592592592593,home
+Thermostat Range,,0.3125,home
+Thermostat Type,,0.4,home
+Thickness,,0.33333333333333337,home
+Thickness (Mil),,0.19999999999999996,home
+Threaded Stem Size,,0.2222222222222222,home
+Top Dimensions,,0.2857142857142857,home
+Top Features,,0.33333333333333337,home
+Top Gauge,,0.4444444444444444,home
+Top Length,,0.5,home
+Top Material,,0.5833333333333333,home
+Top Material/Feature,,0.35,home
+Top Thickness (Gauge),,0.19047619047619047,home
+Top Thickness (Riser),,0.19047619047619047,home
+Top Width,,0.4444444444444444,home
+Top Width Range,,0.33333333333333337,home
+Total BTU,,0.30000000000000004,home
+Total Capacity,,0.5,home
+Traverse Quantity,,0.3529411764705882,home
+Traverse Type,,0.3076923076923077,home
+Tub Material,,0.5833333333333333,home
+Tube Dimensions,,0.2666666666666667,home
+Tube Spacing,,0.33333333333333337,home
+Type,,0.4,home
+UPC,,0.30000000000000004,home
+UPC / EAN,,0.0,home
+Undershelf Adjustability,,0.20833333333333337,home
+Undershelf Material,,0.368421052631579,home
+Urns Trough Dimensions,,0.31818181818181823,home
+Usage,,0.4285714285714286,home
+Usage Type,,0.30000000000000004,home
+Valve Control,,0.2666666666666667,home
+Vat Capacity (lbs),,0.38888888888888884,home
+Voltage,voltage,0.8571428571428572,home
+Voltage/Frequency/Phase,,0.26086956521739135,home
+Wall & Ceiling Material,,0.30434782608695654,home
+Warranty,warranty,0.875,home
+Water Usage,,0.4545454545454546,home
+Weight (Crated),,0.33333333333333337,home
+Weight Capacity,,0.4666666666666667,home
+Weight Capacity per Shelf,,0.28,home
+Wheel Dimensions,,0.3125,home
+Wheel Features,,0.3571428571428571,home
+Wheel Material,,0.5,home
+Wheel Material Features,,0.30434782608695654,home
+Width,width,0.8,home
+Width (Specific),,0.25,home
+Width (inches),,0.2857142857142857,home
+Width Range,,0.36363636363636365,home
+Accent Diamonds,,0.2666666666666667,jewelry
+Accompanying Stones,,0.26315789473684215,jewelry
+Authentication,,0.4375,jewelry
+Authenticity,,0.33333333333333337,jewelry
+Authorization,,0.5384615384615384,jewelry
+Authorized Dealer,,0.5294117647058824,jewelry
+Authorized Retailer,,0.4736842105263158,jewelry
+Available Metals,,0.25,jewelry
+Band Features,,0.3076923076923077,jewelry
+Band Setting,,0.5,jewelry
+Band Style,,0.5,jewelry
+Band Style Code,,0.33333333333333337,jewelry
+Band Type,,0.36363636363636365,jewelry
+Band Width,,0.4,jewelry
+Band Width (Implicit),,0.19047619047619047,jewelry
+Band Width/Style,,0.3125,jewelry
+Brand,brand,0.8,jewelry
+Center Stone Shape,,0.4444444444444444,jewelry
+Collection,collection,0.9,jewelry
+Collection (if applicable),,0.34615384615384615,jewelry
+Collection/Brand,,0.5625,jewelry
+Collection/Design,,0.5294117647058824,jewelry
+Collection/Designer,,0.4736842105263158,jewelry
+Comfort Feature,,0.2666666666666667,jewelry
+Comfort Fit,,0.21052631578947367,jewelry
+Contact Email,,0.4666666666666667,jewelry
+Contact Information,,0.42105263157894735,jewelry
+Contact Phone,,0.4666666666666667,jewelry
+Contact for Customization,,0.31999999999999995,jewelry
+Customization Availability,,0.3076923076923077,jewelry
+Cut,,0.33333333333333337,jewelry
+Dealer Location,,0.4666666666666667,jewelry
+Design,,0.30000000000000004,jewelry
+Design Features,,0.2666666666666667,jewelry
+Diamond Cut,,0.2727272727272727,jewelry
+Distributor,,0.1875,jewelry
+Distributor Location,,0.44999999999999996,jewelry
+Edge Type,,0.36363636363636365,jewelry
+Finish,,0.33333333333333337,jewelry
+Fit Style,,0.5,jewelry
+Fit Type,,0.4,jewelry
+Gemstone,,0.30000000000000004,jewelry
+Gender,gender,0.8333333333333334,jewelry
+Gold Color (Available),,0.2272727272727273,jewelry
+Gold Color Options,,0.38888888888888884,jewelry
+Gold Karat (Available in),,0.19999999999999996,jewelry
+Gold Purity (where applicable),,0.23333333333333328,jewelry
+Location,,0.5,jewelry
+Location of Dealer,,0.2777777777777778,jewelry
+Location of Retailer,,0.30000000000000004,jewelry
+Matching Product,,0.1875,jewelry
+Material,,0.33333333333333337,jewelry
+Metal Color,,0.36363636363636365,jewelry
+Metal Type,,0.7,jewelry
+Metal Type (Available),,0.31818181818181823,jewelry
+Model Number,,0.75,jewelry
+Model/Style Number,,0.5,jewelry
+Necklace Type,,0.3846153846153846,jewelry
+Origin/Style,,0.5,jewelry
+Precious Metal Types,,0.35,jewelry
+Product Category,,0.4375,jewelry
+Product Code,,0.5833333333333333,jewelry
+Product Codes,,0.5384615384615384,jewelry
+Product ID,,0.5,jewelry
+Product Line,,0.5833333333333333,jewelry
+Product Line/Style,,0.5,jewelry
+Product Type,,0.75,jewelry
+Retailer,,0.375,jewelry
+Retailer Establishment Year,,0.2222222222222222,jewelry
+Retailer Founding Year,,0.2272727272727273,jewelry
+Retailer Location,,0.4117647058823529,jewelry
+Ring Style,,0.7,jewelry
+SKU/Model Numbers,,0.5294117647058824,jewelry
+Seller,,0.5,jewelry
+Seller Establishment Year,,0.24,jewelry
+Seller/Jeweler,,0.2142857142857143,jewelry
+Setting,,0.4285714285714286,jewelry
+Setting Style,,0.5384615384615384,jewelry
+Setting Type,,0.41666666666666663,jewelry
+Specific Material (as shown),,0.25,jewelry
+Stone Presence,,0.4285714285714286,jewelry
+Stone Shape,,0.7272727272727273,jewelry
+Style,,0.4,jewelry
+Target Gender,,0.46153846153846156,jewelry
+Type,,0.30000000000000004,jewelry
+Width,width,0.8,jewelry
+Width (mm),,0.4,jewelry
+360° Swivel,,0.18181818181818177,office
+Acceptable Settings,,0.21052631578947367,office
+Acid-Free,,0.33333333333333337,office
+Additional Features,,0.21052631578947367,office
+Additional Storage,,0.2222222222222222,office
+Adhesive Technology,,0.21052631578947367,office
+Adhesive Type,,0.23076923076923073,office
+Adjustment Mechanism,,0.35,office
+Adjustment Type,,0.33333333333333337,office
+Alternate Identifiers,,0.2857142857142857,office
+Alternate Item #,,0.30000000000000004,office
+Alternate Item #s,,0.25,office
+Alternate Item Numbers,,0.28,office
+Alternate Model Number,,0.28,office
+Alternative Compatibility Code,,0.4,office
+Approximate Band Count per Pack,,0.32258064516129037,office
+Assembly Information,,0.5,office
+Authenticity,authenticity,0.9166666666666666,office
+Back Side Finish,,0.3125,office
+Backing,,0.4285714285714286,office
+Barrel Color,,0.25,office
+Base Dimensions,,0.33333333333333337,office
+Base Material,,0.6153846153846154,office
+Base Material Durability,,0.41666666666666663,office
+Base Material Warping Resistance,,0.25,office
+Base Protection,,0.4666666666666667,office
+Base Stability Features,,0.34782608695652173,office
+Base Thickness,,0.2857142857142857,office
+Base Type,,0.30000000000000004,office
+Beam Color,,0.30000000000000004,office
+Binder Compatibility,,0.6,office
+Binder Size Compatibility,,0.48,office
+Binding,binding,0.8571428571428572,office
+Binding Type,,0.5,office
+Binding/Punching,,0.375,office
+Blade Lock Mechanism,,0.25,office
+Blade Material,,0.6428571428571428,office
+Blade Type,,0.33333333333333337,office
+Boxes per Carton,,0.4117647058823529,office
+Brand,brand,0.8,office
+Brightness,,0.4,office
+Calendar Term,,0.3076923076923077,office
+Calendar Year,,0.3076923076923077,office
+Capacity,capacity,0.875,office
+Capacity (Weight),,0.4117647058823529,office
+Card Capacity,,0.5384615384615384,office
+Card Size,,0.33333333333333337,office
+Card Type,,0.33333333333333337,office
+Cartridge Color,,0.2666666666666667,office
+Cartridge Part Number,,0.28,office
+Cartridge Type,,0.2857142857142857,office
+Category,,0.375,office
+Cavity Size,,0.2727272727272727,office
+Certification,,0.47058823529411764,office
+Certifications,,0.4285714285714286,office
+Class,,0.4285714285714286,office
+Cleaning Method,,0.4,office
+Clip Type,,0.25,office
+Closure Type,,0.5,office
+Color,,0.6666666666666667,office
+Color/Finish,,0.41666666666666663,office
+Color/Material,,0.5294117647058824,office
+Colors,colors,0.8333333333333334,office
+Compatibility,compatibility,0.9230769230769231,office
+Compatibility Brand,,0.631578947368421,office
+Compatible Page Size,,0.4,office
+Compatible Printer Models,,0.48,office
+Compatible Printer Series,,0.36,office
+Compatible Printers,,0.4736842105263158,office
+Compatible Roll Counts,,0.40909090909090906,office
+Compatible Roll/Label Types,,0.33333333333333337,office
+Compatible With,,0.6,office
+Components Included,,0.26315789473684215,office
+Connection Type,,0.33333333333333337,office
+Construction Material,,0.47619047619047616,office
+Content Sheet Included,,0.2272727272727273,office
+Cord Type,,0.33333333333333337,office
+Core Size,,0.3125,office
+Corner Feature,,0.25,office
+Corner Material/Feature,,0.30434782608695654,office
+Country of Origin,,0.3529411764705882,office
+Cover Features,,0.3529411764705882,office
+Cover Material,,0.5294117647058824,office
+Cover Type,,0.33333333333333337,office
+Covering Material,,0.5294117647058824,office
+Cushioning Type,,0.4,office
+Customization,,0.375,office
+Customization Tool,,0.33333333333333337,office
+Cut Position,,0.3529411764705882,office
+Cutting Capacity,,0.4375,office
+Cutting Capacity (sheets at once),,0.21212121212121215,office
+Cutting Length,,0.3571428571428571,office
+Depth,depth,0.8,office
+Design,,0.33333333333333337,office
+Design Feature,,0.2857142857142857,office
+Design Features,,0.2666666666666667,office
+Desk Protection,,0.4,office
+Device Compatibility,,0.65,office
+Device Type,,0.33333333333333337,office
+Device Types Compatible,,0.30434782608695654,office
+Diameter,,0.33333333333333337,office
+Dimensions,,0.4,office
+Dimensions (W x D x H),,0.18181818181818177,office
+Dimensions Unit,,0.2666666666666667,office
+Dispenser Dimensions,,0.30000000000000004,office
+Dispenser Type,,0.3125,office
+Divider per Drawer,,0.2777777777777778,office
+Document Size Compatibility,,0.4814814814814815,office
+Drawer Construction,,0.4736842105263158,office
+Drawer Count,,0.2857142857142857,office
+Durability,,0.5714285714285714,office
+Durability Features,,0.26315789473684215,office
+Eco-Friendliness,,0.3125,office
+Eco-Friendly Content,,0.25,office
+Edge Protection,,0.4,office
+Edge Type,,0.33333333333333337,office
+Edition Year,,0.25,office
+Envelope Style,,0.47058823529411764,office
+Ergonomic Feature,,0.2941176470588235,office
+Extension Length,,0.3125,office
+Feature,,0.4285714285714286,office
+Features,,0.375,office
+Feet Type,,0.33333333333333337,office
+Filing Capacity per Drawer Depth,,0.28125,office
+Finish,,0.4285714285714286,office
+Flap Type,,0.25,office
+Folder Type,,0.33333333333333337,office
+Follower Blocks per Drawer,,0.2692307692307693,office
+Format,,0.375,office
+Frame Color,,0.2727272727272727,office
+Frame Material,,0.5714285714285714,office
+Genuine Part Number,,0.36,office
+Genuineness,,0.2727272727272727,office
+Ghosting Resistance,,0.26315789473684215,office
+Global Product Type,,0.4736842105263158,office
+Grid Measurement,,0.25,office
+Grid Pattern,,0.3125,office
+Grip Material,,0.5384615384615384,office
+Grip Type,,0.33333333333333337,office
+Handle Material,,0.6,office
+Handle Type,,0.33333333333333337,office
+Height,height,0.8333333333333334,office
+Holder Features,,0.2666666666666667,office
+Holder Material,,0.5333333333333333,office
+Holder Size,,0.3076923076923077,office
+Holder Size (Inch),,0.25,office
+Holder Type,,0.33333333333333337,office
+Hole Diameter,,0.3076923076923077,office
+Hole Punched,,0.33333333333333337,office
+Ideal Environments,,0.2222222222222222,office
+Imaging Device Type,,0.21052631578947367,office
+Impression Durability,,0.4285714285714286,office
+Included Accessories,,0.25,office
+Included Roll Count,,0.21052631578947367,office
+Includes,,0.25,office
+Index Guides,,0.25,office
+Index Type,,0.33333333333333337,office
+Indexing System,,0.2666666666666667,office
+Ink Color,,0.33333333333333337,office
+Ink Color(s),,0.41666666666666663,office
+Ink Flow System,,0.23529411764705888,office
+Ink Properties,,0.2941176470588235,office
+Ink Surface,,0.36363636363636365,office
+Ink System,,0.25,office
+Ink Type,,0.25,office
+Ink Visibility,,0.5,office
+Inner Packaging Quantity,,0.41666666666666663,office
+Insert Sheet Size,,0.2941176470588235,office
+Insert Size,,0.3125,office
+Installation Characteristic,,0.2962962962962963,office
+Intended Use,,0.25,office
+Internal Organization,,0.33333333333333337,office
+Item #:,,0.25,office
+Key Benefit,,0.25,office
+Key Features,,0.2941176470588235,office
+Keyboard Tray Dimensions,,0.33333333333333337,office
+Laser Class,,0.36363636363636365,office
+Layout,,0.25,office
+Layout Style,,0.33333333333333337,office
+Length,length,0.8333333333333334,office
+Lid Type,,0.33333333333333337,office
+Lignin-Free,,0.2727272727272727,office
+Line Characteristics,,0.25,office
+Line Style,,0.25,office
+Load Type,,0.33333333333333337,office
+Loading Type,,0.33333333333333337,office
+Magnetic,,0.375,office
+Manufacturer,,0.43999999999999995,office
+Manufacturing Country,,0.43999999999999995,office
+Manufacturing Location,,0.43999999999999995,office
+Manufacturing Standards,,0.4347826086956522,office
+Margin Rule Color,,0.23529411764705888,office
+Material,material,0.875,office
+Material (Covering),,0.368421052631579,office
+Material (Wrist Rest Covering),,0.2666666666666667,office
+Material (partial),,0.38888888888888884,office
+Material Composition,,0.35,office
+Material Reinforcement,,0.31818181818181823,office
+Maximum Label/Sticker Width,,0.2962962962962963,office
+Maximum Roll/Label Width,,0.25,office
+Maximum Sheets Cut,,0.2777777777777778,office
+Maximum Sheets Cut at Once,,0.23076923076923073,office
+Mechanical Aid,,0.3571428571428571,office
+Mechanism,,0.4444444444444444,office
+Message,,0.2857142857142857,office
+Model,,0.4,office
+Model Compatibility,,0.631578947368421,office
+Model Number,,0.2941176470588235,office
+Mounting Options,,0.4375,office
+Mounting Track Length,,0.33333333333333337,office
+Mounting Track Material,,0.34782608695652173,office
+Mouse Compatibility,,0.631578947368421,office
+Mouse Pad Compatibility,,0.5217391304347826,office
+Mouse Pad Tracking Control,,0.23076923076923073,office
+Navigation Features,,0.21052631578947367,office
+Notch Type,,0.41666666666666663,office
+Number of Compatible Printers,,0.31034482758620685,office
+Number of Guides,,0.24,office
+Number of Holes,,0.2666666666666667,office
+Number of Pads per Carton,,0.24,office
+Number of Sets,,0.2142857142857143,office
+Number of Sheets,,0.25,office
+Number of Sheets per Pad,,0.25,office
+Number of Subjects,,0.2222222222222222,office
+Number of Tabs,,0.2142857142857143,office
+OEM Compatibility Brand,,0.5217391304347826,office
+OEM Status,,0.1875,office
+Occasion,,0.3076923076923077,office
+Operating Method,,0.3125,office
+Orientation,,0.3846153846153846,office
+Pack Quantity,,0.7692307692307692,office
+Pack Weight,,0.5,office
+Packaging Quantity,,0.5555555555555556,office
+Pad Type,,0.33333333333333337,office
+Page Color/Theme,,0.25,office
+Page Size,,0.4,office
+Page Yield,,0.7,office
+Pages per Week,,0.2857142857142857,office
+Paper Brightness,,0.5,office
+Paper Capacity,,0.5,office
+Paper Color,,0.36363636363636365,office
+Paper Content,,0.4285714285714286,office
+Paper Quality,,0.46153846153846156,office
+Paper Type,,0.33333333333333337,office
+Paper Weight,,0.75,office
+Paper Weight (lbs),,0.5,office
+Paper Weight for Max Sheets,,0.33333333333333337,office
+Part Number,,0.31999999999999995,office
+Pen Type,,0.25,office
+Pocket Count per Divider,,0.33333333333333337,office
+Pocket Features,,0.2666666666666667,office
+Point Size,,0.4,office
+Point Type,,0.41666666666666663,office
+Print Color,,0.2727272727272727,office
+Print Compatibility,,0.631578947368421,office
+Print Quality,,0.3571428571428571,office
+Print Quality Description,,0.31999999999999995,office
+Printer Compatibility,,0.5714285714285714,office
+Printer Technology,,0.2222222222222222,office
+Printing Compatibility,,0.5454545454545454,office
+Product Category,,0.5625,office
+Product Code,,0.5833333333333333,office
+Product Codes,,0.5384615384615384,office
+Product ID,,0.5,office
+Product Line,,0.5833333333333333,office
+Product Line Code,,0.4117647058823529,office
+Product Series,,0.5625,office
+Product Status,,0.5,office
+Product Style,,0.6923076923076923,office
+Product Type,,0.75,office
+Product Weight,,0.4375,office
+Program Type,,0.41666666666666663,office
+Projection Distance,,0.3157894736842105,office
+Quality,,0.5,office
+Quality Standard,,0.5294117647058824,office
+Quality Standards,,0.47058823529411764,office
+Quality Type,,0.25,office
+Quantity,,0.5384615384615384,office
+Quantity Per Pack,,0.2941176470588235,office
+Quantity Per Set,,0.25,office
+Quantity per Box,,0.25,office
+Quantity per Carton,,0.3157894736842105,office
+Quantity per Pack,,0.2941176470588235,office
+Quantity per Pack (Count),,0.24,office
+Quantity per Ream,,0.2941176470588235,office
+Quantity per Set,,0.25,office
+Quantity per Unit,,0.23529411764705888,office
+Reams per Carton,,0.3529411764705882,office
+Recycled Content,,0.3125,office
+Refill Benefits,,0.2666666666666667,office
+Refill Compatible,,0.2941176470588235,office
+Refill Option,,0.3846153846153846,office
+Refill Pages,,0.2857142857142857,office
+Refill Type,,0.25,office
+Refillability,,0.5,office
+Reinforcement,,0.3076923076923077,office
+Related Products,,0.25,office
+Retraction Mechanism,,0.25,office
+Return Program,,0.2857142857142857,office
+Rubber Band Length,,0.2777777777777778,office
+Rubber Band Size,,0.3125,office
+Rubber Band Thickness,,0.23809523809523814,office
+Rule Type,,0.33333333333333337,office
+Ruler Scales,,0.33333333333333337,office
+Ruling,,0.5,office
+"Ruling Orientation (for 24""x16"")",,0.21875,office
+Ruling Sides,,0.25,office
+Ruling Style,,0.33333333333333337,office
+Ruling Type,,0.2727272727272727,office
+Safety Feature,,0.2857142857142857,office
+Safety Features,,0.2666666666666667,office
+Seam Type,,0.25,office
+Seam Width,,0.4,office
+Security Feature,,0.25,office
+Security Features,,0.23529411764705888,office
+Self-Sharpening,,0.33333333333333337,office
+Seller,,0.33333333333333337,office
+Seller/Website,,0.3125,office
+Series,,0.375,office
+Setup Requirement,,0.23529411764705888,office
+Sheet Capacity,,0.5,office
+Sheet Capacity per Divider,,0.2692307692307693,office
+Sheet Capacity per Pocket,,0.28,office
+Sheet Color,,0.3529411764705882,office
+Sheet Count,,0.3529411764705882,office
+Sheet Count (per unit),,0.2727272727272727,office
+Sheet Count per Pack,,0.25,office
+Sheet Features,,0.3529411764705882,office
+Sheet Quantity per Pad,,0.31818181818181823,office
+Sheet Size,,0.33333333333333337,office
+Sheet Size Compatibility,,0.5,office
+Sheets Per Unit,,0.3529411764705882,office
+Sheets per Inner Packaging,,0.3846153846153846,office
+Sheets per Pad,,0.4117647058823529,office
+Shipping,shipping,0.875,office
+Shipping Carrier,,0.4375,office
+Shipping Weight,,0.4666666666666667,office
+Sidedness,,0.33333333333333337,office
+Sides Closed,,0.25,office
+Size,,0.25,office
+Size (Detached),,0.19999999999999996,office
+Size (Inches),,0.23076923076923073,office
+Size (Number),,0.23529411764705888,office
+Size (Specific to this Product),,0.22580645161290325,office
+Size (inches),,0.23076923076923073,office
+Size Compatibility,,0.6666666666666667,office
+Slide Type,,0.33333333333333337,office
+Software Availability,,0.47619047619047616,office
+Sold As,,0.4285714285714286,office
+Source,source,0.8333333333333334,office
+Special Feature,,0.33333333333333337,office
+Special Feature 1,,0.2941176470588235,office
+Special Feature 2,,0.2941176470588235,office
+Special Features,,0.3125,office
+Special Recognition,,0.368421052631579,office
+Special Section(s),,0.38888888888888884,office
+Specific Product Type,,0.47619047619047616,office
+Stackability,,0.6428571428571428,office
+Staining Resistance,,0.21052631578947367,office
+Stamp Count per Roll,,0.25,office
+Stamp Type,,0.25,office
+Standards Compliance,,0.25,office
+Style,,0.4,office
+Style Compatibility,,0.631578947368421,office
+Sub-Category,,0.25,office
+Suitable For,,0.25,office
+Suitable Surfaces,,0.2941176470588235,office
+Suitable Venues,,0.2666666666666667,office
+Supplier,,0.3571428571428571,office
+Supply Type,,0.25,office
+Supported Card Sizes,,0.35,office
+Surface Characteristics,,0.30434782608695654,office
+Surface Colors,,0.4285714285714286,office
+Surface Material,,0.5,office
+Surface Type,,0.33333333333333337,office
+Sustainability,sustainability,0.9285714285714286,office
+Sustainability Certification,,0.4642857142857143,office
+Sustainability Feature,,0.5909090909090908,office
+Tab Color,,0.33333333333333337,office
+Tab Count,,0.3076923076923077,office
+Tab Features,,0.2857142857142857,office
+Tab Reinforcement,,0.2941176470588235,office
+Tab Title,,0.33333333333333337,office
+Tab Titles,,0.30000000000000004,office
+Tab Type,,0.30000000000000004,office
+Tape Length,,0.4545454545454546,office
+Tape Size,,0.33333333333333337,office
+Tape Type,,0.30000000000000004,office
+Tape Width,,0.4,office
+Technology,,0.4,office
+Technology Features,,0.3157894736842105,office
+Templates Availability,,0.5,office
+Thickness,,0.33333333333333337,office
+Thickness (Stock),,0.17647058823529416,office
+Tilt Adjustment Type,,0.35,office
+Time Interval,,0.46153846153846156,office
+Tip Size,,0.25,office
+Tip Type,,0.25,office
+Toner Cartridge Model,,0.2857142857142857,office
+Transparency,,0.33333333333333337,office
+Tray Dimensions,,0.2666666666666667,office
+Tray Material,,0.6153846153846154,office
+Type,,0.25,office
+UPC,,0.30000000000000004,office
+Usage,,0.2857142857142857,office
+Warranty,warranty,0.875,office
+Warranty (Compatible/Remanufactured),,0.2222222222222222,office
+Warranty (Genuine OEM),,0.31818181818181823,office
+Warranty (Non-OEM),,0.38888888888888884,office
+Warranty (OEM),,0.5,office
+Weight,height,0.8333333333333334,office
+Weight (Paper Stock),,0.25,office
+Weight (lb),,0.4545454545454546,office
+Weight (lbs),,0.41666666666666663,office
+Weight Capacity Unit,,0.35,office
+Weight Characteristic,,0.2857142857142857,office
+Weight Description,,0.33333333333333337,office
+Width,width,0.8,office
+Wrist Rest,,0.30000000000000004,office
+Wrist Rest Benefit,,0.2222222222222222,office
+Wrist Rest Feature,,0.2777777777777778,office
+Wrist Rest Mechanism,,0.25,office
+Wrist Support Material,,0.4545454545454546,office
+Write Compatibility,,0.631578947368421,office
+Writing Experience,,0.2777777777777778,office
+Writing Feel,,0.25,office
+Writing System,,0.2142857142857143,office
+Year,,0.2857142857142857,office
+Yield,,0.4,office
+Yield Type,,0.25,office

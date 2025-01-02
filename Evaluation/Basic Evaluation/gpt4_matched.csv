@@ -1,0 +1,99 @@
+Extracted Attribute,Best Match,Similarity,Category
+Product Type,,0.75,grocery
+Brand,brand,0.8,grocery
+Series,series,0.8333333333333334,grocery
+Product_type,product_type,0.9166666666666666,grocery
+Flavor,flavor,0.8333333333333334,grocery
+PackingType,,0.75,grocery
+Ingredients,ingredient,0.8181818181818181,grocery
+Pack quantity,pack_quantity,0.8461538461538461,grocery
+Packing type,packing_type,0.8333333333333334,grocery
+Packing Type,,0.75,grocery
+Flavors,,0.7142857142857143,grocery
+Ingredient,ingredient,0.9,grocery
+Color,color,0.8,grocery
+Product type,product_type,0.8333333333333334,grocery
+product_title,,0.7692307692307692,grocery
+product_code,,0.75,grocery
+source,source,1.0,grocery
+flavor,flavor,1.0,grocery
+packing_type,packing_type,1.0,grocery
+Organic,organic,0.8571428571428572,grocery
+Packing_Type,packing_type,0.8333333333333334,grocery
+Certification,certification,0.9230769230769231,home
+Warranty,warranty,0.875,home
+Voltage,voltage,0.8571428571428572,home
+Capacity,capacity,0.875,home
+Material,material,0.875,home
+Color,color,0.8,home
+Manufacturer,manufacturer,0.9166666666666666,home
+Made_in,made_in,0.8571428571428572,home
+Stackable,stackable,0.8888888888888888,home
+Certifications,certification,0.8571428571428572,home
+Width,width,0.8,home
+Product type,product_type,0.8333333333333334,home
+Base,,0.75,home
+Height,height,0.8333333333333334,home
+Length,length,0.8333333333333334,home
+Gauge,gauge,0.8,home
+Amps,,0.75,home
+Made in,,0.7142857142857143,home
+Product Type,,0.75,home
+Depth,depth,0.8,home
+Product_Type,product_type,0.8333333333333334,home
+Materials,,0.7777777777777778,home
+Shape,shape,0.8,home
+Diameter,diameter,0.875,home
+product_title,,0.7692307692307692,home
+Shelves,shelves,0.8571428571428572,home
+Splash,splash,0.8333333333333334,home
+Weight,height,0.8333333333333334,home
+material,material,1.0,home
+certifications,certification,0.9285714285714286,home
+Shipping,shipping,0.875,home
+Product_Type,product_type,0.8333333333333334,jewelry
+Brand,brand,0.8,jewelry
+Collection,collection,0.9,jewelry
+Model Number,,0.75,jewelry
+Product Type,,0.75,jewelry
+Gender,gender,0.8333333333333334,jewelry
+Product type,product_type,0.8333333333333334,jewelry
+Width,width,0.8,jewelry
+product_title,,0.7692307692307692,jewelry
+Model_Number,model_number,0.8333333333333334,jewelry
+Stone Shape,,0.7272727272727273,jewelry
+Stone_Type,,0.7272727272727273,jewelry
+Ring style,ring_style,0.8,jewelry
+Stone Setting,,0.7142857142857143,jewelry
+product_type,product_type,1.0,jewelry
+product_style,product_type,0.8461538461538461,jewelry
+Brand,brand,0.8,office
+Page Yield,,0.7,office
+Compatibility,compatibility,0.9230769230769231,office
+Product Type,,0.75,office
+Capacity,capacity,0.875,office
+Warranty,warranty,0.875,office
+product_title,,0.7692307692307692,office
+brand,brand,1.0,office
+Colors,colors,0.8333333333333334,office
+Page yield,page_yield,0.8,office
+Product type,product_type,0.8333333333333334,office
+Material,material,0.875,office
+Source,source,0.8333333333333334,office
+Paper Weight,,0.75,office
+Page-Yield,,0.7,office
+color,colors,0.8333333333333334,office
+product_code,,0.75,office
+card_quantity,,0.7692307692307692,office
+Weight,height,0.8333333333333334,office
+Store,store,0.8,office
+Product_Type,product_type,0.8333333333333334,office
+compatibility,compatibility,1.0,office
+Product_type,product_type,0.9166666666666666,office
+Binding,binding,0.8571428571428572,office
+Pack Quantity,,0.7692307692307692,office
+Length,length,0.8333333333333334,office
+Shipping,shipping,0.875,office
+Mounting,mounting,0.875,office
+Product material,product_material,0.875,office
+Closure,closure,0.8571428571428572,office

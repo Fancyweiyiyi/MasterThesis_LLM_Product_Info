@@ -1,0 +1,5 @@
+Category,Frequent Precision,Frequent Recall,Frequent F1,Long-Tail Precision,Long-Tail Recall,Long-Tail F1,Macro F1
+grocery,0.0,0.0,0,0.0,0.0,0,0.0
+home,0.0,0.0,0,0.0,0.0,0,0.0
+jewelry,0.0,0.0,0,0.0,0.0,0,0.0
+office,0.0,0.0,0,0.0,0.0,0,0.0

@@ -1,0 +1,969 @@
+[
+    {
+        "title": "\"Stolzle S3500015 New York Series 11-oz Double Old Fashioned Glass\" Glass \"",
+        "description": "\"Double Old Fashioned Glass, 11 oz., Stolzle, New York Series\"@en ",
+        "model_response": {
+            "brand": "Stolzle",
+            "series": "New York Series",
+            "product_name": "Double Old Fashioned Glass",
+            "capacity": "11 oz"
+        }
+    },
+    {
+        "title": "\"Anchor Hocking S3500015 Glass Old Fashioned\" \" Anchor Fashioned | Rocks Glass\"",
+        "description": "\"Double Old Fashioned Glass, 11 oz., Stolzle, New York Series (priced per case, packed 6 each per case)\"@en ",
+        "model_response": {
+            "brand": "Anchor Hocking",
+            "model": "S3500015",
+            "type": "Glass Old Fashioned",
+            "alternate_name": "Anchor Fashioned | Rocks Glass",
+            "capacity": "11 oz",
+            "series": "New York Series",
+            "manufacturer": "Stolzle",
+            "packaging": "Case of 6"
+        }
+    },
+    {
+        "title": "\"Stolzle S3510016 Experience 11.5-oz Double Old Fashioned Glass\" Glass \"",
+        "description": "\"Double Old Fashioned Glass, 11-1/2 oz., Stolzle, Experience\"@en ",
+        "model_response": {
+            "brand": "Stolzle",
+            "model": "S3510016",
+            "product_name": "Experience Double Old Fashioned Glass",
+            "capacity": "11.5 oz"
+        }
+    },
+    {
+        "title": "\"Anchor Hocking S3510016 Glass Old Fashioned\" \" Anchor Fashioned | Rocks Glass\"",
+        "description": "\"Double Old Fashioned Glass, 11-1/2 oz., Stolzle, Experience (priced per case, packed 6 each per case)\"@en ",
+        "model_response": {
+            "brand": "Anchor Hocking",
+            "model": "S3510016",
+            "type": "Glass Old Fashioned",
+            "style": "Rocks Glass",
+            "capacity": "11-1/2 oz.",
+            "manufacturer": "Stolzle",
+            "packaging": "Case of 6"
+        }
+    },
+    {
+        "title": "\"Stolzle S3500016 Large New York Series 14-3/4-oz Double Old Fashioned Glass\" Glass \"",
+        "description": "\"Double Old Fashioned Glass, 14-3/4 oz., large, Stolzle, New York Series\"@en ",
+        "model_response": {
+            "brand": "Stolzle",
+            "series": "New York Series",
+            "product_name": "Double Old Fashioned Glass",
+            "capacity": "14-3/4 oz.",
+            "size": "large"
+        }
+    },
+    {
+        "title": "\"Anchor Hocking S3500016 Glass Old Fashioned\" \" Anchor Fashioned | Rocks Glass\"",
+        "description": "\"Double Old Fashioned Glass, 14-3/4 oz., large, Stolzle, New York Series (priced per case, packed 6 each per case)\"@en ",
+        "model_response": {
+            "brand": "Anchor Hocking",
+            "model": "S3500016",
+            "type": "Glass Old Fashioned",
+            "style": "Rocks Glass",
+            "capacity": "14-3/4 oz.",
+            "size": "large",
+            "series": "New York Series",
+            "packaging": "priced per case, packed 6 each per case"
+        }
+    },
+    {
+        "title": "\"Oreo Minis - Single Serve, 8 oz Snak Sak\" Serve by Nabisco\u00ae CDB15923 OnTimeSupplies.com\"",
+        "description": "\"Take a mini-break with mini-chocolate sandwich cookies. Your favorite chocolate treats, with delicious vanilla-cream filling are now bite-sized. An excellent choice for purses or backpacks. Mini-chocolate sandwich cookies are a perfect after school snack, or a yummy treat on-the-go. \n\" ",
+        "model_response": {
+            "product_title": "Oreo Minis - Single Serve, 8 oz Snak Sak",
+            "brand": "Nabisco",
+            "product_code": "CDB15923",
+            "retailer": "OnTimeSupplies.com",
+            "weight": "8 oz",
+            "type": "Snak Sak",
+            "flavor": "Chocolate with vanilla-cream filling",
+            "size": "Mini",
+            "usage": "After school snack, on-the-go treat",
+            "portability": "Suitable for purses or backpacks"
+        }
+    },
+    {
+        "title": "\"Nabisco Oreo Minis - Single Serve\" \" Nabisco Serve 8 oz Snak Sak CDB15923 ReStockIt \"",
+        "description": "\"Take a mini-break with mini-chocolate sandwich cookies. Your favorite chocolate treats, with delicious vanilla-cream filling are now bite-sized. An excellent choice for purses or backpacks. Mini-chocolate sandwich cookies are a perfect after school snack, or a yummy treat on-the-go. Food Type: Cookie; Flavor: Oreo\u00ae; Capacity (Weight): 8.0 oz; Packing Type: Bag. UPC: 044000015923\n\"@en ",
+        "model_response": {
+            "product_title": "Nabisco Oreo Minis - Single Serve",
+            "brand": "Nabisco",
+            "product_type": "Cookie",
+            "flavor": "Oreo",
+            "weight": "8.0 oz",
+            "packaging_type": "Bag",
+            "UPC": "044000015923"
+        }
+    },
+    {
+        "title": "\"Lismore Candy 5in Bud Vase\" Vase - Waterford | CA\"",
+        "description": "\"A sweet trio of Classic Lismore Bud Vases present petite treatments of three traditional silhouettes ideal for the darling buds any time.\"@en ",
+        "model_response": {
+            "product_title": "Lismore Candy 5in Bud Vase",
+            "brand": "Waterford",
+            "product_type": "Vase",
+            "size": "5 inches",
+            "style": "Classic Lismore",
+            "use_case": "Ideal for small flower arrangements"
+        }
+    },
+    {
+        "title": "\"Lismore Candy 5in Bud Vase\" Vase - Waterford | US\"",
+        "description": "\"A sweet trio of Classic Lismore Bud Vases present petite treatments of three traditional silhouettes ideal for the darling buds any time.\"@en ",
+        "model_response": {
+            "product_title": "Lismore Candy 5in Bud Vase",
+            "brand": "Waterford",
+            "product_type": "Vase",
+            "size": "5 inches",
+            "style": "Classic Lismore",
+            "use": "Ideal for small flower arrangements"
+        }
+    },
+    {
+        "title": "\"Gluten Free Double Chocolate Chip Mini Cookies, 0.95 oz Pack, 30/Carton\" Cookies by Homefree\u00ae HMF01948 - OnTimeSupplies.com\"",
+        "description": "\"Don't settle when it comes to cookies\u2014select the ones that were recommended by the Good Housekeeping Research Institute as the \"Best Gluten Free Cookies\" nationally! Free of the eight most common food allergens, including nuts and dairy. Gently sweetened and gluten free, with two grams of fiber. Certified a good source of whole grain: At least 9 grams per bag! Low sodium cookies are made in dedicated bakery free of peanuts, tree nuts, eggs, dairy, wheat and gluten, with carefully sourced and allergen-tested ingredients. These bite-sized crunchy double chocolate chip mini cookies are so healthy that they are on the \"Smart Snacks\" list of the USDA and Alliance for a Healthier Generation. \n\" ",
+        "model_response": {
+            "product_title": "Gluten Free Double Chocolate Chip Mini Cookies, 0.95 oz Pack, 30/Carton",
+            "brand": "Homefree",
+            "model_number": "HMF01948",
+            "seller": "OnTimeSupplies.com",
+            "attributes": {
+                "size": "0.95 oz",
+                "pack_quantity": "30/Carton",
+                "allergen_free": [
+                    "nuts",
+                    "dairy",
+                    "peanuts",
+                    "tree nuts",
+                    "eggs",
+                    "wheat",
+                    "gluten"
+                ],
+                "certifications": [
+                    "Good Housekeeping Research Institute Best Gluten Free Cookies",
+                    "USDA Smart Snacks",
+                    "Alliance for a Healthier Generation"
+                ],
+                "dietary_features": [
+                    "gluten free",
+                    "low sodium",
+                    "gently sweetened",
+                    "good source of whole grain"
+                ],
+                "fiber_content": "2 grams",
+                "whole_grain_content": "9 grams per bag"
+            }
+        }
+    },
+    {
+        "title": "\"Homefree Gluten Free Double Chocolate Chip Mini Cookies\" \" Homefree Cookies 0.95 oz Pack 30/Carton - HMF01948 ReStockIt \"",
+        "description": "\"Don't settle when it comes to cookies\u2014select the ones that were recommended by the Good Housekeeping Research Institute as the \"Best Gluten Free Cookies\" nationally! Free of the eight most common food allergens, including nuts and dairy. Gently sweetened and gluten free, with two grams of fiber. Certified a good source of whole grain: At least 9 grams per bag! Low sodium cookies are made in dedicated bakery free of peanuts, tree nuts, eggs, dairy, wheat and gluten, with carefully sourced and allergen-tested ingredients. These bite-sized crunchy double chocolate chip mini cookies are so healthy that they are on the \"Smart Snacks\" list of the USDA and Alliance for a Healthier Generation. Food Type: Cookies; Flavor: Double Chocolate Chip; Capacity (Weight): 0.95 oz; Packing Type: Pack. Homefree is a certified B Corporation for strong commitment to social and environmental responsibility.\n\"@en ",
+        "model_response": {
+            "product_title": "Homefree Gluten Free Double Chocolate Chip Mini Cookies",
+            "brand": "Homefree",
+            "product_code": "HMF01948",
+            "weight": "0.95 oz",
+            "pack_size": "30/Carton",
+            "food_type": "Cookies",
+            "flavor": "Double Chocolate Chip",
+            "allergen_free": [
+                "nuts",
+                "dairy",
+                "peanuts",
+                "tree nuts",
+                "eggs",
+                "wheat",
+                "gluten"
+            ],
+            "certifications": [
+                "Good Housekeeping Research Institute Best Gluten Free Cookies",
+                "USDA Smart Snacks",
+                "Alliance for a Healthier Generation",
+                "B Corporation"
+            ],
+            "dietary_features": [
+                "gluten free",
+                "low sodium",
+                "good source of whole grain"
+            ],
+            "nutritional_info": {
+                "fiber": "2 grams",
+                "whole_grain": "9 grams per bag"
+            },
+            "packing_type": "Pack",
+            "manufacturing_info": "Made in dedicated bakery free of peanuts, tree nuts, eggs, dairy, wheat and gluten"
+        }
+    },
+    {
+        "title": "\"Homefree Gluten Free Chocolate Chip Mini Cookies\" \" Homefree Cookies 1.1 oz Pack 30/Carton - HMF01873 ReStockIt \"",
+        "description": "\"Take a bite out of our most popular cookie\u2014Homefree's tasty, healthy chocolate chip cookies are a great addition to snacktime. Certified gluten free, vegan, kosher pareve and non-GMO verified. Certified a good source of whole grain: At least 9 grams per bag! Homefree\u00ae cookies are made with allergen-tested and carefully sourced ingredients in Homefree's dedicated bakery free of peanuts, tree nuts, eggs, dairy, and wheat, so that everyone can enjoy a treat. Cookies contain nothing artificial, contain no trans fat, soy, rice or cholesterol and are low sodium. Featured on the Today show as a recommended delicious, healthy snack. Food Type: Cookies; Flavor: Chocolate Chip; Capacity (Weight): 1.1 oz; Packing Type: Pack. Homefree is a certified B Corporation for strong commitment to social and environmental responsibility.\n\"@en ",
+        "model_response": {
+            "product_title": "Homefree Gluten Free Chocolate Chip Mini Cookies",
+            "brand": "Homefree",
+            "product_code": "HMF01873",
+            "package_quantity": "30/Carton",
+            "weight": "1.1 oz",
+            "food_type": "Cookies",
+            "flavor": "Chocolate Chip",
+            "dietary_certifications": [
+                "Gluten Free",
+                "Vegan",
+                "Kosher Pareve",
+                "Non-GMO Verified"
+            ],
+            "allergen_free": [
+                "Peanuts",
+                "Tree Nuts",
+                "Eggs",
+                "Dairy",
+                "Wheat"
+            ],
+            "nutritional_highlights": {
+                "whole_grain": "At least 9 grams per bag",
+                "trans_fat": "None",
+                "soy": "None",
+                "rice": "None",
+                "cholesterol": "None",
+                "sodium": "Low"
+            },
+            "additional_info": {
+                "featured_on": "Today show",
+                "social_responsibility": "Certified B Corporation"
+            }
+        }
+    },
+    {
+        "title": "\"Gluten Free Chocolate Chip Mini Cookies, 1.1 oz Pack, 30/Carton\" Cookies by Homefree\u00ae HMF01873 - OnTimeSupplies.com\"",
+        "description": "\"Take a bite out of our most popular cookie - Homefree's tasty, healthy chocolate chip cookies are a great addition to snacktime. Certified gluten free, vegan, kosher pareve and Non-GMO verified. Certified a good source of whole grain: At least 9 grams per bag! Homefree\u00ae cookies are made with allergen-tested and carefully sourced ingredients in Homefree\u2019s dedicated bakery free of peanuts, tree nuts, eggs, dairy, and wheat, so that everyone can enjoy a treat. Cookies contain nothing artificial, contain no trans fat, soy, rice or cholesterol and are low sodium. Featured on the Today show as a recommended delicious, healthy snack.\t\t\t\t\n\t\t\t\t\t\t\t\" ",
+        "model_response": {
+            "product_title": "Gluten Free Chocolate Chip Mini Cookies, 1.1 oz Pack, 30/Carton",
+            "brand": "Homefree",
+            "model_number": "HMF01873",
+            "seller": "OnTimeSupplies.com",
+            "weight": "1.1 oz",
+            "quantity_per_carton": 30,
+            "dietary_certifications": [
+                "Certified gluten free",
+                "Vegan",
+                "Kosher pareve",
+                "Non-GMO verified"
+            ],
+            "allergen_information": [
+                "Free of peanuts",
+                "Free of tree nuts",
+                "Free of eggs",
+                "Free of dairy",
+                "Free of wheat"
+            ],
+            "nutritional_highlights": [
+                "Good source of whole grain: At least 9 grams per bag",
+                "No trans fat",
+                "No soy",
+                "No rice",
+                "No cholesterol",
+                "Low sodium"
+            ],
+            "additional_information": [
+                "Made with allergen-tested and carefully sourced ingredients",
+                "Produced in a dedicated bakery",
+                "Contains nothing artificial",
+                "Featured on the Today show as a recommended delicious, healthy snack"
+            ]
+        }
+    },
+    {
+        "title": "\"Homefree Gluten Free Mini Cookies Variety Pack\" 30/Carton - HMF01305 ReStockIt \" \" Homefree Pack 1.1 oz/0.95 oz/1.1 oz Packs",
+        "description": "\"Everyone can join in snack time with this delicious variety pack of gluten-free, whole grain mini cookies. Great for special dietary needs; these cookies are also low glycemic and nut free. Multiple flavors for multiple tastes: single serve bags of crunchy cookies in Chocolate Chip, Double Chocolate Chip, and Vanilla. All Homefree\u00ae cookies are free of the eight most common food allergens (except soy lecithin in the Chocolate Chip Mini Cookies) and are certified as a good source of whole grain. The vanilla mini cookies are low glycemic and certified organic (70% organic ingredients). Food Type: Cookies; Flavor: Chocolate Chip; Double Chocolate Chip; Vanilla; Capacity (Weight): 2 lb. Net Weight; 10/1.1 oz, 10/0.95 oz, 10/1.1 oz; Packing Type: Pack. Homefree is a certified B Corporation for strong commitment to social and environmental responsibility.\n\"@en ",
+        "model_response": {
+            "product_title": "Homefree Gluten Free Mini Cookies Variety Pack",
+            "brand": "Homefree",
+            "product_code": "HMF01305",
+            "distributor": "ReStockIt",
+            "packaging": "30/Carton",
+            "weight": "2 lb. Net Weight",
+            "individual_pack_weights": [
+                "10/1.1 oz",
+                "10/0.95 oz",
+                "10/1.1 oz"
+            ],
+            "flavors": [
+                "Chocolate Chip",
+                "Double Chocolate Chip",
+                "Vanilla"
+            ],
+            "dietary_features": {
+                "gluten_free": true,
+                "whole_grain": true,
+                "low_glycemic": true,
+                "nut_free": true,
+                "allergen_free": "Free of the eight most common food allergens (except soy lecithin in Chocolate Chip Mini Cookies)"
+            },
+            "certifications": {
+                "organic": "Vanilla mini cookies are certified organic (70% organic ingredients)",
+                "b_corporation": "Certified B Corporation for strong commitment to social and environmental responsibility"
+            },
+            "food_type": "Cookies",
+            "packing_type": "Pack"
+        }
+    },
+    {
+        "title": "\"Gluten Free Mini Cookies Variety Pack, 1.1 oz/0.95 oz/1.1 oz Packs, 30/Carton\" Pack by Homefree\u00ae HMF01305 - OnTimeSupplies.com\"",
+        "description": "\"Everyone can join in snack time with this delicious variety pack of gluten-free, whole grain mini cookies. Great for special dietary needs; these cookies are also low glycemic and nut free. Multiple flavors for multiple tastes: single serve bags of crunchy cookies in Chocolate Chip, Double Chocolate Chip, and Vanilla. All Homefree\u00ae cookies are free of the eight most common food allergens (except soy lecithin in the Chocolate Chip Mini Cookies) and are certified as a good source of whole grain. The vanilla mini cookies are low glycemic and certified organic (70% organic ingredients). \n\" ",
+        "model_response": {
+            "product_title": "Gluten Free Mini Cookies Variety Pack, 1.1 oz/0.95 oz/1.1 oz Packs, 30/Carton",
+            "brand": "Homefree",
+            "model_number": "HMF01305",
+            "seller": "OnTimeSupplies.com",
+            "weight": [
+                "1.1 oz",
+                "0.95 oz",
+                "1.1 oz"
+            ],
+            "quantity_per_carton": 30,
+            "dietary_features": {
+                "gluten_free": true,
+                "whole_grain": true,
+                "low_glycemic": true,
+                "nut_free": true,
+                "free_of_common_allergens": true,
+                "contains_soy_lecithin": "Chocolate Chip Mini Cookies only",
+                "organic": "Vanilla Mini Cookies (70% organic ingredients)"
+            },
+            "flavors": [
+                "Chocolate Chip",
+                "Double Chocolate Chip",
+                "Vanilla"
+            ],
+            "packaging": "single serve bags",
+            "certifications": {
+                "whole_grain": true,
+                "organic": "Vanilla Mini Cookies"
+            }
+        }
+    },
+    {
+        "title": "\"Hot Cups, Paper, 16oz, Coffee Dreams Design, 50/Pack\" Cups by Dixie\u00ae DXE5356CD - OnTimeSupplies.com\"",
+        "description": "\"Patented paper process provides excellent insulation and helps reduce the need for costly double-cupping and beverage sleeves. Cup design provides a comfortable grip. Contains no polystyrene foam.\t\t\t\t\n\t\t\t\t\t\t\t\" ",
+        "model_response": {
+            "brand": "Dixie",
+            "model": "DXE5356CD",
+            "product_type": "Hot Cups",
+            "material": "Paper",
+            "capacity": "16oz",
+            "design": "Coffee Dreams Design",
+            "quantity": "50/Pack",
+            "features": [
+                "Patented paper process provides excellent insulation",
+                "Helps reduce the need for costly double-cupping and beverage sleeves",
+                "Cup design provides a comfortable grip",
+                "Contains no polystyrene foam"
+            ],
+            "retailer": "OnTimeSupplies.com"
+        }
+    },
+    {
+        "title": "\"Georgia Pacific Dixie 16 Oz Hot Paper Cups\" Coffee Design Pack of 50 - DXE5356CD ReStockIt \" \" Georgia Cups",
+        "description": "\"Dixie\u00ae PerfecTouch\u00ae hot cups are the perfect insulated paper cups. You and your customers will love it's comfortable, secure feel; non-slip hold & upscale graphics. Patented paper process insulates better than costly double-cupping. Contains no polystyrene foam. Dixie\u00ae PerfecTouch\u00ae Hot Cups Product Features:First insulated paper cup to eliminate double cupping and the need for expensive beverage sleevesPreferred over other paper cups by 82% of consumers (*Source: Peter Honig Associates, an independent research firm.)Comfortable, sturdy, non-slip feelPatented paper process provides unique insulation without altering beverage flavorFoodservice & Packaging Institute\u2019s \u201c2002 Best of the Best\"Can be processed successfully through commercial scale compostingALTERNATE ITEM #: GEP5356CD, 540421, 478407, 20923431, B002761ZL8UPC: 078731987204INNER PACKAGING: 50 Cups Per Pack.\n\"@en ",
+        "model_response": {
+            "product_title": "Georgia Pacific Dixie 16 Oz Hot Paper Cups Coffee Design Pack of 50 - DXE5356CD ReStockIt",
+            "brand": "Dixie",
+            "model": "DXE5356CD",
+            "alternate_item_numbers": [
+                "GEP5356CD",
+                "540421",
+                "478407",
+                "20923431",
+                "B002761ZL8"
+            ],
+            "upc": "078731987204",
+            "capacity": "16 Oz",
+            "material": "Paper",
+            "features": [
+                "Insulated",
+                "Non-slip hold",
+                "Upscale graphics",
+                "Eliminates the need for double cupping",
+                "Comfortable and sturdy feel",
+                "Patented paper process for unique insulation",
+                "Does not alter beverage flavor",
+                "Commercially compostable"
+            ],
+            "awards": "Foodservice & Packaging Institutes 2002 Best of the Best",
+            "consumer_preference": "Preferred over other paper cups by 82% of consumers",
+            "inner_packaging": "50 Cups Per Pack",
+            "environmental_considerations": "Contains no polystyrene foam"
+        }
+    },
+    {
+        "title": "\"Espresso, 10 oz\" \"Espresso by Caf\u00e9 Bustelo FOL00050 - OnTimeSupplies.com\"",
+        "description": "\"Pure, flavorful espresso ground coffee. Caf\u00e9 Bustelo's bold blend is roasted and ground from the finest coffees in the world. No fancy equipment is needed. Just brew your way and enjoy it your way. \n\" ",
+        "model_response": {
+            "brand": "Caf Bustelo",
+            "product_name": "Espresso",
+            "size": "10 oz",
+            "type": "ground coffee",
+            "blend": "bold",
+            "roast_level": "roasted",
+            "brewing_method": "no fancy equipment needed"
+        }
+    },
+    {
+        "title": "\"Cafe Bustelo Caf\u00e9 Bustelo\" 10 oz - FOL00050 ReStockIt \" \" Cafe Espresso",
+        "description": "\"Pure, flavorful espresso ground coffee. Caf\u00e9 Bustelo's bold blend is roasted and ground from the finest coffees in the world. No fancy equipment is needed. Just brew your way and enjoy it your way.  Beverage Type: Coffee; Flavor: Espresso; Packing Type: C UPC: 074471000500\n\"@en ",
+        "model_response": {
+            "brand": "Cafe Bustelo",
+            "product_name": "Caf Bustelo Espresso",
+            "weight": "10 oz",
+            "beverage_type": "Coffee",
+            "flavor": "Espresso",
+            "packing_type": "Ground",
+            "UPC": "074471000500"
+        }
+    },
+    {
+        "title": "\"Coffee Pods, Love at First Sip (Medium Roast), 18 Pods/Box\" Pods by Melitta\u00ae MLA75415 - OnTimeSupplies.com\"",
+        "description": "\"Individually foil wrapped and nitrogen flushed for freshness. Each coffee pod is made with only 100% high-grown Arabica coffee. A quick and easy way to have coffee. \n\" ",
+        "model_response": {
+            "brand": "Melitta",
+            "model_number": "MLA75415",
+            "product_name": "Coffee Pods, Love at First Sip (Medium Roast)",
+            "quantity": "18 Pods/Box",
+            "coffee_type": "100% high-grown Arabica",
+            "roast_level": "Medium Roast",
+            "packaging": "Individually foil wrapped and nitrogen flushed",
+            "features": [
+                "Quick and easy to use",
+                "Ensures freshness"
+            ]
+        }
+    },
+    {
+        "title": "\"Melitta One:One 75415 Medium Roast Coffee Pods\" \"Love at First Sip\" - MLA75415 ReStockIt \" \" Melitta Pods",
+        "description": "\"One:One\u2122 Coffee and Tea PodsIndividually foil wrapped and nitrogen flushed for the ultimate in freshness. 18 pods per box. NOTE: This product cannot be returned.Coffee PodsMade from only 100% high grown Arabica coffee.Medium RoastLove at First SipNot compatible with Keurig machines.ALTERNATE ITEM #: 639413, 802253, 22095705, B001M074MEUPC: 082846801195\n\"@en ",
+        "model_response": {
+            "product_title": "Melitta One:One 75415 Medium Roast Coffee Pods",
+            "brand": "Melitta",
+            "model": "One:One 75415",
+            "roast_level": "Medium Roast",
+            "flavor": "Love at First Sip",
+            "coffee_type": "100% high grown Arabica coffee",
+            "packaging": "Individually foil wrapped and nitrogen flushed",
+            "quantity": "18 pods per box",
+            "compatibility": "Not compatible with Keurig machines",
+            "alternate_item_numbers": [
+                "639413",
+                "802253",
+                "22095705",
+                "B001M074ME"
+            ],
+            "UPC": "082846801195",
+            "return_policy": "This product cannot be returned"
+        }
+    },
+    {
+        "title": "\"Pure Sugar Cane, 22 oz Canisters, 8 per Carton\" Cane by N'Joy NJO827820 - OnTimeSupplies.com\"",
+        "description": "\"100% pure cane sugar is nature's natural sweetener. Perfect for high-volume foodservice use. Convenient, easy-to-use canister with easy open/easy close pour spout eliminates mess. Granulated. \n\" ",
+        "model_response": {
+            "product_title": "Pure Sugar Cane, 22 oz Canisters, 8 per Carton",
+            "brand": "Cane by N'Joy",
+            "model_number": "NJO827820",
+            "retailer": "OnTimeSupplies.com",
+            "quantity_per_carton": 8,
+            "canister_size": "22 oz",
+            "sugar_type": "100% pure cane sugar",
+            "usage": "high-volume foodservice use",
+            "features": [
+                "easy-to-use canister",
+                "easy open/easy close pour spout",
+                "eliminates mess"
+            ],
+            "form": "granulated"
+        }
+    },
+    {
+        "title": "\"N'Joy Pure Sugar Cane\" \" N'Joy Cane 22 oz Canisters 8 per Carton - NJO827820 ReStockIt \"",
+        "description": "\"100% pure cane sugar is nature's natural sweetener. Perfect for high-volume foodservice use. Convenient, easy-to-use canister with easy open/easy close pour spout eliminates mess. Granulated.  Flavor: Plain; Packing Type: Canister; Premeasured: Yes; Capac COLOR: WhiteUPC: 086631906980\n\"@en ",
+        "model_response": {
+            "product_title": "N'Joy Pure Sugar Cane N'Joy Cane 22 oz Canisters 8 per Carton - NJO827820 ReStockIt",
+            "attributes": {
+                "sugar_type": "100% pure cane sugar",
+                "usage": "high-volume foodservice use",
+                "container_type": "canister",
+                "container_feature": "easy open/easy close pour spout",
+                "sugar_form": "granulated",
+                "flavor": "plain",
+                "packing_type": "canister",
+                "premeasured": "yes",
+                "color": "white",
+                "UPC": "086631906980",
+                "quantity_per_carton": 8,
+                "canister_size_oz": 22
+            }
+        }
+    },
+    {
+        "title": "\"Nestle Natural Spring Water\" 16.9 oz Bottle 40 Bottles/Carton - NLE1039242 ReStockIt \" \" Nestle Water",
+        "description": "\"Naturally great tasting water fits any occasion. Bottles are perfectly sized for your fridge. Beverage Type: Water; Packing Type: Bottle; Capacity (Volume): 16.9 oz; Quantity: 40 per carton. UPC: 071142817801\n\"@en ",
+        "model_response": {
+            "brand": "Nestle",
+            "product_name": "Natural Spring Water",
+            "volume_per_unit": "16.9 oz",
+            "package_type": "Bottle",
+            "units_per_package": 40,
+            "beverage_type": "Water",
+            "UPC": "071142817801"
+        }
+    },
+    {
+        "title": "\"Natural Spring Water, 16.9 oz Bottle, 40 Bottles/Carton\" Water by Arrowhead\u00ae NLE1039242 - OnTimeSupplies.com\"",
+        "description": "\"Naturally great tasting water fits any occasion. Bottles are perfectly sized for your fridge. \n\" ",
+        "model_response": {
+            "brand": "Arrowhead",
+            "product_name": "Natural Spring Water",
+            "volume_per_unit": "16.9 oz",
+            "units_per_package": 40,
+            "package_type": "Carton",
+            "intended_use": "Fits any occasion",
+            "storage_suggestion": "Perfectly sized for your fridge"
+        }
+    },
+    {
+        "title": "\"Frito Lay Grandma's Cookies Variety Tray 36 Ct\" \" Frito Ct 2.5 oz Packs - LAY13256 ReStockIt \"",
+        "description": "\"Assortment includes Chocolate Chip, Peanut Butter, Oatmeal Raisin, Chocolate Brownie and Vanilla Cr\u00e8me cookies. Great for snacking on-the-go or topping-off your lunch. Contains 36 individually wrapped 2.5 oz packs.  Food Type: Cookies; Flavor: Chocolate C UPC: 028400225960\n\"@en ",
+        "model_response": {
+            "product_title": "Frito Lay Grandma's Cookies Variety Tray 36 Ct",
+            "brand": "Frito Lay",
+            "product_code": "LAY13256",
+            "quantity": 36,
+            "unit_weight": "2.5 oz",
+            "food_type": "Cookies",
+            "flavors": [
+                "Chocolate Chip",
+                "Peanut Butter",
+                "Oatmeal Raisin",
+                "Chocolate Brownie",
+                "Vanilla Crme"
+            ],
+            "UPC": "028400225960",
+            "usage": [
+                "Snacking on-the-go",
+                "Topping-off your lunch"
+            ],
+            "packaging": "Individually wrapped packs"
+        }
+    },
+    {
+        "title": "\"Cookies Variety Tray 36 Ct, 2.5 oz Packs\" Ct by Grandma's\u00ae LAY13256 - OnTimeSupplies.com\"",
+        "description": "\"Assortment includes Chocolate Chip, Peanut Butter, Oatmeal Raisin, Chocolate Brownie and Vanilla Cr\u00e8me cookies. Great for snacking on-the-go or topping-off your lunch. Contains 36 individually wrapped 2.5 oz packs. \n\" ",
+        "model_response": {
+            "product_title": "Cookies Variety Tray 36 Ct, 2.5 oz Packs by Grandma's LAY13256",
+            "brand": "Grandma's",
+            "product_code": "LAY13256",
+            "quantity": 36,
+            "unit_weight": "2.5 oz",
+            "flavors": [
+                "Chocolate Chip",
+                "Peanut Butter",
+                "Oatmeal Raisin",
+                "Chocolate Brownie",
+                "Vanilla Crme"
+            ],
+            "packaging": "individually wrapped",
+            "usage": [
+                "snacking on-the-go",
+                "topping-off your lunch"
+            ]
+        }
+    },
+    {
+        "title": "\"Cocoa Roasted Almonds, 5 oz Pack, 6/Carton\" Almonds by Emerald\u00ae DFD86364 - OnTimeSupplies.com\"",
+        "description": "\"A natural source of protein, vitamins and minerals that give you a boost of energy. Perfect size to take with you on the go. \n\" ",
+        "model_response": {
+            "product_title": "Cocoa Roasted Almonds, 5 oz Pack, 6/Carton",
+            "brand": "Emerald",
+            "product_code": "DFD86364",
+            "retailer": "OnTimeSupplies.com",
+            "weight": "5 oz",
+            "package_quantity": "6/Carton",
+            "features": [
+                "Natural source of protein",
+                "Contains vitamins and minerals",
+                "Provides a boost of energy",
+                "Portable size for on-the-go"
+            ]
+        }
+    },
+    {
+        "title": "\"Emerald Cocoa Roasted Almonds\" 6/Carton - DFD86364 ReStockIt \" \" Emerald Almonds 5 oz Pack",
+        "description": "\"A natural source of protein, vitamins and minerals that give you a boost of energy. Perfect size to take with you on the go. Food Type: Nuts; Flavor: Cocoa Roasted Almonds; Capacity (Weight): 5 oz; Packing Type: Bag. UPC: 010300863649\n\"@en ",
+        "model_response": {
+            "product_title": "Emerald Cocoa Roasted Almonds",
+            "quantity_per_carton": 6,
+            "brand": "ReStockIt",
+            "product_code": "DFD86364",
+            "package_size": "5 oz",
+            "package_type": "Bag",
+            "food_type": "Nuts",
+            "flavor": "Cocoa Roasted Almonds",
+            "UPC": "010300863649",
+            "features": [
+                "Natural source of protein",
+                "Contains vitamins and minerals",
+                "Provides a boost of energy",
+                "Portable for on-the-go consumption"
+            ]
+        }
+    },
+    {
+        "title": "\"Mr. Coffee 12-Cup Programmable Coffeemaker with Water Filtration, SJX33GT\" \"Coffee Machines | Outlet Direct\"",
+        "description": "\"Let Mr. Coffee Make Your Morning CupIts good looks are only surpassed by its great performance. This coffeemaker automatically detects a glass carafe or thermal carafe and optimizes your brew for maximum flavor. The thermal carafe is sold separately.Mr. Coffee 12-Cup Programmable Coffeemaker:Recognized as one of the best products of the year in a leading consumer research magazineRemovable filter basket lifts out for fast and easy filling and cleaningBrewing Pause 'n Serve lets you pour a cup of coffee while the coffeemaker is still brewingDimensions: Measures 14.41 in. x 11.06 in. x 9.09 in.A Closer Look: 2-hour auto shut-off keeps your coffee hot for two hours and then automatically shuts off.Take Care: Special cleaning cycle makes cleaning your coffeemaker quick and easy.\" ",
+        "model_response": {
+            "product_title": "Mr. Coffee 12-Cup Programmable Coffeemaker with Water Filtration, SJX33GT",
+            "brand": "Mr. Coffee",
+            "capacity": "12-Cup",
+            "features": [
+                "Programmable",
+                "Water Filtration",
+                "Automatic carafe detection",
+                "Removable filter basket",
+                "Brewing Pause 'n Serve",
+                "2-hour auto shut-off",
+                "Special cleaning cycle"
+            ],
+            "dimensions": {
+                "height": "14.41 in",
+                "width": "11.06 in",
+                "depth": "9.09 in"
+            },
+            "additional_notes": {
+                "thermal_carafe": "Sold separately",
+                "recognition": "Recognized as one of the best products of the year in a leading consumer research magazine"
+            }
+        }
+    },
+    {
+        "title": "\"Mr. Coffee BVMC-SJX33GT 12-Cup Programmable Coffeemaker and Mr. GTF2-1 Basket-Style Gold Tone Permanent Filter Bundle\" \"Coffee Makers - Page 381 | Outlet Direct\"",
+        "description": "\"Null\" ",
+        "model_response": {
+            "product_title": "Mr. Coffee BVMC-SJX33GT 12-Cup Programmable Coffeemaker and Mr. GTF2-1 Basket-Style Gold Tone Permanent Filter Bundle",
+            "category": "Coffee Makers",
+            "brand": "Mr. Coffee",
+            "model": "BVMC-SJX33GT",
+            "capacity": "12-Cup",
+            "features": [
+                "Programmable",
+                "Basket-Style Gold Tone Permanent Filter"
+            ],
+            "bundle": true,
+            "bundle_items": [
+                "Mr. Coffee BVMC-SJX33GT 12-Cup Programmable Coffeemaker",
+                "Mr. GTF2-1 Basket-Style Gold Tone Permanent Filter"
+            ],
+            "outlet": "Outlet Direct",
+            "page": 381
+        }
+    },
+    {
+        "title": "\" Mr. Coffee 12-Cup Programmable Coffeemaker with Water Filtration, SJX33GT \"Mr. Filtration | Outlet Direct\"",
+        "description": "\"Let Mr. Coffee Make Your Morning CupIts good looks are only surpassed by its great performance. This coffeemaker automatically detects a glass carafe or thermal carafe and optimizes your brew for maximum flavor. The thermal carafe is sold separately.Mr. Coffee 12-Cup Programmable Coffeemaker:Recognized as one of the best products of the year in a leading consumer research magazineRemovable filter basket lifts out for fast and easy filling and cleaningBrewing Pause 'n Serve lets you pour a cup of coffee while the coffeemaker is still brewingDimensions: Measures 14.41 in. x 11.06 in. x 9.09 in.A Closer Look: 2-hour auto shut-off keeps your coffee hot for two hours and then automatically shuts off.Take Care: Special cleaning cycle makes cleaning your coffeemaker quick and easy. \" ",
+        "model_response": {
+            "product_title": "Mr. Coffee 12-Cup Programmable Coffeemaker with Water Filtration, SJX33GT",
+            "brand": "Mr. Coffee",
+            "model": "SJX33GT",
+            "capacity": "12 cups",
+            "features": [
+                "Programmable",
+                "Water Filtration",
+                "Automatic carafe detection",
+                "Removable filter basket",
+                "Brewing Pause 'n Serve",
+                "2-hour auto shut-off",
+                "Special cleaning cycle"
+            ],
+            "dimensions": {
+                "height": "14.41 in",
+                "width": "11.06 in",
+                "depth": "9.09 in"
+            },
+            "additional_notes": "Thermal carafe sold separately"
+        }
+    },
+    {
+        "title": "\" Mr. Coffee 12-Cup Programmable Coffeemaker with Water Filtration, SJX33GT | Small Appliance Direct\" \"Mr. Filtration",
+        "description": "\"Let Mr. Coffee Make Your Morning CupIts good looks are only surpassed by its great performance. This coffeemaker automatically detects a glass carafe or thermal carafe and optimizes your brew for maximum flavor. The thermal carafe is sold separately.Mr. Coffee 12-Cup Programmable Coffeemaker:Recognized as one of the best products of the year in a leading consumer research magazineRemovable filter basket lifts out for fast and easy filling and cleaningBrewing Pause 'n Serve lets you pour a cup of coffee while the coffeemaker is still brewingDimensions: Measures 14.41 in. x 11.06 in. x 9.09 in.A Closer Look: 2-hour auto shut-off keeps your coffee hot for two hours and then automatically shuts off.Take Care: Special cleaning cycle makes cleaning your coffeemaker quick and easy. \" ",
+        "model_response": {
+            "product_title": "Mr. Coffee 12-Cup Programmable Coffeemaker with Water Filtration, SJX33GT",
+            "brand": "Mr. Coffee",
+            "model": "SJX33GT",
+            "capacity": "12-Cup",
+            "features": [
+                "Programmable",
+                "Water Filtration",
+                "Automatic carafe detection",
+                "Removable filter basket",
+                "Brewing Pause 'n Serve",
+                "2-hour auto shut-off",
+                "Special cleaning cycle"
+            ],
+            "dimensions": {
+                "height": "14.41 in",
+                "width": "11.06 in",
+                "depth": "9.09 in"
+            },
+            "additional_notes": "Thermal carafe sold separately"
+        }
+    },
+    {
+        "title": "\"Mr. Coffee 12-Cup Programmable Coffeemaker with Water Filtration, SJX33GT\" Tea & Espresso Appliances | Small Appliance Direct\" \"Coffee",
+        "description": "\"Let Mr. Coffee Make Your Morning CupIts good looks are only surpassed by its great performance. This coffeemaker automatically detects a glass carafe or thermal carafe and optimizes your brew for maximum flavor. The thermal carafe is sold separately.Mr. Coffee 12-Cup Programmable Coffeemaker:Recognized as one of the best products of the year in a leading consumer research magazineRemovable filter basket lifts out for fast and easy filling and cleaningBrewing Pause 'n Serve lets you pour a cup of coffee while the coffeemaker is still brewingDimensions: Measures 14.41 in. x 11.06 in. x 9.09 in.A Closer Look: 2-hour auto shut-off keeps your coffee hot for two hours and then automatically shuts off.Take Care: Special cleaning cycle makes cleaning your coffeemaker quick and easy.\" ",
+        "model_response": {
+            "product_title": "Mr. Coffee 12-Cup Programmable Coffeemaker with Water Filtration, SJX33GT",
+            "category": "Tea & Espresso Appliances",
+            "brand": "Mr. Coffee",
+            "capacity": "12-Cup",
+            "features": [
+                "Programmable",
+                "Water Filtration",
+                "Automatic carafe detection",
+                "Removable filter basket",
+                "Brewing Pause 'n Serve",
+                "2-hour auto shut-off",
+                "Special cleaning cycle"
+            ],
+            "dimensions": {
+                "height": "14.41 in",
+                "width": "11.06 in",
+                "depth": "9.09 in"
+            },
+            "additional_info": {
+                "thermal_carafe": "Sold separately",
+                "recognition": "Recognized as one of the best products of the year in a leading consumer research magazine"
+            }
+        }
+    },
+    {
+        "title": "\"Mr. Coffee 12-Cup Programmable Coffeemaker with Water Filtration, SJX33GT\" \"Coffee Machines | Small Appliance Direct\"",
+        "description": "\"Let Mr. Coffee Make Your Morning CupIts good looks are only surpassed by its great performance. This coffeemaker automatically detects a glass carafe or thermal carafe and optimizes your brew for maximum flavor. The thermal carafe is sold separately.Mr. Coffee 12-Cup Programmable Coffeemaker:Recognized as one of the best products of the year in a leading consumer research magazineRemovable filter basket lifts out for fast and easy filling and cleaningBrewing Pause 'n Serve lets you pour a cup of coffee while the coffeemaker is still brewingDimensions: Measures 14.41 in. x 11.06 in. x 9.09 in.A Closer Look: 2-hour auto shut-off keeps your coffee hot for two hours and then automatically shuts off.Take Care: Special cleaning cycle makes cleaning your coffeemaker quick and easy.\" ",
+        "model_response": {
+            "product_title": "Mr. Coffee 12-Cup Programmable Coffeemaker with Water Filtration, SJX33GT",
+            "category": "Coffee Machines",
+            "brand": "Mr. Coffee",
+            "capacity": "12-Cup",
+            "features": [
+                "Programmable",
+                "Water Filtration",
+                "Automatic carafe detection",
+                "Removable filter basket",
+                "Brewing Pause 'n Serve",
+                "2-hour auto shut-off",
+                "Special cleaning cycle"
+            ],
+            "dimensions": {
+                "height": "14.41 in",
+                "width": "11.06 in",
+                "depth": "9.09 in"
+            },
+            "additional_notes": "Thermal carafe sold separately"
+        }
+    },
+    {
+        "title": "\"Mr. Coffee BVMC-SJX33GT 12-Cup Programmable Coffeemaker (Certified Refurbished)\" \"Coffee Makers - Page 221 | Outlet Direct\"",
+        "description": "\"The Mr. Coffee BVMC-SJX33GT Programmable 12-Cup Coffee Maker features a modern design to enrich the style of your kitchen. The Mr. Coffee Programmable Coffee Maker includes various features such as on/off indicator light, removable filter basket and a brewing pause 'n serve setting. The coffee maker also features a water window to show the amount of water in the reservoir, a cord storage to prevent clutter and a brew strength selector to personalize your coffee. Finally, the BVMC-SJX33GT is compatible with a glass or thermal carafe. The thermal carafe will keep your coffee hot for hours and is great for entertaining! This coffeemaker is designed to work with the Mr. Coffee Thermal Stainless Steel Decanter DRD95 (must be purchased separately). PRODUCT FEATTURES... Recognized by a leading consumer magazine as one of the best coffeemakers for the 3rd consecutive year (2011, 2012, 2013). The Water Filtration system helps remove up to 97% of the chlorine from the water and improves the taste of your coffee as a result of the Mr. Coffee water filter and brewing process. You will enjoy the brewing pause 'n serve that lets you pour a cup of coffee while the coffeemaker is still brewing. And, the self cleaning cycle makes cleaning your coffeemaker quick and easy. You will also be able to relax knowing that the 2-Hour auto shut-off keeps your coffee hot for 2-hour, then automatically shuts off.\" ",
+        "model_response": {
+            "product_title": "Mr. Coffee BVMC-SJX33GT 12-Cup Programmable Coffeemaker (Certified Refurbished)",
+            "category": "Coffee Makers",
+            "brand": "Mr. Coffee",
+            "model": "BVMC-SJX33GT",
+            "capacity": "12-Cup",
+            "type": "Programmable",
+            "condition": "Certified Refurbished",
+            "features": {
+                "on_off_indicator_light": "Yes",
+                "removable_filter_basket": "Yes",
+                "brewing_pause_n_serve": "Yes",
+                "water_window": "Yes",
+                "cord_storage": "Yes",
+                "brew_strength_selector": "Yes",
+                "compatible_carafe": [
+                    "Glass",
+                    "Thermal"
+                ],
+                "thermal_carafe_keeps_coffee_hot": "Yes",
+                "water_filtration_system": "Yes",
+                "self_cleaning_cycle": "Yes",
+                "auto_shut_off": "2-Hour"
+            },
+            "awards": "Recognized by a leading consumer magazine as one of the best coffeemakers for the 3rd consecutive year (2011, 2012, 2013)",
+            "additional_notes": "Designed to work with the Mr. Coffee Thermal Stainless Steel Decanter DRD95 (must be purchased separately)"
+        }
+    },
+    {
+        "title": "\"Tea Brewmaster, Plastic, 16 oz\" Brewmaster by Tiesta TIE69913 - OnTimeSupplies.com\"",
+        "description": "\"Convenient Brewmaster is steeping made easy, allowing easy access to delicious loose leaf tea. Made from a durable medical grade plastic. It is BPA free, microwave- and dishwasher-safe. Its innovative design allows for an easy three-step process for safe and speedy brewing. Simply scoop, steep and enjoy! \n\" ",
+        "model_response": {
+            "Product": {
+                "Title": "Tea Brewmaster, Plastic, 16 oz",
+                "Brand": "Brewmaster by Tiesta",
+                "Model": "TIE69913",
+                "Material": "Plastic",
+                "Capacity": "16 oz",
+                "Features": [
+                    "BPA free",
+                    "Microwave-safe",
+                    "Dishwasher-safe",
+                    "Medical grade plastic",
+                    "Three-step brewing process"
+                ],
+                "Use": "Steeping loose leaf tea",
+                "Retailer": "OnTimeSupplies.com"
+            }
+        }
+    },
+    {
+        "title": "\"Tiesta Tea Brewmaster\" Plastic \" Tiesta Brewmaster 16 oz - TIE69913 ReStockIt \"",
+        "description": "\"Convenient Brewmaster is steeping made easy, allowing easy access to delicious loose leaf tea. Made from a durable medical grade plastic. It is BPA free, microwave- and dishwasher-safe. Its innovative design allows for an easy three-step process for safe and speedy brewing. Simply scoop, steep and enjoy! Warmer: No; Capacity (Volume): 16 oz; Width: 2\"; Depth: 4 3/4\". UPC: 799632669913\n\"@en ",
+        "model_response": {
+            "Product": {
+                "Title": "Tiesta Tea Brewmaster Plastic Tiesta Brewmaster 16 oz - TIE69913 ReStockIt",
+                "Attributes": {
+                    "Material": "Medical grade plastic",
+                    "BPA Free": "Yes",
+                    "Microwave Safe": "Yes",
+                    "Dishwasher Safe": "Yes",
+                    "Warmer": "No",
+                    "Capacity": "16 oz",
+                    "Width": "2 inches",
+                    "Depth": "4 3/4 inches",
+                    "UPC": "799632669913"
+                }
+            }
+        }
+    },
+    {
+        "title": "\"Mighty Leaf Tea Whole Pouches\" Organic Spring Jasmine \" Mighty Pouches 15/Box - MLC40016 ReStockIt \"",
+        "description": "\"Elevate your tea experience with Mighty Leaf Tea's whole leaf, loose leaf tea pouches. Blends are made from a pure state, using only the top leaves and buds from the tea plant. All teas and ingredients come from artisan tea gardens on every continent. The award winning commercially compostable tea pouches allow leaves to unfurl properly and offer a bold, rich and fragrant cup, beyond a tea drinker's expectations. Beverage Type: Tea; Flavor: Organic Spring Jasmine; Packing Type: Filterbag; Capacity (Weight): 1.32 oz. Compostable in commercial compost.CUBE: 1.00UPC: 656252400169\n\"@en ",
+        "model_response": {
+            "brand": "Mighty Leaf Tea",
+            "product_name": "Whole Pouches Organic Spring Jasmine",
+            "packaging": "Mighty Pouches 15/Box",
+            "model_number": "MLC40016",
+            "vendor": "ReStockIt",
+            "beverage_type": "Tea",
+            "flavor": "Organic Spring Jasmine",
+            "packing_type": "Filterbag",
+            "weight": "1.32 oz",
+            "compostable": "Yes, in commercial compost",
+            "cube": "1.00",
+            "UPC": "656252400169"
+        }
+    },
+    {
+        "title": "\"Whole Leaf Tea Pouches, Organic Spring Jasmine, 15/Box\" Pouches by Mighty Leaf\u00ae MLC40016 - OnTimeSupplies.com\"",
+        "description": "\"Provide the very best tea with Mighty Leaf Tea's handcrafted whole tea leaves that touch all the senses. Consumers are demanding higher grade teas, and these pouches are heightened with intoxicatingly fragrant fruits, spices and blossoms to exceed those expectations. Blends are wrapped in award winning commercially compostable tea pouches to provide up to a 14 oz. serving. \n\" ",
+        "model_response": {
+            "brand": "Mighty Leaf",
+            "product_name": "Whole Leaf Tea Pouches, Organic Spring Jasmine",
+            "quantity": "15/Box",
+            "model_number": "MLC40016",
+            "retailer": "OnTimeSupplies.com",
+            "tea_type": "Whole Leaf",
+            "flavor": "Spring Jasmine",
+            "organic": "Yes",
+            "packaging": "Commercially compostable tea pouches",
+            "serving_size": "Up to 14 oz."
+        }
+    },
+    {
+        "title": "\"Real Medleys Oatmeal, Apple Walnut Oatmeal+, 2.64oz Cup, 12/Carton\" Oatmeal by Quaker\u00ae QKR15504 - OnTimeSupplies.com\"",
+        "description": "\"Taste the difference real fruit and nuts make. Each unique combination is made with wholesome multigrains like oats, rye, barley and wheat as well as premium dried fruit, nuts and spices. Convenient, portable packaging makes it easy to enjoy oatmeal at home, at the office or on the go. It's also easy to make \u2013 just add water and microwave. There's no bowl, no mess to clean up later. \n\" ",
+        "model_response": {
+            "product_title": "Real Medleys Oatmeal, Apple Walnut Oatmeal+, 2.64oz Cup, 12/Carton",
+            "brand": "Quaker",
+            "product_code": "QKR15504",
+            "seller": "OnTimeSupplies.com",
+            "flavor": "Apple Walnut",
+            "weight": "2.64oz",
+            "package_quantity": "12/Carton",
+            "ingredients": [
+                "oats",
+                "rye",
+                "barley",
+                "wheat",
+                "dried fruit",
+                "nuts",
+                "spices"
+            ],
+            "preparation": "Add water and microwave",
+            "features": [
+                "wholesome multigrains",
+                "premium dried fruit and nuts",
+                "convenient and portable packaging",
+                "easy to make",
+                "no bowl or mess"
+            ]
+        }
+    },
+    {
+        "title": "\"Quaker Foods Real Medleys Oatmeal\" 2.64oz Cup Apple Walnut Oatmeal+ 12/Carton - QKR15504 ReStockIt \" \" Quaker Oatmeal",
+        "description": "\"Taste the difference real fruit and nuts make. Each unique combination is made with wholesome multigrains like oats, rye, barley and wheat as well as premium dried fruit, nuts and spices. Convenient, portable packaging makes it easy to enjoy oatmeal at ho UPC: 030000315507\n\"@en ",
+        "model_response": {
+            "product_title": "Quaker Foods Real Medleys Oatmeal",
+            "brand": "Quaker",
+            "flavor": "Apple Walnut",
+            "weight": "2.64oz",
+            "package_type": "Cup",
+            "quantity_per_carton": 12,
+            "product_code": "QKR15504",
+            "UPC": "030000315507",
+            "ingredients": [
+                "oats",
+                "rye",
+                "barley",
+                "wheat",
+                "dried fruit",
+                "nuts",
+                "spices"
+            ],
+            "features": [
+                "wholesome multigrains",
+                "premium dried fruit and nuts",
+                "convenient and portable packaging"
+            ]
+        }
+    },
+    {
+        "title": "\"Nabisco 100 Calorie Chips Ahoy Chocolate Chip Cookie\" 6/Box - CDB05343 ReStockIt \" \" Nabisco Cookie",
+        "description": "\"The healthier alternative for a sweet snack. Cookies contain only 100 calories and zero trans fat. Food Type: Cookies; Flavor: Chocolate Chip; Capacity (Weight): 4/5 oz; Packing Type: Pack. UPC: 044000053437\n\"@en ",
+        "model_response": {
+            "brand": "Nabisco",
+            "product_name": "100 Calorie Chips Ahoy Chocolate Chip Cookie",
+            "quantity": "6/Box",
+            "calories": "100",
+            "trans_fat": "0",
+            "food_type": "Cookies",
+            "flavor": "Chocolate Chip",
+            "weight": "4/5 oz",
+            "packing_type": "Pack",
+            "UPC": "044000053437"
+        }
+    },
+    {
+        "title": "\"100 Calorie Chips Ahoy Chocolate Chip Cookie, 6/Box\" Cookie by Nabisco\u00ae CDB05343 - OnTimeSupplies.com\"",
+        "description": "\"The healthier alternative for a sweet snack. Cookies contain only 100 calories and zero trans fat. \n\" ",
+        "model_response": {
+            "product_title": "100 Calorie Chips Ahoy Chocolate Chip Cookie, 6/Box",
+            "brand": "Nabisco",
+            "product_code": "CDB05343",
+            "retailer": "OnTimeSupplies.com",
+            "calories_per_cookie": 100,
+            "trans_fat": "0g",
+            "quantity_per_box": 6,
+            "cookie_type": "Chocolate Chip"
+        }
+    }
+]

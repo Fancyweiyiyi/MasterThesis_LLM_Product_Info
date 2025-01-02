@@ -1,0 +1,24 @@
+Extracted Attribute,Best Match,Similarity,Category
+product_title,,0.7692307692307692,grocery
+brand,brand,1.0,grocery
+product_code,,0.75,grocery
+product_title,,0.7692307692307692,home
+material,material,1.0,home
+coating,,0.7142857142857143,home
+capacity,capacity,1.0,home
+certification,certification,1.0,home
+certifications,certification,0.9285714285714286,home
+color,color,1.0,home
+product_title,,0.7692307692307692,jewelry
+product_type,product_type,1.0,jewelry
+model_number,model_number,1.0,jewelry
+brand,brand,1.0,jewelry
+product_title,,0.7692307692307692,office
+brand,brand,1.0,office
+paper_weight,paper_weight,1.0,office
+color,colors,0.8333333333333334,office
+capacity,capacity,1.0,office
+product_code,,0.75,office
+weight,height,0.8333333333333334,office
+pack_quantity,pack_quantity,1.0,office
+material,material,1.0,office

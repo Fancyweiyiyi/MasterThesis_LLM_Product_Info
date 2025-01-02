@@ -1,0 +1,56 @@
+Extracted Attribute,Best Match,Similarity,Category
+Brand,brand,0.8,grocery
+Color,color,0.8,grocery
+Flavor,flavor,0.8333333333333334,grocery
+Pack Quantity,,0.7692307692307692,grocery
+Packing Type,,0.75,grocery
+Product Type,,0.75,grocery
+Series,series,0.8333333333333334,grocery
+Amps,,0.75,home
+Capacity,capacity,0.875,home
+Certification,certification,0.9230769230769231,home
+Certifications,certification,0.8571428571428572,home
+Color,color,0.8,home
+Depth,depth,0.8,home
+Diameter,diameter,0.875,home
+Gauge,gauge,0.8,home
+Height,height,0.8333333333333334,home
+Length,length,0.8333333333333334,home
+Manufacturer,manufacturer,0.9166666666666666,home
+Material,material,0.875,home
+Product Type,,0.75,home
+Shape,shape,0.8,home
+Stackable,stackable,0.8888888888888888,home
+Stainless Steel Series,,0.7727272727272727,home
+Voltage,voltage,0.8571428571428572,home
+Warranty,warranty,0.875,home
+Width,width,0.8,home
+Brand,brand,0.8,jewelry
+Collection,collection,0.9,jewelry
+Gender,gender,0.8333333333333334,jewelry
+Metal Type,,0.7,jewelry
+Model Number,,0.75,jewelry
+Product Type,,0.75,jewelry
+Ring Style,,0.7,jewelry
+Stone Shape,,0.7272727272727273,jewelry
+Width,width,0.8,jewelry
+Authenticity,authenticity,0.9166666666666666,office
+Binding,binding,0.8571428571428572,office
+Brand,brand,0.8,office
+Capacity,capacity,0.875,office
+Colors,colors,0.8333333333333334,office
+Compatibility,compatibility,0.9230769230769231,office
+Depth,depth,0.8,office
+Height,height,0.8333333333333334,office
+Length,length,0.8333333333333334,office
+Material,material,0.875,office
+Pack Quantity,,0.7692307692307692,office
+Page Yield,,0.7,office
+Paper Weight,,0.75,office
+Product Type,,0.75,office
+Shipping,shipping,0.875,office
+Source,source,0.8333333333333334,office
+Sustainability,sustainability,0.9285714285714286,office
+Warranty,warranty,0.875,office
+Weight,height,0.8333333333333334,office
+Width,width,0.8,office

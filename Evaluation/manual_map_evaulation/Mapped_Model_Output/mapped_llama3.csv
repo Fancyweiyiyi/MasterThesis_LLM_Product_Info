@@ -1,0 +1,1270 @@
+,Category,Mapped Attribute,Count,Percentage
+0,grocery,additional accolades,1,0.392156862745098
+1,grocery,ingredient,1,0.392156862745098
+2,grocery,anti_allergy,2,0.7843137254901961
+3,grocery,anti_allergy,1,0.392156862745098
+4,grocery,alternate item #,1,0.392156862745098
+5,grocery,auto shut-off,3,1.1764705882352942
+6,grocery,auto shut-off,1,0.392156862745098
+7,grocery,award_title,6,2.3529411764705883
+8,grocery,anti_allergy,2,0.7843137254901961
+9,grocery,bakery environment,1,0.392156862745098
+10,grocery,beverage type,2,0.7843137254901961
+11,grocery,bottle size (oz),1,0.392156862745098
+12,grocery,brand,16,6.2745098039215685
+13,grocery,brand,16,6.2745098039215685
+14,grocery,brewing features,1,0.392156862745098
+15,grocery,brewing process,1,0.392156862745098
+16,grocery,calories per serving,1,0.392156862745098
+17,grocery,capacity,11,4.313725490196078
+18,grocery,capacity (volume),1,0.392156862745098
+19,grocery,size/weight,4,1.568627450980392
+20,grocery,carafe compatibility,1,0.392156862745098
+21,grocery,carafe type,5,1.96078431372549
+22,grocery,certification,2,0.7843137254901961
+23,grocery,certifications,2,0.7843137254901961
+24,grocery,award_title,1,0.392156862745098
+25,grocery,cleanse,2,0.7843137254901961
+26,grocery,cleanse,1,0.392156862745098
+27,grocery,coffee bean origin,1,0.392156862745098
+28,grocery,coffee bean type,2,0.7843137254901961
+29,grocery,coffee type,1,0.392156862745098
+30,grocery,color,1,0.392156862745098
+31,grocery,compatibility,1,0.392156862745098
+32,grocery,container size,3,1.1764705882352942
+33,grocery,other_applied_container,2,0.7843137254901961
+34,grocery,contains,1,0.392156862745098
+35,grocery,cookie varieties,1,0.392156862745098
+36,grocery,description type,1,0.392156862745098
+37,grocery,design_style,1,0.392156862745098
+38,grocery,dietary certification,2,0.7843137254901961
+39,grocery,dietary restrictions,2,0.7843137254901961
+40,grocery,dimensions,3,1.1764705882352942
+41,grocery,dimensions (l x w x h),2,0.7843137254901961
+42,grocery,dimensions (inches),1,0.392156862745098
+43,grocery,dishwasher safe,1,0.392156862745098
+44,grocery,equipment needed,1,0.392156862745098
+45,grocery,features,1,0.392156862745098
+46,grocery,fiber content,1,0.392156862745098
+47,grocery,filter basket,3,1.1764705882352942
+48,grocery,flavor,6,2.3529411764705883
+49,grocery,flavor,6,2.3529411764705883
+50,grocery,flavor,2,0.7843137254901961
+51,grocery,flavor,1,0.392156862745098
+52,grocery,flavor,2,0.7843137254901961
+53,grocery,flavor,1,0.392156862745098
+54,grocery,food type,3,1.1764705882352942
+55,grocery,form,1,0.392156862745098
+56,grocery,glass type,1,0.392156862745098
+57,grocery,grain composition,1,0.392156862745098
+58,grocery,grip description,1,0.392156862745098
+59,grocery,ideal for,1,0.392156862745098
+60,grocery,indicator light,1,0.392156862745098
+61,grocery,ingredient,1,0.392156862745098
+62,grocery,intended use,2,0.7843137254901961
+63,grocery,manufacturer's location,1,0.392156862745098
+64,grocery,brand,1,0.392156862745098
+65,grocery,material,6,2.3529411764705883
+66,grocery,microwave safe,1,0.392156862745098
+67,grocery,model number,2,0.7843137254901961
+68,grocery,net weight per unit,1,0.392156862745098
+69,grocery,nutritional highlights,2,0.7843137254901961
+70,grocery,pack count,1,0.392156862745098
+71,grocery,pack_quantity,1,0.392156862745098
+72,grocery,pack_quantity,1,0.392156862745098
+73,grocery,pack size (weight),1,0.392156862745098
+74,grocery,pack size (oz),1,0.392156862745098
+75,grocery,package size,1,0.392156862745098
+76,grocery,package style,1,0.392156862745098
+77,grocery,packing_type,2,0.7843137254901961
+78,grocery,packaging details,2,0.7843137254901961
+79,grocery,packing_type,1,0.392156862745098
+80,grocery,package_function,1,0.392156862745098
+81,grocery,packaging per unit,1,0.392156862745098
+82,grocery,pack_quantity,3,1.1764705882352942
+83,grocery,packing_type,2,0.7843137254901961
+84,grocery,packing_type,6,2.3529411764705883
+85,grocery,packing_type,6,2.3529411764705883
+86,grocery,pause & serve,2,0.7843137254901961
+87,grocery,plastic grade,1,0.392156862745098
+88,grocery,premeasured,1,0.392156862745098
+89,grocery,preparation method,1,0.392156862745098
+90,grocery,preservation method,1,0.392156862745098
+91,grocery,pricing basis,2,0.7843137254901961
+92,grocery,product code,10,3.92156862745098
+93,grocery,product code (supplier),1,0.392156862745098
+94,grocery,product line,2,0.7843137254901961
+95,grocery,series,1,0.392156862745098
+96,grocery,product specifications,1,0.392156862745098
+97,grocery,product_type,7,2.7450980392156863
+98,grocery,product_type,7,2.7450980392156863
+99,grocery,programmability,5,1.96078431372549
+100,grocery,programmable,1,0.392156862745098
+101,grocery,purity,1,0.392156862745098
+102,grocery,quantity per box,1,0.392156862745098
+103,grocery,quantity per box,1,0.392156862745098
+104,grocery,quantity per carton,5,1.96078431372549
+105,grocery,quantity per unit,2,0.7843137254901961
+106,grocery,return policy,1,0.392156862745098
+107,grocery,roast level,2,0.7843137254901961
+108,grocery,safety features,1,0.392156862745098
+109,grocery,seller,1,0.392156862745098
+110,grocery,series,3,1.1764705882352942
+111,grocery,serving size per pouch,1,0.392156862745098
+112,grocery,serving type,1,0.392156862745098
+113,grocery,size/weight,1,0.392156862745098
+114,grocery,size/weight,1,0.392156862745098
+115,grocery,size/weight,1,0.392156862745098
+116,grocery,sodium level,1,0.392156862745098
+117,grocery,special feature,1,0.392156862745098
+118,grocery,special features,3,1.1764705882352942
+119,grocery,sugar type,1,0.392156862745098
+120,grocery,other_applied_container,1,0.392156862745098
+121,grocery,supplier website,1,0.392156862745098
+122,grocery,supplier/seller,1,0.392156862745098
+123,grocery,sustainability feature,1,0.392156862745098
+124,grocery,sweetener description,1,0.392156862745098
+125,grocery,tea type,1,0.392156862745098
+126,grocery,trans fat,1,0.392156862745098
+127,grocery,retail_upc,8,3.1372549019607843
+128,grocery,volume,1,0.392156862745098
+129,grocery,warmer included,1,0.392156862745098
+130,grocery,water filtration,6,2.3529411764705883
+131,grocery,size/weight,1,0.392156862745098
+132,grocery,whole grain content,1,0.392156862745098
+133,home,additional accessories,1,0.0565291124929338
+134,home,additional features,9,0.5087620124364047
+135,home,additional requirements,1,0.0565291124929338
+136,home,additional_features,1,0.0565291124929338
+137,home,target_age,1,0.0565291124929338
+138,home,alternate item numbers,2,0.1130582249858677
+139,home,amps,2,0.1130582249858677
+140,home,antimicrobial protection,2,0.1130582249858677
+141,home,appearance,1,0.0565291124929338
+142,home,application,2,0.1130582249858677
+143,home,application type,1,0.0565291124929338
+144,home,approved use,1,0.0565291124929338
+145,home,assembly,3,0.1695873374788016
+146,home,assembly location,1,0.0565291124929338
+147,home,assembly required,1,0.0565291124929338
+148,home,assembly requirement,3,0.1695873374788016
+149,home,audible alert,1,0.0565291124929338
+150,home,btu rating,12,0.6783493499152063
+151,home,btu rating (lp),1,0.0565291124929338
+152,home,btu per hot top,1,0.0565291124929338
+153,home,back guard,1,0.0565291124929338
+154,home,back material,1,0.0565291124929338
+155,home,back splash dimensions,2,0.1130582249858677
+156,home,back splash height,1,0.0565291124929338
+157,home,back style,1,0.0565291124929338
+158,home,backing,1,0.0565291124929338
+159,home,backing type,1,0.0565291124929338
+160,home,backsplash,4,0.2261164499717354
+161,home,backsplash height,22,1.2436404748445449
+162,home,backsplash location,1,0.0565291124929338
+163,home,backsplash style,1,0.0565291124929338
+164,home,backsplash width,1,0.0565291124929338
+165,home,base bottom,1,0.0565291124929338
+166,home,base construction,2,0.1130582249858677
+167,home,base,1,0.0565291124929338
+168,home,shelves,1,0.0565291124929338
+169,home,product_type,11,0.6218202374222724
+170,home,base,11,0.6218202374222724
+171,home,basket material,2,0.1130582249858677
+172,home,basket quantity,1,0.0565291124929338
+173,home,bin depth,2,0.1130582249858677
+174,home,bin material,2,0.1130582249858677
+175,home,blade type,1,0.0565291124929338
+176,home,blower speeds,1,0.0565291124929338
+177,home,body material,3,0.1695873374788016
+178,home,bowl depth,2,0.1130582249858677
+179,home,boxes per case,1,0.0565291124929338
+180,home,bracing,2,0.1130582249858677
+181,home,brake,2,0.1130582249858677
+182,home,brake included,1,0.0565291124929338
+183,home,brand,48,2.7133973996608254
+184,home,broiler grid dimensions (wxh),1,0.0565291124929338
+185,home,built-in storage capacity,3,0.1695873374788016
+186,home,bumpers,1,0.0565291124929338
+187,home,burner configuration,5,0.2826455624646693
+188,home,burner count,2,0.1130582249858677
+189,home,burner rating,1,0.0565291124929338
+190,home,burner type,8,0.4522328999434709
+191,home,burner/control interval,1,0.0565291124929338
+192,home,burner/hot top btu,1,0.0565291124929338
+193,home,burner/hot top size,1,0.0565291124929338
+194,home,burners,1,0.0565291124929338
+195,home,capacity,30,1.6958733747880157
+196,home,capacity,30,1.6958733747880157
+197,home,capacity,1,0.0565291124929338
+198,home,capacity,1,0.0565291124929338
+199,home,capacity,3,0.1695873374788016
+200,home,capacity per wheel,2,0.1130582249858677
+201,home,case pack,3,0.1695873374788016
+202,home,caster configuration,1,0.0565291124929338
+203,home,caster size,9,0.5087620124364047
+204,home,caster size (in.),1,0.0565291124929338
+205,home,caster type,11,0.6218202374222724
+206,home,casters,2,0.1130582249858677
+207,home,casters with brakes,1,0.0565291124929338
+208,home,category,2,0.1130582249858677
+209,home,certification,28,1.582815149802148
+210,home,certification,28,1.582815149802148
+211,home,certification,47,2.6568682871678915
+212,home,certification,47,2.6568682871678915
+213,home,chopper type,1,0.0565291124929338
+214,home,closure type,1,0.0565291124929338
+215,home,cold plate circuits,2,0.1130582249858677
+216,home,cold plate material,1,0.0565291124929338
+217,home,collection,2,0.1130582249858677
+218,home,color,45,2.543810062182024
+219,home,color,45,2.543810062182024
+220,home,compartments,7,0.395703787450537
+221,home,compatibility,8,0.4522328999434709
+222,home,compatibility note,2,0.1130582249858677
+223,home,compatible with,1,0.0565291124929338
+224,home,compliance,4,0.2261164499717354
+225,home,component,1,0.0565291124929338
+226,home,components,1,0.0565291124929338
+227,home,components included,3,0.1695873374788016
+228,home,condenser type,3,0.1695873374788016
+229,home,condition,4,0.2261164499717354
+230,home,configuration,2,0.1130582249858677
+231,home,construction,2,0.1130582249858677
+232,home,construction material,6,0.3391746749576032
+233,home,construction method,1,0.0565291124929338
+234,home,construction type,1,0.0565291124929338
+235,home,container material,1,0.0565291124929338
+236,home,container size,1,0.0565291124929338
+237,home,container type,1,0.0565291124929338
+238,home,control features,2,0.1130582249858677
+239,home,control rating,1,0.0565291124929338
+240,home,control type,4,0.2261164499717354
+241,home,controls,2,0.1130582249858677
+242,home,convection dimensions (wxdxh),1,0.0565291124929338
+243,home,cook function features,1,0.0565291124929338
+244,home,cooking grid,1,0.0565291124929338
+245,home,cooking stages,1,0.0565291124929338
+246,home,cooking surface dimensions,1,0.0565291124929338
+247,home,cool touch feature,1,0.0565291124929338
+248,home,cooling,7,0.395703787450537
+249,home,cord length,3,0.1695873374788016
+250,home,corner design,1,0.0565291124929338
+251,home,corner protection,2,0.1130582249858677
+252,home,counter top edge feature,1,0.0565291124929338
+253,home,warranty,1,0.0565291124929338
+254,home,country of origin,6,0.3391746749576032
+255,home,country of origin (inferred),1,0.0565291124929338
+256,home,craftsmanship,1,0.0565291124929338
+257,home,crossrail material,2,0.1130582249858677
+258,home,crossrails,1,0.0565291124929338
+259,home,crossrails location,1,0.0565291124929338
+260,home,crossrails material,2,0.1130582249858677
+261,home,crossrails_location,1,0.0565291124929338
+262,home,crossrails_material,1,0.0565291124929338
+263,home,cube size,1,0.0565291124929338
+264,home,current,1,0.0565291124929338
+265,home,amps,2,0.1130582249858677
+266,home,customization,1,0.0565291124929338
+267,home,daily ice production,4,0.2261164499717354
+268,home,daily ice production capacity,1,0.0565291124929338
+269,home,daily production capacity,1,0.0565291124929338
+270,home,deck configuration,1,0.0565291124929338
+271,home,deck dimensions,1,0.0565291124929338
+272,home,deck type,1,0.0565291124929338
+273,home,deli pan features,1,0.0565291124929338
+274,home,depth,20,1.1305822498586773
+275,home,depth,2,0.1130582249858677
+276,home,depth,3,0.1695873374788016
+277,home,design,2,0.1130582249858677
+278,home,designer,1,0.0565291124929338
+279,home,designer/brand,1,0.0565291124929338
+280,home,diameter,5,0.2826455624646693
+281,home,dimensions,30,1.6958733747880157
+282,home,base,1,0.0565291124929338
+283,home,dimensions (length x width),1,0.0565291124929338
+284,home,dimensions (lxwxh),1,0.0565291124929338
+285,home,dimensions (w x d),1,0.0565291124929338
+286,home,dimensions (inches),1,0.0565291124929338
+287,home,dimensions (per deck),1,0.0565291124929338
+288,home,direction,2,0.1130582249858677
+289,home,discount,1,0.0565291124929338
+290,home,dishwasher safe,3,0.1695873374788016
+291,home,dispensing method,1,0.0565291124929338
+292,home,disposer type,1,0.0565291124929338
+293,home,dolly type,1,0.0565291124929338
+294,home,door bin features,1,0.0565291124929338
+295,home,door features,1,0.0565291124929338
+296,home,door features (non-refrigerated top),1,0.0565291124929338
+297,home,door handle,1,0.0565291124929338
+298,home,door material,3,0.1695873374788016
+299,home,door mechanism,2,0.1130582249858677
+300,home,door type,8,0.4522328999434709
+301,home,door type (non-refrigerated top),1,0.0565291124929338
+302,home,dovetail quantity,1,0.0565291124929338
+303,home,drain feature,1,0.0565291124929338
+304,home,drain opening,1,0.0565291124929338
+305,home,drain opening size,2,0.1130582249858677
+306,home,drain plate for urn trough,1,0.0565291124929338
+307,home,drain size,2,0.1130582249858677
+308,home,drawer count,2,0.1130582249858677
+309,home,drawer features,1,0.0565291124929338
+310,home,drawer material,3,0.1695873374788016
+311,home,durability features,1,0.0565291124929338
+312,home,duty classification,2,0.1130582249858677
+313,home,duty type,5,0.2826455624646693
+314,home,edge protection,1,0.0565291124929338
+315,home,edge type,3,0.1695873374788016
+316,home,edge type (front),1,0.0565291124929338
+317,home,efficacy,1,0.0565291124929338
+318,home,efficacy against,1,0.0565291124929338
+319,home,efficiency features,1,0.0565291124929338
+320,home,certification,1,0.0565291124929338
+321,home,electrical requirements,3,0.1695873374788016
+322,home,electrical specifications,11,0.6218202374222724
+323,home,electrical specs,2,0.1130582249858677
+324,home,energy efficiency,2,0.1130582249858677
+325,home,energy efficiency feature,1,0.0565291124929338
+326,home,energy type,1,0.0565291124929338
+327,home,export status,1,0.0565291124929338
+328,home,extenders included,1,0.0565291124929338
+329,home,exterior color (refrigerated bottom),1,0.0565291124929338
+330,home,exterior finish,2,0.1130582249858677
+331,home,exterior material,11,0.6218202374222724
+332,home,exterior trim color,1,0.0565291124929338
+333,home,fat capacity,2,0.1130582249858677
+334,home,faucet center-to-center,1,0.0565291124929338
+335,home,faucet center-to-center spacing,1,0.0565291124929338
+336,home,feature,1,0.0565291124929338
+337,home,features,4,0.2261164499717354
+338,home,feet type,5,0.2826455624646693
+339,home,feet_type,1,0.0565291124929338
+340,home,finish,12,0.6783493499152063
+341,home,floor material,1,0.0565291124929338
+342,home,flow direction,2,0.1130582249858677
+343,home,flue riser,1,0.0565291124929338
+344,home,flue riser details,1,0.0565291124929338
+345,home,flue riser dimensions,1,0.0565291124929338
+346,home,flue riser features,2,0.1130582249858677
+347,home,flue riser height,5,0.2826455624646693
+348,home,flue riser size,1,0.0565291124929338
+349,home,foot caps,2,0.1130582249858677
+350,home,foot material,2,0.1130582249858677
+351,home,foot type,4,0.2261164499717354
+352,home,form factor,1,0.0565291124929338
+353,home,format,1,0.0565291124929338
+354,home,formula type,1,0.0565291124929338
+355,home,frame/legs material,1,0.0565291124929338
+356,home,freezer features,1,0.0565291124929338
+357,home,frequency,4,0.2261164499717354
+358,home,front & side rim style,1,0.0565291124929338
+359,home,front & side rim type,1,0.0565291124929338
+360,home,front manifold size,1,0.0565291124929338
+361,home,front material,7,0.395703787450537
+362,home,front and sides material,1,0.0565291124929338
+363,home,front and top material,1,0.0565291124929338
+364,home,front-to-back,1,0.0565291124929338
+365,home,fuel type,22,1.2436404748445449
+366,home,gas connection location,1,0.0565291124929338
+367,home,gas connections,2,0.1130582249858677
+368,home,gas tank capacity,2,0.1130582249858677
+369,home,gas type requirement,1,0.0565291124929338
+370,home,gauge,6,0.3391746749576032
+371,home,gauge,3,0.1695873374788016
+372,home,gauge - legs,1,0.0565291124929338
+373,home,gauge,1,0.0565291124929338
+374,home,gauge,2,0.1130582249858677
+375,home,gauge,1,0.0565291124929338
+376,home,glass features (refrigerated bottom),1,0.0565291124929338
+377,home,grade,2,0.1130582249858677
+378,home,grate material,3,0.1695873374788016
+379,home,grate removability,3,0.1695873374788016
+380,home,grate type,5,0.2826455624646693
+381,home,grease trough size,1,0.0565291124929338
+382,home,grid height adjustment,1,0.0565291124929338
+383,home,griddle,2,0.1130582249858677
+384,home,griddle area dimensions,1,0.0565291124929338
+385,home,griddle location,6,0.3391746749576032
+386,home,griddle material,1,0.0565291124929338
+387,home,griddle plate material,2,0.1130582249858677
+388,home,griddle presence,6,0.3391746749576032
+389,home,griddle size,5,0.2826455624646693
+390,home,griddle thickness,1,0.0565291124929338
+391,home,griddle width,1,0.0565291124929338
+392,home,handle,1,0.0565291124929338
+393,home,handle type,3,0.1695873374788016
+394,home,heat,1,0.0565291124929338
+395,home,heat,1,0.0565291124929338
+396,home,height,11,0.6218202374222724
+397,home,height,1,0.0565291124929338
+398,home,height,1,0.0565291124929338
+399,home,height,1,0.0565291124929338
+400,home,height,1,0.0565291124929338
+401,home,height,1,0.0565291124929338
+402,home,heritage/established,1,0.0565291124929338
+403,home,hot top,1,0.0565291124929338
+404,home,hot top size,1,0.0565291124929338
+405,home,ice bin depth,2,0.1130582249858677
+406,home,ice bin dimensions (l x w),1,0.0565291124929338
+407,home,ice production (approximate),1,0.0565291124929338
+408,home,ice production capacity,1,0.0565291124929338
+409,home,ice storage capacity,1,0.0565291124929338
+410,home,ice style,4,0.2261164499717354
+411,home,ice type,3,0.1695873374788016
+412,home,ignition system,2,0.1130582249858677
+413,home,ignition type,8,0.4522328999434709
+414,home,ignition type (ovens),2,0.1130582249858677
+415,home,included accessories,5,0.2826455624646693
+416,home,included components,1,0.0565291124929338
+417,home,included features,1,0.0565291124929338
+418,home,included items,1,0.0565291124929338
+419,home,includes,2,0.1130582249858677
+420,home,installation type,9,0.5087620124364047
+421,home,insulation,8,0.4522328999434709
+422,home,intended use,5,0.2826455624646693
+423,home,interior construction,1,0.0565291124929338
+424,home,interior features,2,0.1130582249858677
+425,home,interior lighting,1,0.0565291124929338
+426,home,interior material,4,0.2261164499717354
+427,home,keg capacity,1,0.0565291124929338
+428,home,kettle material,2,0.1130582249858677
+429,home,latch material,1,0.0565291124929338
+430,home,latex content,1,0.0565291124929338
+431,home,lead time,1,0.0565291124929338
+432,home,lead time before shipping,1,0.0565291124929338
+433,home,leg adjustability,4,0.2261164499717354
+434,home,leg configuration,1,0.0565291124929338
+435,home,leg construction,1,0.0565291124929338
+436,home,leg features,2,0.1130582249858677
+437,home,leg height,3,0.1695873374788016
+438,home,leg material,11,0.6218202374222724
+439,home,leg type,10,0.5652911249293386
+440,home,legs,8,0.4522328999434709
+441,home,legs material,5,0.2826455624646693
+442,home,legs/feet material,1,0.0565291124929338
+443,home,legs_material,1,0.0565291124929338
+444,home,length,19,1.0740531373657434
+445,home,length,1,0.0565291124929338
+446,home,length,1,0.0565291124929338
+447,home,lid material,1,0.0565291124929338
+448,home,lid material characteristics,1,0.0565291124929338
+449,home,lighting,1,0.0565291124929338
+450,home,lighting features,1,0.0565291124929338
+451,home,load type,1,0.0565291124929338
+452,home,location,1,0.0565291124929338
+453,home,lock mechanism,1,0.0565291124929338
+454,home,mpn / model #,4,0.2261164499717354
+455,home,manufacturer,5,0.2826455624646693
+456,home,manufacturer_stock_number,1,0.0565291124929338
+457,home,material,73,4.126625211984171
+458,home,material,73,4.126625211984171
+459,home,material,1,0.0565291124929338
+460,home,material,4,0.2261164499717354
+461,home,material (top),2,0.1130582249858677
+462,home,material,1,0.0565291124929338
+463,home,material - legs,1,0.0565291124929338
+464,home,material - top,1,0.0565291124929338
+465,home,material construction,1,0.0565291124929338
+466,home,material,1,0.0565291124929338
+467,home,material feel,1,0.0565291124929338
+468,home,material gauge,5,0.2826455624646693
+469,home,material series,1,0.0565291124929338
+470,home,material,2,0.1130582249858677
+471,home,material of top,2,0.1130582249858677
+472,home,material_legs,1,0.0565291124929338
+473,home,material_top,2,0.1130582249858677
+474,home,diameter,1,0.0565291124929338
+475,home,max diameter per compartment,2,0.1130582249858677
+476,home,height,2,0.1130582249858677
+477,home,max height per compartment,1,0.0565291124929338
+478,home,diameter,6,0.3391746749576032
+479,home,diameter,6,0.3391746749576032
+480,home,maximum diameter per compartment,3,0.1695873374788016
+481,home,maximum glass height,2,0.1130582249858677
+482,home,height,8,0.4522328999434709
+483,home,height,8,0.4522328999434709
+484,home,maximum height per compartment,1,0.0565291124929338
+485,home,maximum stemware/tumbler diameter,3,0.1695873374788016
+486,home,maximum stemware/tumbler height,1,0.0565291124929338
+487,home,mechanism,1,0.0565291124929338
+488,home,midshelf depth,1,0.0565291124929338
+489,home,mobility,1,0.0565291124929338
+490,home,mobility feature,1,0.0565291124929338
+491,home,mobility features,2,0.1130582249858677
+492,home,model,7,0.395703787450537
+493,home,model number,23,1.3001695873374788
+494,home,model type,1,0.0565291124929338
+495,home,model variant,1,0.0565291124929338
+496,home,model/collection,1,0.0565291124929338
+497,home,model/part number,1,0.0565291124929338
+498,home,motor characteristic,1,0.0565291124929338
+499,home,motor power,2,0.1130582249858677
+500,home,motor power (fan),1,0.0565291124929338
+501,home,mount type,2,0.1130582249858677
+502,home,mounting type,1,0.0565291124929338
+503,home,certification,3,0.1695873374788016
+504,home,noise characteristic,1,0.0565291124929338
+505,home,noise level,1,0.0565291124929338
+506,home,not suitable for,1,0.0565291124929338
+507,home,notable features,1,0.0565291124929338
+508,home,number of baskets,1,0.0565291124929338
+509,home,number of burners,8,0.4522328999434709
+510,home,number of burners/hot tops,2,0.1130582249858677
+511,home,number of casters,2,0.1130582249858677
+512,home,number of compartments,13,0.7348784624081401
+513,home,number of doors,3,0.1695873374788016
+514,home,number of drawers,2,0.1130582249858677
+515,home,number of extenders,4,0.2261164499717354
+516,home,number of levels/tiers,1,0.0565291124929338
+517,home,number of oven racks,1,0.0565291124929338
+518,home,number of ovens,1,0.0565291124929338
+519,home,number of pan wells,2,0.1130582249858677
+520,home,number of plies,1,0.0565291124929338
+521,home,number of racks,1,0.0565291124929338
+522,home,number of sections,2,0.1130582249858677
+523,home,number of shelves,6,0.3391746749576032
+524,home,number of support bars,2,0.1130582249858677
+525,home,number of tiers,1,0.0565291124929338
+526,home,number of wash cycles,2,0.1130582249858677
+527,home,number of wells,2,0.1130582249858677
+528,home,operating temperature,1,0.0565291124929338
+529,home,operation type,2,0.1130582249858677
+530,home,outdoor use,1,0.0565291124929338
+531,home,outer dimensions,2,0.1130582249858677
+532,home,outer trim size,1,0.0565291124929338
+533,home,oven,1,0.0565291124929338
+534,home,oven base,3,0.1695873374788016
+535,home,oven configuration,3,0.1695873374788016
+536,home,oven control,1,0.0565291124929338
+537,home,oven controls,1,0.0565291124929338
+538,home,oven count,2,0.1130582249858677
+539,home,oven details,1,0.0565291124929338
+540,home,oven dimensions (wxd),1,0.0565291124929338
+541,home,oven features,1,0.0565291124929338
+542,home,oven interior,1,0.0565291124929338
+543,home,oven interior material,1,0.0565291124929338
+544,home,oven rack count,1,0.0565291124929338
+545,home,oven rack included,1,0.0565291124929338
+546,home,ovens,1,0.0565291124929338
+547,home,overall dimensions,1,0.0565291124929338
+548,home,height,4,0.2261164499717354
+549,home,length,1,0.0565291124929338
+550,home,packaging,1,0.0565291124929338
+551,home,packing type,1,0.0565291124929338
+552,home,pan/tray size compatibility,1,0.0565291124929338
+553,home,phase,2,0.1130582249858677
+554,home,phases,2,0.1130582249858677
+555,home,pilot type,5,0.2826455624646693
+556,home,pilot type (burners),1,0.0565291124929338
+557,home,place setting capacity,1,0.0565291124929338
+558,home,plug type,7,0.395703787450537
+559,home,ply,2,0.1130582249858677
+560,home,post features,1,0.0565291124929338
+561,home,post material,6,0.3391746749576032
+562,home,power,5,0.2826455624646693
+563,home,watt,1,0.0565291124929338
+564,home,power consumption,2,0.1130582249858677
+565,home,power levels,1,0.0565291124929338
+566,home,power rating,2,0.1130582249858677
+567,home,power settings,1,0.0565291124929338
+568,home,power source,1,0.0565291124929338
+569,home,power type,1,0.0565291124929338
+570,home,preheat time,1,0.0565291124929338
+571,home,product category,2,0.1130582249858677
+572,home,product code,6,0.3391746749576032
+573,home,product line,12,0.6783493499152063
+574,home,product_type,19,1.0740531373657434
+575,home,product_type,19,1.0740531373657434
+576,home,product_code,1,0.0565291124929338
+577,home,quality,1,0.0565291124929338
+578,home,quantity,2,0.1130582249858677
+579,home,quantity per carton,4,0.2261164499717354
+580,home,quantity in set,1,0.0565291124929338
+581,home,quantity per box,1,0.0565291124929338
+582,home,quantity per carton,2,0.1130582249858677
+583,home,quantity per container,1,0.0565291124929338
+584,home,quantity per package,1,0.0565291124929338
+585,home,rack configuration,2,0.1130582249858677
+586,home,rack material,1,0.0565291124929338
+587,home,rack position options,1,0.0565291124929338
+588,home,recommended use,2,0.1130582249858677
+589,home,refrigerant,1,0.0565291124929338
+590,home,refrigerant type,1,0.0565291124929338
+591,home,refrigeration power,1,0.0565291124929338
+592,home,refrigeration power (hp),1,0.0565291124929338
+593,home,refrigeration system,2,0.1130582249858677
+594,home,refrigeration system location,1,0.0565291124929338
+595,home,refrigeration system power,1,0.0565291124929338
+596,home,refrigeration system power (hp),1,0.0565291124929338
+597,home,refrigeration type,2,0.1130582249858677
+598,home,source_region,1,0.0565291124929338
+599,home,regulator included,1,0.0565291124929338
+600,home,reinforcement,1,0.0565291124929338
+601,home,required specification for slide bar functionality,1,0.0565291124929338
+602,home,reviewed by,1,0.0565291124929338
+603,home,riser height,2,0.1130582249858677
+604,home,rock holder material,3,0.1695873374788016
+605,home,roll diameter (nominal),1,0.0565291124929338
+606,home,roll size,1,0.0565291124929338
+607,home,rubber pad thickness,1,0.0565291124929338
+608,home,safety_setting,2,0.1130582249858677
+609,home,safety_setting,1,0.0565291124929338
+610,home,scent,1,0.0565291124929338
+611,home,seal type,2,0.1130582249858677
+612,home,sections,2,0.1130582249858677
+613,home,seller/location,1,0.0565291124929338
+614,home,seller/warehouse,1,0.0565291124929338
+615,home,series,4,0.2261164499717354
+616,home,shape,10,0.5652911249293386
+617,home,shelves,1,0.0565291124929338
+618,home,shelves,3,0.1695873374788016
+619,home,shelves,1,0.0565291124929338
+620,home,shelf count,4,0.2261164499717354
+621,home,shelves,1,0.0565291124929338
+622,home,shelves,7,0.395703787450537
+623,home,shelf material (non-refrigerated section),1,0.0565291124929338
+624,home,shelf material (refrigerated section),1,0.0565291124929338
+625,home,shelves,3,0.1695873374788016
+626,home,shelves,3,0.1695873374788016
+627,home,shelves,3,0.1695873374788016
+628,home,shelves,5,0.2826455624646693
+629,home,shelves,1,0.0565291124929338
+630,home,shelves,1,0.0565291124929338
+631,home,shipping,4,0.2261164499717354
+632,home,shipping,1,0.0565291124929338
+633,home,shipping weight,6,0.3391746749576032
+634,home,side color,1,0.0565291124929338
+635,home,side material,1,0.0565291124929338
+636,home,side style,1,0.0565291124929338
+637,home,sides material,1,0.0565291124929338
+638,home,sink dimensions,2,0.1130582249858677
+639,home,sink location,2,0.1130582249858677
+640,home,size,12,0.6783493499152063
+641,home,height,1,0.0565291124929338
+642,home,size (length x width x height),1,0.0565291124929338
+643,home,size (length x width),1,0.0565291124929338
+644,home,length,2,0.1130582249858677
+645,home,size (overall),1,0.0565291124929338
+646,home,size (oz),1,0.0565291124929338
+647,home,size (per wipe),1,0.0565291124929338
+648,home,slice thickness,2,0.1130582249858677
+649,home,slide configuration,2,0.1130582249858677
+650,home,special assembly note,1,0.0565291124929338
+651,home,special cycle,1,0.0565291124929338
+652,home,special feature,1,0.0565291124929338
+653,home,special features,12,0.6783493499152063
+654,home,special protection,1,0.0565291124929338
+655,home,spigot type,1,0.0565291124929338
+656,home,splash,1,0.0565291124929338
+657,home,splash,1,0.0565291124929338
+658,home,stackable,3,0.1695873374788016
+659,home,stackable,1,0.0565291124929338
+660,home,stainless_steel_series,1,0.0565291124929338
+661,home,stainless_steel_series,1,0.0565291124929338
+662,home,stainless_steel_series,3,0.1695873374788016
+663,home,stainless_steel_series,3,0.1695873374788016
+664,home,standards compliance,1,0.0565291124929338
+665,home,stem type,1,0.0565291124929338
+666,home,storage capacity,2,0.1130582249858677
+667,home,storage features,1,0.0565291124929338
+668,home,sub top material,1,0.0565291124929338
+669,home,suitable applications,1,0.0565291124929338
+670,home,suitable for,4,0.2261164499717354
+671,home,suitable surfaces,1,0.0565291124929338
+672,home,suitable for,1,0.0565291124929338
+673,home,supplier,3,0.1695873374788016
+674,home,surface compatibility,2,0.1130582249858677
+675,home,surface type,1,0.0565291124929338
+676,home,table edge,1,0.0565291124929338
+677,home,table shape,1,0.0565291124929338
+678,home,table top edge feature,1,0.0565291124929338
+679,home,table top length,1,0.0565291124929338
+680,home,table top material,5,0.2826455624646693
+681,home,table top width range,1,0.0565291124929338
+682,home,table_feature,1,0.0565291124929338
+683,home,tank holder capacity,1,0.0565291124929338
+684,home,tank purchase,1,0.0565291124929338
+685,home,temperature control,1,0.0565291124929338
+686,home,temperature control type,1,0.0565291124929338
+687,home,temperature range,4,0.2261164499717354
+688,home,thermostat,1,0.0565291124929338
+689,home,thermostat adjustability,1,0.0565291124929338
+690,home,thermostat adjustment range,2,0.1130582249858677
+691,home,thermostat range,3,0.1695873374788016
+692,home,thermostat type,2,0.1130582249858677
+693,home,thickness,4,0.2261164499717354
+694,home,thickness (mil),1,0.0565291124929338
+695,home,threaded stem size,1,0.0565291124929338
+696,home,top dimensions,1,0.0565291124929338
+697,home,top features,1,0.0565291124929338
+698,home,gauge,1,0.0565291124929338
+699,home,top length,4,0.2261164499717354
+700,home,top material,10,0.5652911249293386
+701,home,top material/feature,1,0.0565291124929338
+702,home,top thickness (gauge),1,0.0565291124929338
+703,home,top thickness (riser),1,0.0565291124929338
+704,home,width,2,0.1130582249858677
+705,home,width,2,0.1130582249858677
+706,home,btu,10,0.5652911249293386
+707,home,capacity,1,0.0565291124929338
+708,home,traverse quantity,1,0.0565291124929338
+709,home,traverse type,1,0.0565291124929338
+710,home,tub material,3,0.1695873374788016
+711,home,tube dimensions,2,0.1130582249858677
+712,home,tube spacing,2,0.1130582249858677
+713,home,product_type,27,1.5262860373092142
+714,home,product_type,27,1.5262860373092142
+715,home,retail_upc,3,0.1695873374788016
+716,home,retail_upc,4,0.2261164499717354
+717,home,undershelf adjustability,2,0.1130582249858677
+718,home,undershelf material,7,0.395703787450537
+719,home,urns trough dimensions,2,0.1130582249858677
+720,home,usage,1,0.0565291124929338
+721,home,usage type,1,0.0565291124929338
+722,home,valve control,1,0.0565291124929338
+723,home,vat capacity (lbs),1,0.0565291124929338
+724,home,voltage,8,0.4522328999434709
+725,home,voltage,1,0.0565291124929338
+726,home,wall & ceiling material,1,0.0565291124929338
+727,home,warranty,16,0.9044657998869418
+728,home,water usage,1,0.0565291124929338
+729,home,weight (crated),1,0.0565291124929338
+730,home,capacity,3,0.1695873374788016
+731,home,weight capacity per shelf,1,0.0565291124929338
+732,home,wheel dimensions,2,0.1130582249858677
+733,home,wheel features,1,0.0565291124929338
+734,home,wheel material,2,0.1130582249858677
+735,home,wheel material features,1,0.0565291124929338
+736,home,width,57,3.22215941209723
+737,home,width,1,0.0565291124929338
+738,home,width,1,0.0565291124929338
+739,home,width,1,0.0565291124929338
+740,jewelry,accent diamonds,1,0.1972386587771203
+741,jewelry,stones_type,1,0.1972386587771203
+742,jewelry,authentication,2,0.3944773175542406
+743,jewelry,authenticity,2,0.3944773175542406
+744,jewelry,authorized,17,3.353057199211045
+745,jewelry,authorized,11,2.1696252465483234
+746,jewelry,authorized,11,2.1696252465483234
+747,jewelry,authorized,2,0.3944773175542406
+748,jewelry,metal_type,1,0.1972386587771203
+749,jewelry,band features,1,0.1972386587771203
+750,jewelry,band setting,1,0.1972386587771203
+751,jewelry,band style,1,0.1972386587771203
+752,jewelry,band style code,1,0.1972386587771203
+753,jewelry,band type,1,0.1972386587771203
+754,jewelry,width,2,0.3944773175542406
+755,jewelry,width,1,0.1972386587771203
+756,jewelry,width,1,0.1972386587771203
+757,jewelry,brand,62,12.22879684418146
+758,jewelry,stone_shape,1,0.1972386587771203
+759,jewelry,collection,26,5.128205128205128
+760,jewelry,collection,1,0.1972386587771203
+761,jewelry,brand,1,0.1972386587771203
+762,jewelry,collection,1,0.1972386587771203
+763,jewelry,collection,1,0.1972386587771203
+764,jewelry,collection,6,1.183431952662722
+765,jewelry,comfort feature,7,1.3806706114398422
+766,jewelry,comfort fit,2,0.3944773175542406
+767,jewelry,contact_service,1,0.1972386587771203
+768,jewelry,contact_service,3,0.591715976331361
+769,jewelry,contact_service,1,0.1972386587771203
+770,jewelry,contact_service,1,0.1972386587771203
+771,jewelry,customization availability,1,0.1972386587771203
+772,jewelry,cut,1,0.1972386587771203
+773,jewelry,product_location,4,0.7889546351084813
+774,jewelry,design,2,0.3944773175542406
+775,jewelry,design features,3,0.591715976331361
+776,jewelry,diamond cut,3,0.591715976331361
+777,jewelry,distributor,1,0.1972386587771203
+778,jewelry,product_location,2,0.3944773175542406
+779,jewelry,edge type,2,0.3944773175542406
+780,jewelry,finish,2,0.3944773175542406
+781,jewelry,fit style,1,0.1972386587771203
+782,jewelry,fit type,6,1.183431952662722
+783,jewelry,stones_type,1,0.1972386587771203
+784,jewelry,gender,26,5.128205128205128
+785,jewelry,gold color (available),1,0.1972386587771203
+786,jewelry,gold color options,3,0.591715976331361
+787,jewelry,gold karat (available in),1,0.1972386587771203
+788,jewelry,gold purity (where applicable),1,0.1972386587771203
+789,jewelry,product_location,2,0.3944773175542406
+790,jewelry,product_location,1,0.1972386587771203
+791,jewelry,product_location,5,0.9861932938856016
+792,jewelry,matching product,1,0.1972386587771203
+793,jewelry,material,50,9.861932938856016
+794,jewelry,metal color,2,0.3944773175542406
+795,jewelry,metal_type,13,2.564102564102564
+796,jewelry,metal_type,1,0.1972386587771203
+797,jewelry,model_number,27,5.325443786982249
+798,jewelry,model_number,2,0.3944773175542406
+799,jewelry,necklace type,1,0.1972386587771203
+800,jewelry,origin/style,1,0.1972386587771203
+801,jewelry,metal_type,1,0.1972386587771203
+802,jewelry,product category,3,0.591715976331361
+803,jewelry,product code,16,3.155818540433925
+804,jewelry,product codes,1,0.1972386587771203
+805,jewelry,product id,1,0.1972386587771203
+806,jewelry,product line,1,0.1972386587771203
+807,jewelry,product line/style,1,0.1972386587771203
+808,jewelry,product_type,33,6.508875739644971
+809,jewelry,product_type,33,6.508875739644971
+810,jewelry,retailer,30,5.9171597633136095
+811,jewelry,retailer establishment year,1,0.1972386587771203
+812,jewelry,retailer founding year,2,0.3944773175542406
+813,jewelry,product_location,6,1.183431952662722
+814,jewelry,product_location,6,1.183431952662722
+815,jewelry,ring_style,3,0.591715976331361
+816,jewelry,ring_style,3,0.591715976331361
+817,jewelry,model_number,1,0.1972386587771203
+818,jewelry,seller,14,2.7613412228796843
+819,jewelry,seller establishment year,2,0.3944773175542406
+820,jewelry,seller/jeweler,1,0.1972386587771203
+821,jewelry,stones_setting,1,0.1972386587771203
+822,jewelry,stones_setting,3,0.591715976331361
+823,jewelry,stones_setting,1,0.1972386587771203
+824,jewelry,specific material (as shown),1,0.1972386587771203
+825,jewelry,stones_type,15,2.9585798816568047
+826,jewelry,stone_shape,1,0.1972386587771203
+827,jewelry,style,30,5.9171597633136095
+828,jewelry,gender,1,0.1972386587771203
+829,jewelry,product_type,6,1.183431952662722
+830,jewelry,width,4,0.7889546351084813
+831,jewelry,width,1,0.1972386587771203
+832,office,360° swivel,1,0.0795544948289578
+833,office,acceptable settings,1,0.0795544948289578
+834,office,acid-free,1,0.0795544948289578
+835,office,additional features,7,0.5568814638027049
+836,office,additional storage,1,0.0795544948289578
+837,office,adhesive technology,1,0.0795544948289578
+838,office,adhesive type,4,0.3182179793158313
+839,office,adjustment mechanism,1,0.0795544948289578
+840,office,adjustment type,1,0.0795544948289578
+841,office,alternate identifiers,1,0.0795544948289578
+842,office,alternate item #,11,0.8750994431185362
+843,office,alternate item #s,1,0.0795544948289578
+844,office,alternate item numbers,15,1.1933174224343674
+845,office,alternate model number,1,0.0795544948289578
+846,office,alternative compatibility code,6,0.477326968973747
+847,office,approximate band count per pack,1,0.0795544948289578
+848,office,assembly information,1,0.0795544948289578
+849,office,authenticity,8,0.6364359586316627
+850,office,back side finish,1,0.0795544948289578
+851,office,backing,1,0.0795544948289578
+852,office,barrel color,1,0.0795544948289578
+853,office,base dimensions,1,0.0795544948289578
+854,office,material,2,0.1591089896579156
+855,office,base material durability,2,0.1591089896579156
+856,office,base material warping resistance,2,0.1591089896579156
+857,office,base protection,1,0.0795544948289578
+858,office,base stability features,1,0.0795544948289578
+859,office,base thickness,1,0.0795544948289578
+860,office,product_type,3,0.2386634844868735
+861,office,beam color,1,0.0795544948289578
+862,office,binder compatibility,1,0.0795544948289578
+863,office,binder size compatibility,1,0.0795544948289578
+864,office,binding,1,0.0795544948289578
+865,office,binding type,8,0.6364359586316627
+866,office,binding/punching,1,0.0795544948289578
+867,office,blade lock mechanism,1,0.0795544948289578
+868,office,blade material,4,0.3182179793158313
+869,office,blade type,3,0.2386634844868735
+870,office,boxes per carton,1,0.0795544948289578
+871,office,brand,91,7.239459029435164
+872,office,brand,91,7.239459029435164
+873,office,brightness,2,0.1591089896579156
+874,office,calendar term,1,0.0795544948289578
+875,office,calendar year,1,0.0795544948289578
+876,office,capacity,9,0.7159904534606205
+877,office,capacity,9,0.7159904534606205
+878,office,capacity,1,0.0795544948289578
+879,office,card capacity,5,0.3977724741447892
+880,office,card size,4,0.3182179793158313
+881,office,card type,2,0.1591089896579156
+882,office,cartridge color,3,0.2386634844868735
+883,office,cartridge part number,1,0.0795544948289578
+884,office,cartridge type,9,0.7159904534606205
+885,office,category,1,0.0795544948289578
+886,office,cavity size,1,0.0795544948289578
+887,office,certification,1,0.0795544948289578
+888,office,certifications,1,0.0795544948289578
+889,office,class,1,0.0795544948289578
+890,office,cleaning method,1,0.0795544948289578
+891,office,clip type,2,0.1591089896579156
+892,office,closure,8,0.6364359586316627
+893,office,color,102,8.1145584725537
+894,office,color/finish,1,0.0795544948289578
+895,office,material,2,0.1591089896579156
+896,office,colors,2,0.1591089896579156
+897,office,compatibility,35,2.7844073190135243
+898,office,compatibility brand,2,0.1591089896579156
+899,office,compatible page size,2,0.1591089896579156
+900,office,compatible printer models,1,0.0795544948289578
+901,office,compatible printer series,1,0.0795544948289578
+902,office,compatible printers,1,0.0795544948289578
+903,office,compatible roll counts,1,0.0795544948289578
+904,office,compatible roll/label types,1,0.0795544948289578
+905,office,compatible with,1,0.0795544948289578
+906,office,components included,1,0.0795544948289578
+907,office,connection type,2,0.1591089896579156
+908,office,construction material,1,0.0795544948289578
+909,office,content sheet included,1,0.0795544948289578
+910,office,cord type,1,0.0795544948289578
+911,office,core size,2,0.1591089896579156
+912,office,corner feature,1,0.0795544948289578
+913,office,corner material/feature,1,0.0795544948289578
+914,office,country of origin,2,0.1591089896579156
+915,office,cover features,1,0.0795544948289578
+916,office,cover material,7,0.5568814638027049
+917,office,cover type,1,0.0795544948289578
+918,office,covering material,1,0.0795544948289578
+919,office,cushioning type,1,0.0795544948289578
+920,office,customization,1,0.0795544948289578
+921,office,customization tool,1,0.0795544948289578
+922,office,cut position,1,0.0795544948289578
+923,office,cutting capacity,1,0.0795544948289578
+924,office,cutting capacity (sheets at once),1,0.0795544948289578
+925,office,cutting length,1,0.0795544948289578
+926,office,depth,1,0.0795544948289578
+927,office,design,1,0.0795544948289578
+928,office,design feature,1,0.0795544948289578
+929,office,design features,1,0.0795544948289578
+930,office,desk protection,1,0.0795544948289578
+931,office,device compatibility,1,0.0795544948289578
+932,office,device type,2,0.1591089896579156
+933,office,device types compatible,1,0.0795544948289578
+934,office,diameter,1,0.0795544948289578
+935,office,dimensions,12,0.954653937947494
+936,office,dimensions (w x d x h),1,0.0795544948289578
+937,office,dimensions unit,1,0.0795544948289578
+938,office,dispenser dimensions,1,0.0795544948289578
+939,office,dispenser type,1,0.0795544948289578
+940,office,divider per drawer,1,0.0795544948289578
+941,office,document size compatibility,1,0.0795544948289578
+942,office,drawer construction,1,0.0795544948289578
+943,office,drawer count,2,0.1591089896579156
+944,office,durability,2,0.1591089896579156
+945,office,durability features,3,0.2386634844868735
+946,office,eco-friendliness,1,0.0795544948289578
+947,office,eco-friendly content,1,0.0795544948289578
+948,office,edge protection,1,0.0795544948289578
+949,office,edge type,1,0.0795544948289578
+950,office,edition year,1,0.0795544948289578
+951,office,envelope style,1,0.0795544948289578
+952,office,ergonomic feature,1,0.0795544948289578
+953,office,extension length,1,0.0795544948289578
+954,office,feature,1,0.0795544948289578
+955,office,features,3,0.2386634844868735
+956,office,feet type,1,0.0795544948289578
+957,office,filing capacity per drawer depth,1,0.0795544948289578
+958,office,finish,2,0.1591089896579156
+959,office,flap type,2,0.1591089896579156
+960,office,folder type,1,0.0795544948289578
+961,office,follower blocks per drawer,1,0.0795544948289578
+962,office,format,2,0.1591089896579156
+963,office,frame color,1,0.0795544948289578
+964,office,frame material,3,0.2386634844868735
+965,office,genuine part number,1,0.0795544948289578
+966,office,genuineness,3,0.2386634844868735
+967,office,ghosting resistance,1,0.0795544948289578
+968,office,global product type,1,0.0795544948289578
+969,office,grid measurement,1,0.0795544948289578
+970,office,grid pattern,1,0.0795544948289578
+971,office,grip material,2,0.1591089896579156
+972,office,grip type,2,0.1591089896579156
+973,office,handle material,1,0.0795544948289578
+974,office,handle type,1,0.0795544948289578
+975,office,height,4,0.3182179793158313
+976,office,holder features,1,0.0795544948289578
+977,office,holder material,2,0.1591089896579156
+978,office,holder size,1,0.0795544948289578
+979,office,holder size (inch),1,0.0795544948289578
+980,office,holder type,2,0.1591089896579156
+981,office,hole diameter,1,0.0795544948289578
+982,office,hole punched,10,0.7955449482895784
+983,office,ideal environments,1,0.0795544948289578
+984,office,imaging device type,1,0.0795544948289578
+985,office,impression durability,1,0.0795544948289578
+986,office,included accessories,3,0.2386634844868735
+987,office,included roll count,1,0.0795544948289578
+988,office,includes,1,0.0795544948289578
+989,office,index guides,1,0.0795544948289578
+990,office,index type,2,0.1591089896579156
+991,office,indexing system,1,0.0795544948289578
+992,office,ink color,6,0.477326968973747
+993,office,ink color(s),1,0.0795544948289578
+994,office,ink flow system,1,0.0795544948289578
+995,office,ink properties,2,0.1591089896579156
+996,office,ink surface,1,0.0795544948289578
+997,office,ink system,1,0.0795544948289578
+998,office,ink type,6,0.477326968973747
+999,office,ink visibility,1,0.0795544948289578
+1000,office,inner packaging quantity,4,0.3182179793158313
+1001,office,insert sheet size,1,0.0795544948289578
+1002,office,insert size,1,0.0795544948289578
+1003,office,installation characteristic,1,0.0795544948289578
+1004,office,intended use,1,0.0795544948289578
+1005,office,internal organization,2,0.1591089896579156
+1006,office,item #:,1,0.0795544948289578
+1007,office,key benefit,1,0.0795544948289578
+1008,office,key features,4,0.3182179793158313
+1009,office,keyboard tray dimensions,1,0.0795544948289578
+1010,office,laser class,1,0.0795544948289578
+1011,office,layout,1,0.0795544948289578
+1012,office,layout style,1,0.0795544948289578
+1013,office,length,1,0.0795544948289578
+1014,office,lid type,1,0.0795544948289578
+1015,office,lignin-free,1,0.0795544948289578
+1016,office,line characteristics,1,0.0795544948289578
+1017,office,line style,1,0.0795544948289578
+1018,office,load type,1,0.0795544948289578
+1019,office,loading type,1,0.0795544948289578
+1020,office,magnetic,1,0.0795544948289578
+1021,office,manufacturer,6,0.477326968973747
+1022,office,manufacturing country,1,0.0795544948289578
+1023,office,manufacturing location,1,0.0795544948289578
+1024,office,manufacturing standards,1,0.0795544948289578
+1025,office,margin rule color,1,0.0795544948289578
+1026,office,material,33,2.6252983293556085
+1027,office,material,33,2.6252983293556085
+1028,office,material,3,0.2386634844868735
+1029,office,material,1,0.0795544948289578
+1030,office,material,1,0.0795544948289578
+1031,office,material composition,1,0.0795544948289578
+1032,office,material reinforcement,1,0.0795544948289578
+1033,office,maximum label/sticker width,1,0.0795544948289578
+1034,office,maximum roll/label width,1,0.0795544948289578
+1035,office,maximum sheets cut,1,0.0795544948289578
+1036,office,maximum sheets cut at once,1,0.0795544948289578
+1037,office,mechanical aid,2,0.1591089896579156
+1038,office,mechanism,1,0.0795544948289578
+1039,office,message,1,0.0795544948289578
+1040,office,model,1,0.0795544948289578
+1041,office,model compatibility,6,0.477326968973747
+1042,office,model number,18,1.431980906921241
+1043,office,mounting options,1,0.0795544948289578
+1044,office,mounting track length,2,0.1591089896579156
+1045,office,mounting track material,2,0.1591089896579156
+1046,office,mouse compatibility,1,0.0795544948289578
+1047,office,mouse pad compatibility,1,0.0795544948289578
+1048,office,mouse pad tracking control,1,0.0795544948289578
+1049,office,navigation features,1,0.0795544948289578
+1050,office,notch type,1,0.0795544948289578
+1051,office,number of compatible printers,1,0.0795544948289578
+1052,office,number of guides,1,0.0795544948289578
+1053,office,number of holes,2,0.1591089896579156
+1054,office,number of pads per carton,1,0.0795544948289578
+1055,office,number of sets,1,0.0795544948289578
+1056,office,number of sheets,10,0.7955449482895784
+1057,office,number of sheets per pad,3,0.2386634844868735
+1058,office,number of subjects,1,0.0795544948289578
+1059,office,number of tabs,1,0.0795544948289578
+1060,office,oem compatibility brand,1,0.0795544948289578
+1061,office,oem status,2,0.1591089896579156
+1062,office,occasion,1,0.0795544948289578
+1063,office,operating method,1,0.0795544948289578
+1064,office,orientation,1,0.0795544948289578
+1065,office,pack_quantity,9,0.7159904534606205
+1066,office,pack weight,1,0.0795544948289578
+1067,office,pack_quantity,3,0.2386634844868735
+1068,office,pad type,4,0.3182179793158313
+1069,office,page color/theme,1,0.0795544948289578
+1070,office,page size,1,0.0795544948289578
+1071,office,page_yield,21,1.6706443914081146
+1072,office,page_yield,21,1.6706443914081146
+1073,office,pages per week,1,0.0795544948289578
+1074,office,paper brightness,3,0.2386634844868735
+1075,office,paper capacity,1,0.0795544948289578
+1076,office,paper color,4,0.3182179793158313
+1077,office,paper content,1,0.0795544948289578
+1078,office,paper quality,2,0.1591089896579156
+1079,office,paper type,4,0.3182179793158313
+1080,office,paper_weight,2,0.1591089896579156
+1081,office,paper_weight,2,0.1591089896579156
+1082,office,paper_weight,1,0.0795544948289578
+1083,office,part number,12,0.954653937947494
+1084,office,pen type,1,0.0795544948289578
+1085,office,pocket count per divider,1,0.0795544948289578
+1086,office,pocket features,1,0.0795544948289578
+1087,office,point size,2,0.1591089896579156
+1088,office,point type,2,0.1591089896579156
+1089,office,print color,3,0.2386634844868735
+1090,office,print compatibility,3,0.2386634844868735
+1091,office,print quality,1,0.0795544948289578
+1092,office,print quality description,1,0.0795544948289578
+1093,office,printer compatibility,2,0.1591089896579156
+1094,office,printer technology,1,0.0795544948289578
+1095,office,printing compatibility,2,0.1591089896579156
+1096,office,product category,3,0.2386634844868735
+1097,office,product code,52,4.136833731105807
+1098,office,product codes,1,0.0795544948289578
+1099,office,product id,1,0.0795544948289578
+1100,office,product line,11,0.8750994431185362
+1101,office,product line code,3,0.2386634844868735
+1102,office,product series,1,0.0795544948289578
+1103,office,product status,1,0.0795544948289578
+1104,office,product style,1,0.0795544948289578
+1105,office,product_type,30,2.386634844868735
+1106,office,product_type,30,2.386634844868735
+1107,office,product weight,1,0.0795544948289578
+1108,office,program type,1,0.0795544948289578
+1109,office,projection distance,2,0.1591089896579156
+1110,office,quality,2,0.1591089896579156
+1111,office,quality standard,1,0.0795544948289578
+1112,office,quality standards,1,0.0795544948289578
+1113,office,quality type,1,0.0795544948289578
+1114,office,quantity,1,0.0795544948289578
+1115,office,pack_quantity,2,0.1591089896579156
+1116,office,quantity per set,1,0.0795544948289578
+1117,office,quantity per box,6,0.477326968973747
+1118,office,quantity per carton,8,0.6364359586316627
+1119,office,pack_quantity,8,0.6364359586316627
+1120,office,pack_quantity,1,0.0795544948289578
+1121,office,quantity per ream,1,0.0795544948289578
+1122,office,quantity per set,3,0.2386634844868735
+1123,office,quantity per unit,3,0.2386634844868735
+1124,office,reams per carton,1,0.0795544948289578
+1125,office,recycled content,1,0.0795544948289578
+1126,office,refill benefits,1,0.0795544948289578
+1127,office,refill compatible,1,0.0795544948289578
+1128,office,refill option,1,0.0795544948289578
+1129,office,refill pages,1,0.0795544948289578
+1130,office,refill type,1,0.0795544948289578
+1131,office,refillability,3,0.2386634844868735
+1132,office,reinforcement,1,0.0795544948289578
+1133,office,related products,1,0.0795544948289578
+1134,office,retraction mechanism,1,0.0795544948289578
+1135,office,return program,2,0.1591089896579156
+1136,office,rubber band length,1,0.0795544948289578
+1137,office,rubber band size,1,0.0795544948289578
+1138,office,rubber band thickness,1,0.0795544948289578
+1139,office,rule type,1,0.0795544948289578
+1140,office,ruler scales,1,0.0795544948289578
+1141,office,ruling,8,0.6364359586316627
+1142,office,"ruling orientation (for 24""x16"")",1,0.0795544948289578
+1143,office,ruling sides,1,0.0795544948289578
+1144,office,ruling style,3,0.2386634844868735
+1145,office,ruling type,7,0.5568814638027049
+1146,office,safety feature,3,0.2386634844868735
+1147,office,safety features,2,0.1591089896579156
+1148,office,seam type,1,0.0795544948289578
+1149,office,seam width,1,0.0795544948289578
+1150,office,security feature,4,0.3182179793158313
+1151,office,security features,3,0.2386634844868735
+1152,office,self-sharpening,1,0.0795544948289578
+1153,office,seller,4,0.3182179793158313
+1154,office,seller/website,1,0.0795544948289578
+1155,office,series,1,0.0795544948289578
+1156,office,setup requirement,1,0.0795544948289578
+1157,office,sheet capacity,2,0.1591089896579156
+1158,office,sheet capacity per divider,1,0.0795544948289578
+1159,office,sheet capacity per pocket,2,0.1591089896579156
+1160,office,sheet color,3,0.2386634844868735
+1161,office,sheet count,4,0.3182179793158313
+1162,office,sheet count (per unit),3,0.2386634844868735
+1163,office,sheet count per pack,1,0.0795544948289578
+1164,office,sheet features,2,0.1591089896579156
+1165,office,sheet quantity per pad,1,0.0795544948289578
+1166,office,sheet size,10,0.7955449482895784
+1167,office,sheet size compatibility,1,0.0795544948289578
+1168,office,sheets per unit,1,0.0795544948289578
+1169,office,sheets per inner packaging,1,0.0795544948289578
+1170,office,sheets per pad,1,0.0795544948289578
+1171,office,shipping,1,0.0795544948289578
+1172,office,shipping carrier,1,0.0795544948289578
+1173,office,shipping weight,1,0.0795544948289578
+1174,office,sidedness,1,0.0795544948289578
+1175,office,sides closed,1,0.0795544948289578
+1176,office,size,38,3.023070803500398
+1177,office,size (detached),1,0.0795544948289578
+1178,office,size (inches),1,0.0795544948289578
+1179,office,size (number),1,0.0795544948289578
+1180,office,size (specific to this product),1,0.0795544948289578
+1181,office,size (inches),5,0.3977724741447892
+1182,office,size compatibility,1,0.0795544948289578
+1183,office,slide type,1,0.0795544948289578
+1184,office,software availability,1,0.0795544948289578
+1185,office,sold as,1,0.0795544948289578
+1186,office,source,1,0.0795544948289578
+1187,office,special feature,1,0.0795544948289578
+1188,office,special feature 1,1,0.0795544948289578
+1189,office,special feature 2,1,0.0795544948289578
+1190,office,special features,14,1.1137629276054095
+1191,office,special recognition,1,0.0795544948289578
+1192,office,special section(s),1,0.0795544948289578
+1193,office,specific product type,1,0.0795544948289578
+1194,office,stackability,1,0.0795544948289578
+1195,office,staining resistance,1,0.0795544948289578
+1196,office,stamp count per roll,1,0.0795544948289578
+1197,office,stamp type,1,0.0795544948289578
+1198,office,standards compliance,2,0.1591089896579156
+1199,office,style,1,0.0795544948289578
+1200,office,style compatibility,1,0.0795544948289578
+1201,office,sub-category,1,0.0795544948289578
+1202,office,suitable for,1,0.0795544948289578
+1203,office,suitable surfaces,1,0.0795544948289578
+1204,office,suitable venues,1,0.0795544948289578
+1205,office,supplier,3,0.2386634844868735
+1206,office,supply type,2,0.1591089896579156
+1207,office,supported card sizes,2,0.1591089896579156
+1208,office,surface characteristics,1,0.0795544948289578
+1209,office,surface colors,1,0.0795544948289578
+1210,office,surface material,1,0.0795544948289578
+1211,office,surface type,4,0.3182179793158313
+1212,office,sustainability,1,0.0795544948289578
+1213,office,sustainability certification,1,0.0795544948289578
+1214,office,sustainability feature,1,0.0795544948289578
+1215,office,tab color,1,0.0795544948289578
+1216,office,tab count,1,0.0795544948289578
+1217,office,tab features,1,0.0795544948289578
+1218,office,tab reinforcement,1,0.0795544948289578
+1219,office,tab title,1,0.0795544948289578
+1220,office,tab titles,1,0.0795544948289578
+1221,office,tab type,1,0.0795544948289578
+1222,office,tape length,1,0.0795544948289578
+1223,office,tape size,1,0.0795544948289578
+1224,office,tape type,1,0.0795544948289578
+1225,office,tape width,1,0.0795544948289578
+1226,office,technology,1,0.0795544948289578
+1227,office,technology features,1,0.0795544948289578
+1228,office,templates availability,1,0.0795544948289578
+1229,office,thickness,2,0.1591089896579156
+1230,office,thickness (stock),1,0.0795544948289578
+1231,office,tilt adjustment type,1,0.0795544948289578
+1232,office,time interval,1,0.0795544948289578
+1233,office,tip size,2,0.1591089896579156
+1234,office,tip type,2,0.1591089896579156
+1235,office,toner cartridge model,1,0.0795544948289578
+1236,office,transparency,1,0.0795544948289578
+1237,office,tray dimensions,1,0.0795544948289578
+1238,office,tray material,1,0.0795544948289578
+1239,office,product_type,6,0.477326968973747
+1240,office,product_type,6,0.477326968973747
+1241,office,retail_upc,34,2.704852824184566
+1242,office,retail_upc,34,2.704852824184566
+1243,office,usage,2,0.1591089896579156
+1244,office,warranty,1,0.0795544948289578
+1245,office,warranty (compatible/remanufactured),2,0.1591089896579156
+1246,office,warranty (genuine oem),1,0.0795544948289578
+1247,office,warranty (non-oem),1,0.0795544948289578
+1248,office,warranty (oem),1,0.0795544948289578
+1249,office,weight,6,0.477326968973747
+1250,office,weight (paper stock),1,0.0795544948289578
+1251,office,weight (lb),1,0.0795544948289578
+1252,office,weight (lbs),1,0.0795544948289578
+1253,office,capacity,1,0.0795544948289578
+1254,office,weight characteristic,1,0.0795544948289578
+1255,office,weight description,1,0.0795544948289578
+1256,office,width,4,0.3182179793158313
+1257,office,wrist rest,1,0.0795544948289578
+1258,office,wrist rest benefit,1,0.0795544948289578
+1259,office,wrist rest feature,1,0.0795544948289578
+1260,office,wrist rest mechanism,1,0.0795544948289578
+1261,office,wrist support material,2,0.1591089896579156
+1262,office,write compatibility,1,0.0795544948289578
+1263,office,writing experience,2,0.1591089896579156
+1264,office,writing feel,1,0.0795544948289578
+1265,office,writing system,1,0.0795544948289578
+1266,office,year,1,0.0795544948289578
+1267,office,yield,6,0.477326968973747
+1268,office,yield type,3,0.2386634844868735
